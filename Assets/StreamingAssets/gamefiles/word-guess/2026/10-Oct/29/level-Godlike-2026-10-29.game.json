@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-29",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "administrators",
+      "scramble": "ATIOTASNIRSDRM",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "administration",
+      "scramble": "INMOTDITIAASRN",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "substantially",
+      "scramble": "LLTSBINAAYTUS",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "compatibility",
+      "scramble": "CMIIOBTITLYPA",
+      "hint": {
+        "index": 9,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "administrator",
+      "scramble": "TMOIDITANRARS",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "distinguished",
+      "scramble": "USHSGIINIDDET",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "practitioners",
+      "scramble": "IPTSAOCEINRRT",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "advertisements",
+      "scramble": "TMSNDTAESREIEV",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "cardiovascular",
+      "scramble": "ARDRIUSCALOCAV",
+      "hint": {
+        "index": 12,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "instrumentation",
+      "scramble": "ITRMIUNTNNOTEAS",
+      "hint": {
+        "index": 11,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-06-22",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "large",
+      "scramble": "LERGA",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "wire",
+      "scramble": "RIEW",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "silk",
+      "scramble": "KISL",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "andy",
+      "scramble": "NYDA",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "duke",
+      "scramble": "EUDK",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "brazil",
+      "scramble": "IRBZAL",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "haiti",
+      "scramble": "IAITH",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "served",
+      "scramble": "EERSVD",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "fate",
+      "scramble": "FTEA",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "sprint",
+      "scramble": "NSTIRP",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

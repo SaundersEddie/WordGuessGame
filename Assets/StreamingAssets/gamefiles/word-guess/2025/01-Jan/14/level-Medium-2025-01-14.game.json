@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-14",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "algeria",
+      "scramble": "ARGEILA",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "classics",
+      "scramble": "CLSACSSI",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "reverse",
+      "scramble": "ERVEESR",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "admission",
+      "scramble": "DSIOIAMSN",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "chemistry",
+      "scramble": "MCERYSHIT",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "obviously",
+      "scramble": "OVULIOYSB",
+      "hint": {
+        "index": 0,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "sustained",
+      "scramble": "ITASUENSD",
+      "hint": {
+        "index": 8,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "cooking",
+      "scramble": "NKCOIOG",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "shadows",
+      "scramble": "WHDAOSS",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "defects",
+      "scramble": "CDFTEES",
+      "hint": {
+        "index": 2,
+        "letter": "f"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

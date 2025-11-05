@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-29",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "bibliography",
+      "scramble": "IYPIROBLGBHA",
+      "hint": {
+        "index": 10,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "nominations",
+      "scramble": "TNNOIIMAONS",
+      "hint": {
+        "index": 10,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "composition",
+      "scramble": "TOCPIISMONO",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "projectors",
+      "scramble": "JCORPRTSOE",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "referenced",
+      "scramble": "ECEFNERRED",
+      "hint": {
+        "index": 9,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "adjustments",
+      "scramble": "ASUTMJNSEDT",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "prospective",
+      "scramble": "OIETVECRPSP",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "enterprises",
+      "scramble": "ESRRNEEISPT",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "applicable",
+      "scramble": "BCPAALPILE",
+      "hint": {
+        "index": 9,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "measurement",
+      "scramble": "MAEETUNRESM",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

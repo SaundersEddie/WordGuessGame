@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-19",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "moved",
+      "scramble": "OMVED",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "kenny",
+      "scramble": "ENNKY",
+      "hint": {
+        "index": 4,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "users",
+      "scramble": "SSERU",
+      "hint": {
+        "index": 1,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "norman",
+      "scramble": "AORNMN",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "moves",
+      "scramble": "SMOEV",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "mixed",
+      "scramble": "EIXDM",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "tank",
+      "scramble": "NATK",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "bolt",
+      "scramble": "BLTO",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "ride",
+      "scramble": "IEDR",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "thongs",
+      "scramble": "TNGSOH",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

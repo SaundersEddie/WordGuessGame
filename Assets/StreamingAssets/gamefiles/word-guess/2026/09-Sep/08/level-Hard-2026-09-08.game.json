@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-08",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "functioning",
+      "scramble": "NCIOTUFINNG",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "negotiation",
+      "scramble": "NOGTNETIIAO",
+      "hint": {
+        "index": 2,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "measurements",
+      "scramble": "RNAUESETEMSM",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "initiative",
+      "scramble": "AINIEVTTII",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "manufacturer",
+      "scramble": "ERNUFMUCARTA",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "exhibitions",
+      "scramble": "HIINSOTEXBI",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "statistics",
+      "scramble": "ICSTISTATS",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "newsletter",
+      "scramble": "TSWTLNREEE",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "eventually",
+      "scramble": "TELEVNUALY",
+      "hint": {
+        "index": 9,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "department",
+      "scramble": "PNMERADTET",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

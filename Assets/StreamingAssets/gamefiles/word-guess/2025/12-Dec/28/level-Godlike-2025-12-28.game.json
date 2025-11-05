@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-28",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "administrators",
+      "scramble": "RDSOSNMIAITTRA",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "identification",
+      "scramble": "IINATCFEIDOTNI",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "starsmerchant",
+      "scramble": "CTSNETAASHMRR",
+      "hint": {
+        "index": 1,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "characterization",
+      "scramble": "HAZITCACEARRNIOT",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "representative",
+      "scramble": "RESANRTPVETEEI",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "independently",
+      "scramble": "IEDNPNEDNLYET",
+      "hint": {
+        "index": 4,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "institutional",
+      "scramble": "UATNTOITLINIS",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "computational",
+      "scramble": "LAOOTCITAMPUN",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "entertainment",
+      "scramble": "TNEENTTRAIMEN",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "notifications",
+      "scramble": "IFINTOIATCONS",
+      "hint": {
+        "index": 12,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-05-22",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "introducing",
+      "scramble": "IDUONTICRGN",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "submission",
+      "scramble": "BUSIISSOMN",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "documented",
+      "scramble": "DDNMCOUTEE",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "applicants",
+      "scramble": "STPPLNIACA",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "restaurant",
+      "scramble": "SRRUANAETT",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "accomplish",
+      "scramble": "OCSILPMAHC",
+      "hint": {
+        "index": 5,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "coordinate",
+      "scramble": "CDRNIOOATE",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "legitimate",
+      "scramble": "LAIGTMETIE",
+      "hint": {
+        "index": 0,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "procedures",
+      "scramble": "EUOSDRPECR",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "housewares",
+      "scramble": "UOWERHSESA",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

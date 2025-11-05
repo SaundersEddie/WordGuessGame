@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-06",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "rotation",
+      "scramble": "NOARTIOT",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "amplifier",
+      "scramble": "IMEPARIFL",
+      "hint": {
+        "index": 1,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "cartoons",
+      "scramble": "CASTROON",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "prostores",
+      "scramble": "POTRSRSEO",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "aspects",
+      "scramble": "SESCATP",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "processed",
+      "scramble": "EREPSSCDO",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "because",
+      "scramble": "BSAECUE",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "incoming",
+      "scramble": "IICNMNGO",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "turning",
+      "scramble": "GNIRTNU",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "hurricane",
+      "scramble": "AURHCIERN",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

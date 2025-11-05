@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-12",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "beastiality",
+      "scramble": "EASITIATLBY",
+      "hint": {
+        "index": 10,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "excellence",
+      "scramble": "NXEECCELEL",
+      "hint": {
+        "index": 1,
+        "letter": "x"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "dimensions",
+      "scramble": "SNOMISEDIN",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "appropriate",
+      "scramble": "PPEPTRROAIA",
+      "hint": {
+        "index": 1,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "conditional",
+      "scramble": "CONTOIDINAL",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "regression",
+      "scramble": "EOISRNSGRE",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "phenomenon",
+      "scramble": "NHPNEOMENO",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "transferred",
+      "scramble": "ERRNRDTSFEA",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "functional",
+      "scramble": "NCAIONFTUL",
+      "hint": {
+        "index": 9,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "increasingly",
+      "scramble": "ICRYNAIGSELN",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

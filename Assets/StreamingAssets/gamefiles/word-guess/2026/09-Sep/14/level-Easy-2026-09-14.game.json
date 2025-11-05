@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-14",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "farmer",
+      "scramble": "MRRFEA",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "plans",
+      "scramble": "SLNAP",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "beside",
+      "scramble": "EDEIBS",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "pixels",
+      "scramble": "PSLEXI",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "combat",
+      "scramble": "AOCBMT",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "soul",
+      "scramble": "UOLS",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "crude",
+      "scramble": "CURDE",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "karma",
+      "scramble": "KMRAA",
+      "hint": {
+        "index": 0,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "voyuer",
+      "scramble": "VOUYRE",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "belkin",
+      "scramble": "EKBLIN",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

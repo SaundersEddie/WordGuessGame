@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-11-27",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "separation",
+      "scramble": "NEAATRSIPO",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "publication",
+      "scramble": "IUPCAIOBLTN",
+      "hint": {
+        "index": 10,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "architecture",
+      "scramble": "THCUTEIRRACE",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "aggressive",
+      "scramble": "SEGEVGSIRA",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "cancellation",
+      "scramble": "NENOTLCAIALC",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "graduation",
+      "scramble": "ORUANATGDI",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "polyphonic",
+      "scramble": "POCYNIPLOH",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "paragraphs",
+      "scramble": "ASPGHRAPAR",
+      "hint": {
+        "index": 7,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "volunteers",
+      "scramble": "NOSTRULVEE",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "applications",
+      "scramble": "ONPAITLAISCP",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

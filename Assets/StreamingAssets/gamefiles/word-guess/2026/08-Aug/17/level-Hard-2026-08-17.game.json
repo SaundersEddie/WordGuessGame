@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-17",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "administered",
+      "scramble": "REAINDMIDSTE",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "technology",
+      "scramble": "YGCLNTOEHO",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "transexual",
+      "scramble": "TAENRULSXA",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "orientation",
+      "scramble": "NTTAIEROION",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "representing",
+      "scramble": "RENGETESRNPI",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "competitions",
+      "scramble": "SMNIETCTOPIO",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "challenges",
+      "scramble": "SHLNACEGEL",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "collections",
+      "scramble": "SOCTEOLICNL",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "nationally",
+      "scramble": "NNLTAAIYLO",
+      "hint": {
+        "index": 0,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "currencies",
+      "scramble": "CSNICREUER",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

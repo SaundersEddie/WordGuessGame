@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-08-19",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "drawings",
+      "scramble": "ANIWSGRD",
+      "hint": {
+        "index": 3,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "puzzles",
+      "scramble": "PLZSZUE",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "younger",
+      "scramble": "RYNGUEO",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "tomatoes",
+      "scramble": "OMETSOTA",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "possible",
+      "scramble": "ILSEPOSB",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "changelog",
+      "scramble": "CGLANOEGH",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "endorsed",
+      "scramble": "ENSORDED",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "allowing",
+      "scramble": "NWGOLIAL",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "automatic",
+      "scramble": "TUAATOIMC",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "morning",
+      "scramble": "NGRMONI",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

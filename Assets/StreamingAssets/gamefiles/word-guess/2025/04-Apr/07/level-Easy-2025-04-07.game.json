@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-07",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "tits",
+      "scramble": "TTIS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "weblog",
+      "scramble": "LBOWEG",
+      "hint": {
+        "index": 5,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "benz",
+      "scramble": "EBNZ",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "shops",
+      "scramble": "HSOPS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "images",
+      "scramble": "SIGAEM",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "shark",
+      "scramble": "HKSRA",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "penn",
+      "scramble": "PNNE",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "ratios",
+      "scramble": "RTAIOS",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "notre",
+      "scramble": "ENTRO",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "wiring",
+      "scramble": "RIWNGI",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

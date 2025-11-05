@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-06-14",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "ellis",
+      "scramble": "LIELS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "intend",
+      "scramble": "TNNEDI",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "suits",
+      "scramble": "SUSIT",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "nickel",
+      "scramble": "ILCKEN",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "heel",
+      "scramble": "EELH",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "galaxy",
+      "scramble": "YAGALX",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "korean",
+      "scramble": "KOARNE",
+      "hint": {
+        "index": 0,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "thread",
+      "scramble": "TDAREH",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "peas",
+      "scramble": "SEPA",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "alumni",
+      "scramble": "NLAMIU",
+      "hint": {
+        "index": 3,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

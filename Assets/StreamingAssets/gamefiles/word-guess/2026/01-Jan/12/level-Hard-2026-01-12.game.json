@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-12",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "preservation",
+      "scramble": "RSEEVTIPARON",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "accounting",
+      "scramble": "ITCNOCNGUA",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "housewares",
+      "scramble": "ERAWESSOHU",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "signatures",
+      "scramble": "RAUNISGSET",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "conservation",
+      "scramble": "AROITCSVONEN",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "confidence",
+      "scramble": "DOCFCENNIE",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "customized",
+      "scramble": "CSUITEDZOM",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "assignment",
+      "scramble": "AGSIENNSMT",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "programming",
+      "scramble": "GNAPRIMMROG",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "terminology",
+      "scramble": "MOOLIGRTNYE",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

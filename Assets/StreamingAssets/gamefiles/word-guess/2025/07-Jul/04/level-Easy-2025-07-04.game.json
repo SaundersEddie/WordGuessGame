@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-07-04",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "rose",
+      "scramble": "ROES",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "poem",
+      "scramble": "OMEP",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "nepal",
+      "scramble": "ALPNE",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "powell",
+      "scramble": "POWLLE",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "knit",
+      "scramble": "NIKT",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "fraser",
+      "scramble": "FRASRE",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "india",
+      "scramble": "INADI",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "mailto",
+      "scramble": "AOILTM",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "nano",
+      "scramble": "OANN",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "while",
+      "scramble": "EIWLH",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-11-06",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "individuals",
+      "scramble": "UNVSIDDLAII",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "determining",
+      "scramble": "TEDRGMINNIE",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "encouraging",
+      "scramble": "CINGARONUGE",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "distributed",
+      "scramble": "EDSIDRTITUB",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "richardson",
+      "scramble": "CDNSRIHAOR",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "generators",
+      "scramble": "GRATRENEOS",
+      "hint": {
+        "index": 0,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "relaxation",
+      "scramble": "LENTAOAXIR",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "suggesting",
+      "scramble": "UTGSESGING",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "fragrances",
+      "scramble": "GSAFRENACR",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "represented",
+      "scramble": "REEENSERDTP",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

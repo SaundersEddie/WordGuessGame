@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-08-04",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "neighbors",
+      "scramble": "BOIGNRSHE",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "analyses",
+      "scramble": "YNESAALS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "brought",
+      "scramble": "GOHURBT",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "stylish",
+      "scramble": "STYHISL",
+      "hint": {
+        "index": 2,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "seniors",
+      "scramble": "ESNOISR",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "particles",
+      "scramble": "TPRCSIAEL",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "displayed",
+      "scramble": "LIEPDYSAD",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "economy",
+      "scramble": "OEYNCMO",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "general",
+      "scramble": "ENALREG",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "disclose",
+      "scramble": "ODICSLES",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

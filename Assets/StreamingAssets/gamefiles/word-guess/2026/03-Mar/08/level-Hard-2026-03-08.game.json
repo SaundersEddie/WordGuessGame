@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-08",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "copyrighted",
+      "scramble": "HYGECIPRTOD",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "resistance",
+      "scramble": "SIENETSCRA",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "substantial",
+      "scramble": "ASSUIALTNTB",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "republican",
+      "scramble": "IECUPALRNB",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "charleston",
+      "scramble": "CTSALNHOER",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "concentrate",
+      "scramble": "NTEATCOCRNE",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "complicated",
+      "scramble": "DCLPAOEICTM",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "management",
+      "scramble": "AMNEETMGNA",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "directions",
+      "scramble": "DROEICITSN",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "resolution",
+      "scramble": "SOOUITLERN",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

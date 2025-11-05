@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-08",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "better",
+      "scramble": "BRTEET",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "neil",
+      "scramble": "NIEL",
+      "hint": {
+        "index": 0,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "grows",
+      "scramble": "GOWSR",
+      "hint": {
+        "index": 0,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "humor",
+      "scramble": "HUORM",
+      "hint": {
+        "index": 0,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "roof",
+      "scramble": "RFOO",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "mental",
+      "scramble": "MLENAT",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "public",
+      "scramble": "PCUIBL",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "floppy",
+      "scramble": "OFLYPP",
+      "hint": {
+        "index": 4,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "dicke",
+      "scramble": "CEDKI",
+      "hint": {
+        "index": 3,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "wound",
+      "scramble": "UOWND",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

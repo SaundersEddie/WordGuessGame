@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-13",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "reflects",
+      "scramble": "FTELCRES",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "ultimate",
+      "scramble": "UMTAILTE",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "testing",
+      "scramble": "TGIESTN",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "reduces",
+      "scramble": "EURSCDE",
+      "hint": {
+        "index": 4,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "chairman",
+      "scramble": "CHAMNIAR",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "tribune",
+      "scramble": "IRENTBU",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "darkness",
+      "scramble": "RAESDKNS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "livestock",
+      "scramble": "SOICETVKL",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "donation",
+      "scramble": "TNIADOON",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "tanzania",
+      "scramble": "TAAZAINN",
+      "hint": {
+        "index": 3,
+        "letter": "z"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

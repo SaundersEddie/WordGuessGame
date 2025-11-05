@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-19",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "lift",
+      "scramble": "LFIT",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "hiking",
+      "scramble": "IIGNHK",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "prix",
+      "scramble": "RXIP",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "garlic",
+      "scramble": "IAGRLC",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "corn",
+      "scramble": "CNRO",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "atomic",
+      "scramble": "AOCMIT",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "logs",
+      "scramble": "LSOG",
+      "hint": {
+        "index": 0,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "ware",
+      "scramble": "AWRE",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "quebec",
+      "scramble": "QBCEEU",
+      "hint": {
+        "index": 0,
+        "letter": "q"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "iraqi",
+      "scramble": "ARIQI",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

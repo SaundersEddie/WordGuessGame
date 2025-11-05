@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-05-20",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "maria",
+      "scramble": "MIAAR",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "longer",
+      "scramble": "EOGLNR",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "cheers",
+      "scramble": "HSRECE",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "exit",
+      "scramble": "ETIX",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "powder",
+      "scramble": "OPDEWR",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "italic",
+      "scramble": "ITLCIA",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "honor",
+      "scramble": "NOROH",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "ends",
+      "scramble": "ESDN",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "girl",
+      "scramble": "GILR",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "erotic",
+      "scramble": "OCETIR",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

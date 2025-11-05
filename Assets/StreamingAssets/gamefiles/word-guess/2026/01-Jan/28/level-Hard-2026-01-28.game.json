@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-28",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "madagascar",
+      "scramble": "MRAAASAGCD",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "unnecessary",
+      "scramble": "NSNCASYERUE",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "convertible",
+      "scramble": "ONTEEBLIRCV",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "simplified",
+      "scramble": "SLDFIIMIEP",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "proposition",
+      "scramble": "NRIPOOISPOT",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "accommodate",
+      "scramble": "DEOMCOCMATA",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "commonwealth",
+      "scramble": "CENMOHWLAMTO",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "acceptance",
+      "scramble": "NAPEECACTC",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "parameters",
+      "scramble": "PMESRRAEAT",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "psychiatry",
+      "scramble": "PCRYAYIHST",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

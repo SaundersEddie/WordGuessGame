@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-09",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "station",
+      "scramble": "NTATIOS",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "segments",
+      "scramble": "ESSGNETM",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "farmers",
+      "scramble": "EAFSRRM",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "demands",
+      "scramble": "ESADNDM",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "balloon",
+      "scramble": "AOLNOBL",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "sociology",
+      "scramble": "OSCGYOOIL",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "dominican",
+      "scramble": "IMDINNAOC",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "advisory",
+      "scramble": "RSDAYOVI",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "boutique",
+      "scramble": "EOQUIBTU",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "achieve",
+      "scramble": "CEHEIAV",
+      "hint": {
+        "index": 2,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

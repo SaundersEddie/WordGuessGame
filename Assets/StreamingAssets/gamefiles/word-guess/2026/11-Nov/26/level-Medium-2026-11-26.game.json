@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-26",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "transfer",
+      "scramble": "SRENAFTR",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "selling",
+      "scramble": "GILELNS",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "savings",
+      "scramble": "SANSIGV",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "technique",
+      "scramble": "EEHCTIUQN",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "senators",
+      "scramble": "STSAROEN",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "adjusted",
+      "scramble": "JDDUTSAE",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "judgment",
+      "scramble": "JMTGDUNE",
+      "hint": {
+        "index": 0,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "circular",
+      "scramble": "CRCRIALU",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "indonesia",
+      "scramble": "SIIDOENNA",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "horizon",
+      "scramble": "IHROOZN",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

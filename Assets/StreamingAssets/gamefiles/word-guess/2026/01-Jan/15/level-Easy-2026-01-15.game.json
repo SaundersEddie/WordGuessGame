@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-15",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "reduce",
+      "scramble": "REEDCU",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "press",
+      "scramble": "PSERS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "fair",
+      "scramble": "FARI",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "hobby",
+      "scramble": "BOBYH",
+      "hint": {
+        "index": 2,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "diffs",
+      "scramble": "FIFSD",
+      "hint": {
+        "index": 2,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "daddy",
+      "scramble": "DADYD",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "goods",
+      "scramble": "SDOOG",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "charms",
+      "scramble": "RHMACS",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "street",
+      "scramble": "SRTTEE",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "porter",
+      "scramble": "PTRERO",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

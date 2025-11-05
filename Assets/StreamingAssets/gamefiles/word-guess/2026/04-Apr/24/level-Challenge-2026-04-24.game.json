@@ -1,0 +1,432 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-04-24",
+  "level": "Challenge",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 40,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "drive",
+      "scramble": "IREVD",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 2,
+      "answer": "edited",
+      "scramble": "DDTIEE",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 3,
+      "answer": "games",
+      "scramble": "EAGSM",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 4,
+      "answer": "orgasm",
+      "scramble": "MRGOSA",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 5,
+      "answer": "murray",
+      "scramble": "ARRUYM",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 6,
+      "answer": "sorted",
+      "scramble": "SROTDE",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 7,
+      "answer": "visa",
+      "scramble": "IVSA",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 8,
+      "answer": "egypt",
+      "scramble": "PYGET",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 9,
+      "answer": "climb",
+      "scramble": "LMCIB",
+      "hint": {
+        "index": 4,
+        "letter": "b"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 10,
+      "answer": "weapon",
+      "scramble": "AWEPON",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 11,
+      "answer": "grenada",
+      "scramble": "GDEAANR",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 12,
+      "answer": "thoughts",
+      "scramble": "THHOTUSG",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 13,
+      "answer": "prophet",
+      "scramble": "THORPPE",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 14,
+      "answer": "software",
+      "scramble": "EOAWFSRT",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 15,
+      "answer": "sponsors",
+      "scramble": "OPSRNSOS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 16,
+      "answer": "involved",
+      "scramble": "VLVNIEOD",
+      "hint": {
+        "index": 7,
+        "letter": "d"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 17,
+      "answer": "identity",
+      "scramble": "IDYTNTIE",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 18,
+      "answer": "houston",
+      "scramble": "HOUNTOS",
+      "hint": {
+        "index": 2,
+        "letter": "u"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 19,
+      "answer": "customer",
+      "scramble": "OUSCTMER",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 20,
+      "answer": "therefore",
+      "scramble": "HORTEEEFR",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 21,
+      "answer": "championship",
+      "scramble": "SHIPHNOPIAMC",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 22,
+      "answer": "boundaries",
+      "scramble": "AORDUIBENS",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 23,
+      "answer": "underground",
+      "scramble": "RUERODNUDNG",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 24,
+      "answer": "colleagues",
+      "scramble": "LAGLESEUCO",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 25,
+      "answer": "entrepreneur",
+      "scramble": "ENERRRUTENPE",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 26,
+      "answer": "greensboro",
+      "scramble": "SRBERONOEG",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 27,
+      "answer": "republicans",
+      "scramble": "RUANBCIPLSE",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 28,
+      "answer": "preservation",
+      "scramble": "IEOVESAPTRRN",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 29,
+      "answer": "regulatory",
+      "scramble": "AEGUORTYRL",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 30,
+      "answer": "adolescent",
+      "scramble": "LAONEDCTES",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 31,
+      "answer": "participation",
+      "scramble": "IAPTCPRNTIIOA",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 32,
+      "answer": "compatibility",
+      "scramble": "CLIYTTPBIIAMO",
+      "hint": {
+        "index": 7,
+        "letter": "b"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 33,
+      "answer": "accessibility",
+      "scramble": "BELTSYACSIICI",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 34,
+      "answer": "restructuring",
+      "scramble": "UGETRIURCNTSR",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 35,
+      "answer": "concentration",
+      "scramble": "IOTNOTCNEACRN",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 36,
+      "answer": "communication",
+      "scramble": "OMMNCUITNOCIA",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 37,
+      "answer": "infrastructure",
+      "scramble": "FNARUTTCRUERIS",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 38,
+      "answer": "participating",
+      "scramble": "PIRPITGNTIAAC",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 39,
+      "answer": "entrepreneurs",
+      "scramble": "RTESENPERNURE",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 40,
+      "answer": "implementation",
+      "scramble": "OMPLTNEITEIMNA",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      },
+      "sourceLevel": "Godlike"
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "challengeSeedOffset": 99991,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

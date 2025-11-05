@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-26",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "fears",
+      "scramble": "REAFS",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "johns",
+      "scramble": "NOJSH",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "bald",
+      "scramble": "BADL",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "ashley",
+      "scramble": "EASLHY",
+      "hint": {
+        "index": 5,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "highly",
+      "scramble": "GHYHLI",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "flash",
+      "scramble": "SALFH",
+      "hint": {
+        "index": 4,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "comm",
+      "scramble": "MOCM",
+      "hint": {
+        "index": 3,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "steve",
+      "scramble": "SEEVT",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "aging",
+      "scramble": "GGINA",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "action",
+      "scramble": "CAOITN",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

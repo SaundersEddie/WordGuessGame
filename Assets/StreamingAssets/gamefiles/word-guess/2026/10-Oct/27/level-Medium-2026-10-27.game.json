@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-27",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "luggage",
+      "scramble": "GGGUELA",
+      "hint": {
+        "index": 2,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "cookies",
+      "scramble": "CEOISKO",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "picking",
+      "scramble": "KIPCING",
+      "hint": {
+        "index": 6,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "vintage",
+      "scramble": "INATGVE",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "touched",
+      "scramble": "UHDTCEO",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "notebooks",
+      "scramble": "OTENOSBKO",
+      "hint": {
+        "index": 7,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "lawrence",
+      "scramble": "RENACWLE",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "threats",
+      "scramble": "SHTARTE",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "diagram",
+      "scramble": "IGARDAM",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "senegal",
+      "scramble": "ESGNEAL",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

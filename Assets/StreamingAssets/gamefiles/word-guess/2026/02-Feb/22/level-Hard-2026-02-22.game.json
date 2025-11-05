@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-22",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "viewpicture",
+      "scramble": "IPRWTVUEEIC",
+      "hint": {
+        "index": 3,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "encryption",
+      "scramble": "YETNCPRION",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "spectacular",
+      "scramble": "CPTECALRSUA",
+      "hint": {
+        "index": 1,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "destination",
+      "scramble": "ANIIDTNESOT",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "unauthorized",
+      "scramble": "URUEIHONZTDA",
+      "hint": {
+        "index": 5,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "fragrances",
+      "scramble": "FAGRECRSAN",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "bankruptcy",
+      "scramble": "YANURPBTKC",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "geological",
+      "scramble": "OOEIGGCALL",
+      "hint": {
+        "index": 5,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "lightweight",
+      "scramble": "GHTELWHTGII",
+      "hint": {
+        "index": 5,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "demonstrates",
+      "scramble": "DSNSRMEOAETT",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

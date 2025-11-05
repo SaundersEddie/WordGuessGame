@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-29",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "considerations",
+      "scramble": "EONDITCOASSRNI",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "complications",
+      "scramble": "OTASICCONMPLI",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "accommodations",
+      "scramble": "TSODCCOANIAOMM",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "corresponding",
+      "scramble": "ISPREOCRGNOND",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "communication",
+      "scramble": "OCOMNNMITICUA",
+      "hint": {
+        "index": 3,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "psychological",
+      "scramble": "YSCOILAGCOPHL",
+      "hint": {
+        "index": 1,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "investigations",
+      "scramble": "INTSOGATEIVNIS",
+      "hint": {
+        "index": 13,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "entrepreneurs",
+      "scramble": "EETEPNENRRRUS",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "congressional",
+      "scramble": "OLGEISSRCANNO",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "configuration",
+      "scramble": "ROIAGFTUINNCO",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

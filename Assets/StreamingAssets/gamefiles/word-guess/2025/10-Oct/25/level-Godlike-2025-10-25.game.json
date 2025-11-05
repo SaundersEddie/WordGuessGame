@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-25",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "controversial",
+      "scramble": "CIARRTEOLSNOV",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "entrepreneurs",
+      "scramble": "ENTRRURSEEPEN",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "parliamentary",
+      "scramble": "RAYENTARLPAMI",
+      "hint": {
+        "index": 10,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "bibliographic",
+      "scramble": "IPGHLIBRIBACO",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "concentration",
+      "scramble": "CNETONINRTOAC",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "specifications",
+      "scramble": "SIATPCESICIFON",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "accommodations",
+      "scramble": "DCAOSOMCOITMNA",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "computational",
+      "scramble": "OUPTNIATCAOLM",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "significantly",
+      "scramble": "FLIITNGCNSAIY",
+      "hint": {
+        "index": 12,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "characterized",
+      "scramble": "ERCEIRTADAZCH",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

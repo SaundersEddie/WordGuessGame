@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-05",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "verde",
+      "scramble": "DEVRE",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "dating",
+      "scramble": "DTIGAN",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "barry",
+      "scramble": "RAYRB",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "organ",
+      "scramble": "OGNAR",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "derek",
+      "scramble": "DERKE",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "nathan",
+      "scramble": "ANHTAN",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "need",
+      "scramble": "DNEE",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "weeks",
+      "scramble": "KEWSE",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "wines",
+      "scramble": "SNIEW",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "eminem",
+      "scramble": "ENIMEM",
+      "hint": {
+        "index": 5,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

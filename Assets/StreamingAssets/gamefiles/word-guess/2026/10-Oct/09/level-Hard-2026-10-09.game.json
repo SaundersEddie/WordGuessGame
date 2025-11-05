@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-09",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "transaction",
+      "scramble": "NRAACTTOSIN",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "entertaining",
+      "scramble": "RTATNIENEIGN",
+      "hint": {
+        "index": 9,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "comparisons",
+      "scramble": "CANMSRSOOPI",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "consistency",
+      "scramble": "OTESNSYNCIC",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "incentives",
+      "scramble": "NIISVTENEC",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "microphone",
+      "scramble": "MINRCPOEHO",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "accompanying",
+      "scramble": "AICOMCNAYNPG",
+      "hint": {
+        "index": 11,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "government",
+      "scramble": "ROENTMEVNG",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "displaying",
+      "scramble": "DIYPNISGLA",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "anthropology",
+      "scramble": "NGTOOLHROYAP",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

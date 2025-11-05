@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-30",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "victim",
+      "scramble": "VCMIIT",
+      "hint": {
+        "index": 0,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "gives",
+      "scramble": "EGVIS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "shop",
+      "scramble": "HPOS",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "indie",
+      "scramble": "DNIIE",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "drove",
+      "scramble": "DROEV",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "mate",
+      "scramble": "MTEA",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "sega",
+      "scramble": "SGEA",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "babe",
+      "scramble": "EBBA",
+      "hint": {
+        "index": 2,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "deputy",
+      "scramble": "YTDUPE",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "dock",
+      "scramble": "CODK",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

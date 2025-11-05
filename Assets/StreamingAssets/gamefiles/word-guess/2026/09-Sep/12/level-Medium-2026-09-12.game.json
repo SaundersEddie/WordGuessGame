@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-12",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "migration",
+      "scramble": "IRIMAGNOT",
+      "hint": {
+        "index": 7,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "voltage",
+      "scramble": "LOEATVG",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "composer",
+      "scramble": "ROOPSEMC",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "roughly",
+      "scramble": "ROHGYUL",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "compute",
+      "scramble": "COMETUP",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "schools",
+      "scramble": "SOHSOCL",
+      "hint": {
+        "index": 2,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "minolta",
+      "scramble": "TIOMLNA",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "rebound",
+      "scramble": "ROBDUNE",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "following",
+      "scramble": "LIOFLWONG",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "aluminium",
+      "scramble": "MINMULIAU",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

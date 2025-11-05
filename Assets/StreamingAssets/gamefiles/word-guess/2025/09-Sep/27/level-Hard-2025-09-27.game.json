@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-09-27",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "declaration",
+      "scramble": "OTINADCAERL",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "paperbacks",
+      "scramble": "EPKARPBCAS",
+      "hint": {
+        "index": 7,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "housewives",
+      "scramble": "HWOESVIEUS",
+      "hint": {
+        "index": 0,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "basketball",
+      "scramble": "BAKSBTALLE",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "attractive",
+      "scramble": "TTREACVIAT",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "committees",
+      "scramble": "MEMCTOITES",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "suspension",
+      "scramble": "NUPOENSSSI",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "conference",
+      "scramble": "NERFEOENCC",
+      "hint": {
+        "index": 3,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "citizenship",
+      "scramble": "ZPINIESCHTI",
+      "hint": {
+        "index": 8,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "connection",
+      "scramble": "OCCTEONINN",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

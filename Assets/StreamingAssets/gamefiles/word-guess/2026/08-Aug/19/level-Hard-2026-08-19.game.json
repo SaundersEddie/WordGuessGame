@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-19",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "subscription",
+      "scramble": "SCSNORTIUIBP",
+      "hint": {
+        "index": 9,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "independent",
+      "scramble": "NEDPNDINEET",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "federation",
+      "scramble": "EFONADTIRE",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "registered",
+      "scramble": "DRREIGESET",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "references",
+      "scramble": "FEESNECERR",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "transexuales",
+      "scramble": "LASRXEUSNETA",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "connection",
+      "scramble": "IONTOCCNEN",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "candidates",
+      "scramble": "DSTDINAAEC",
+      "hint": {
+        "index": 3,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "macromedia",
+      "scramble": "IDCRMAMOEA",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "relocation",
+      "scramble": "CEOONTLAIR",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

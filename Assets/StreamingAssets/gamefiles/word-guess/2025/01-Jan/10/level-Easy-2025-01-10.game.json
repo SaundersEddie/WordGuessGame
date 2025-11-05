@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-10",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "mesh",
+      "scramble": "MHSE",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "calm",
+      "scramble": "CAML",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "hockey",
+      "scramble": "HOYKEC",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "grab",
+      "scramble": "GARB",
+      "hint": {
+        "index": 3,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "awards",
+      "scramble": "DSARWA",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "tennis",
+      "scramble": "TENINS",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "extent",
+      "scramble": "ETNEXT",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "prague",
+      "scramble": "RUPAGE",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "dumb",
+      "scramble": "DUBM",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "spain",
+      "scramble": "IPASN",
+      "hint": {
+        "index": 1,
+        "letter": "p"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

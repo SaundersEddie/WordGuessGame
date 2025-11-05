@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-31",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "beneficial",
+      "scramble": "IFEBLCNIEA",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "privileges",
+      "scramble": "PVRIGSIELE",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "regulatory",
+      "scramble": "AUTERGOLRY",
+      "hint": {
+        "index": 9,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "investigated",
+      "scramble": "SDVNIEIAETTG",
+      "hint": {
+        "index": 2,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "definitions",
+      "scramble": "OINENSIITFD",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "qualifying",
+      "scramble": "IGAUIFLQYN",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "westminster",
+      "scramble": "SERNMSTTEIW",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "decorative",
+      "scramble": "DTVOECREAI",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "essentials",
+      "scramble": "ETSNALEISS",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "coordinates",
+      "scramble": "CROIDAENTOS",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

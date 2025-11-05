@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-19",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "accommodations",
+      "scramble": "ACMOTCDOAINOMS",
+      "hint": {
+        "index": 1,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "instrumentation",
+      "scramble": "INNNMRTTOASIUET",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "computational",
+      "scramble": "MOAIUPTNOTLAC",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "manufacturers",
+      "scramble": "NRACFUTMAUSRE",
+      "hint": {
+        "index": 4,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "organizations",
+      "scramble": "OAGONITAZRINS",
+      "hint": {
+        "index": 2,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "environmental",
+      "scramble": "NRLONVEANMTEI",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "independently",
+      "scramble": "ITDEENNYLPDNE",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "configuration",
+      "scramble": "UCFGNITIOARON",
+      "hint": {
+        "index": 12,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "undergraduate",
+      "scramble": "EUGDRNADAURTE",
+      "hint": {
+        "index": 11,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "communication",
+      "scramble": "MACMNUOINTCOI",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

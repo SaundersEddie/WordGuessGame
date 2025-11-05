@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-30",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "funded",
+      "scramble": "UFNDDE",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "plant",
+      "scramble": "PTLAN",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "aurora",
+      "scramble": "AURARO",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "pencil",
+      "scramble": "LPNEIC",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "tags",
+      "scramble": "TSAG",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "copies",
+      "scramble": "CEOISP",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "hold",
+      "scramble": "DOLH",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "potter",
+      "scramble": "OTRPET",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "stock",
+      "scramble": "OTSCK",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "xanax",
+      "scramble": "NAXAX",
+      "hint": {
+        "index": 4,
+        "letter": "x"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

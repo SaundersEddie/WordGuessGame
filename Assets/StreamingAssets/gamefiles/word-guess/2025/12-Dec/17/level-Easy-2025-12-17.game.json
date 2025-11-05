@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-17",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "alarm",
+      "scramble": "AMLRA",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "munich",
+      "scramble": "HUNICM",
+      "hint": {
+        "index": 4,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "pound",
+      "scramble": "PUOND",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "tons",
+      "scramble": "TNOS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "gays",
+      "scramble": "AYGS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "blue",
+      "scramble": "ULEB",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "semi",
+      "scramble": "MSEI",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "celtic",
+      "scramble": "CCLTIE",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "cute",
+      "scramble": "CTUE",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "haven",
+      "scramble": "HVNAE",
+      "hint": {
+        "index": 0,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

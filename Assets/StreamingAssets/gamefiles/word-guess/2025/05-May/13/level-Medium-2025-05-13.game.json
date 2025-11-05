@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-05-13",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "prisoners",
+      "scramble": "RPSIENSRO",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "bookstore",
+      "scramble": "BOSKTOOER",
+      "hint": {
+        "index": 3,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "learners",
+      "scramble": "RLRENESA",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "together",
+      "scramble": "THGTEEOR",
+      "hint": {
+        "index": 2,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "learning",
+      "scramble": "GNNRAIEL",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "mysimon",
+      "scramble": "INSOMYM",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "towards",
+      "scramble": "STOARDW",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "packaging",
+      "scramble": "PGNKIAGCA",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "seating",
+      "scramble": "SAIEGNT",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "desperate",
+      "scramble": "DATSRPEEE",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

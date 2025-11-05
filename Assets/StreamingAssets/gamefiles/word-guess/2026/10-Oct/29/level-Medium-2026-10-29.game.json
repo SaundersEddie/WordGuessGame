@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-29",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "airplane",
+      "scramble": "ALRPNEAI",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "electron",
+      "scramble": "TOERLENC",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "adapter",
+      "scramble": "ATRPAED",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "enhance",
+      "scramble": "ANNCEHE",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "digital",
+      "scramble": "LIDATGI",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "describe",
+      "scramble": "DEBSCRIE",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "exchanges",
+      "scramble": "HEENACGSX",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "resources",
+      "scramble": "SEUEOSCRR",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "portable",
+      "scramble": "OREPABTL",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "building",
+      "scramble": "BUINDLGI",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

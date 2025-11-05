@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-05-31",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "animation",
+      "scramble": "IOTNAAIMN",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "happens",
+      "scramble": "HPANEPS",
+      "hint": {
+        "index": 0,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "undefined",
+      "scramble": "IDUENDNFE",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "aviation",
+      "scramble": "AIAOITVN",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "incident",
+      "scramble": "TEIINCND",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "religious",
+      "scramble": "ISOIEGRLU",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "responded",
+      "scramble": "DEREDNSOP",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "couples",
+      "scramble": "COSEULP",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "databases",
+      "scramble": "EBAASDSTA",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "captain",
+      "scramble": "CTAPANI",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

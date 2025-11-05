@@ -1,0 +1,432 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-18",
+  "level": "Challenge",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 40,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "memo",
+      "scramble": "MEOM",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 2,
+      "answer": "ridge",
+      "scramble": "IGRDE",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 3,
+      "answer": "cradle",
+      "scramble": "CREADL",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 4,
+      "answer": "arnold",
+      "scramble": "DONARL",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 5,
+      "answer": "itunes",
+      "scramble": "STEIUN",
+      "hint": {
+        "index": 1,
+        "letter": "t"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 6,
+      "answer": "timely",
+      "scramble": "EIMYTL",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 7,
+      "answer": "pure",
+      "scramble": "UPRE",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 8,
+      "answer": "died",
+      "scramble": "DIDE",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 9,
+      "answer": "stereo",
+      "scramble": "ESETOR",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 10,
+      "answer": "summit",
+      "scramble": "MUSTIM",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      },
+      "sourceLevel": "Easy"
+    },
+    {
+      "id": 11,
+      "answer": "fraction",
+      "scramble": "NFRCAOTI",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 12,
+      "answer": "montana",
+      "scramble": "MAONTNA",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 13,
+      "answer": "realize",
+      "scramble": "LZRAIEE",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 14,
+      "answer": "colonial",
+      "scramble": "LNCOOIAL",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 15,
+      "answer": "assault",
+      "scramble": "ASASULT",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 16,
+      "answer": "promoted",
+      "scramble": "MPODORET",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 17,
+      "answer": "necessity",
+      "scramble": "YEICSENTS",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 18,
+      "answer": "footwear",
+      "scramble": "FTWEOAOR",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 19,
+      "answer": "harrison",
+      "scramble": "HARINRSO",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 20,
+      "answer": "centered",
+      "scramble": "CNTEEEDR",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      },
+      "sourceLevel": "Medium"
+    },
+    {
+      "id": 21,
+      "answer": "everywhere",
+      "scramble": "REVWEYHERE",
+      "hint": {
+        "index": 6,
+        "letter": "h"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 22,
+      "answer": "environments",
+      "scramble": "INNROENSEMVT",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 23,
+      "answer": "considering",
+      "scramble": "NNISIODRCEG",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 24,
+      "answer": "principles",
+      "scramble": "ELSCIPPNIR",
+      "hint": {
+        "index": 6,
+        "letter": "p"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 25,
+      "answer": "requirements",
+      "scramble": "TESRIEQERMNU",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 26,
+      "answer": "correction",
+      "scramble": "IOORECRNTC",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 27,
+      "answer": "implemented",
+      "scramble": "EEDITMLMPEN",
+      "hint": {
+        "index": 5,
+        "letter": "m"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 28,
+      "answer": "partnerships",
+      "scramble": "EPPSNRRSAITH",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 29,
+      "answer": "alternative",
+      "scramble": "EEAIANTLTVR",
+      "hint": {
+        "index": 9,
+        "letter": "v"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 30,
+      "answer": "innovations",
+      "scramble": "NONVTIIOASN",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      },
+      "sourceLevel": "Hard"
+    },
+    {
+      "id": 31,
+      "answer": "responsibilities",
+      "scramble": "OSPISIENBTILSRIE",
+      "hint": {
+        "index": 8,
+        "letter": "b"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 32,
+      "answer": "pharmaceutical",
+      "scramble": "RAMICHCELTAPUA",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 33,
+      "answer": "relationships",
+      "scramble": "NSTIERALPHIOS",
+      "hint": {
+        "index": 9,
+        "letter": "h"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 34,
+      "answer": "collaborative",
+      "scramble": "LTLBIAOROEVCA",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 35,
+      "answer": "commissioners",
+      "scramble": "MNSOISCRMIESO",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 36,
+      "answer": "configurations",
+      "scramble": "CUIISORFANTONG",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 37,
+      "answer": "characterized",
+      "scramble": "AADTRCCEZIHRE",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 38,
+      "answer": "interventions",
+      "scramble": "SVNENTOIITRNE",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 39,
+      "answer": "comprehensive",
+      "scramble": "MEECPRHVISNEO",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      },
+      "sourceLevel": "Godlike"
+    },
+    {
+      "id": 40,
+      "answer": "configuration",
+      "scramble": "CFNRUNOGOTIIA",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      },
+      "sourceLevel": "Godlike"
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "challengeSeedOffset": 99991,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

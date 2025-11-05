@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-05-26",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "section",
+      "scramble": "IOTSCEN",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "deutsch",
+      "scramble": "CDESUTH",
+      "hint": {
+        "index": 6,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "calculate",
+      "scramble": "ALTCCAULE",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "monitor",
+      "scramble": "NRITOOM",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "survive",
+      "scramble": "SEIRVVU",
+      "hint": {
+        "index": 5,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "conduct",
+      "scramble": "CDOUCNT",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "postcard",
+      "scramble": "TDSROPAC",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "alcohol",
+      "scramble": "ALOOCHL",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "lottery",
+      "scramble": "TYRTEOL",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "anything",
+      "scramble": "HTYGNANI",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

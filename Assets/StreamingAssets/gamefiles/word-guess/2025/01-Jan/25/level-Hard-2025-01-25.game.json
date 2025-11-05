@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-25",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "technologies",
+      "scramble": "TLOSEEOCGINH",
+      "hint": {
+        "index": 8,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "verification",
+      "scramble": "IOTFCVIAINRE",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "challenged",
+      "scramble": "CDNEGLEAHL",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "literature",
+      "scramble": "TLAREUTIRE",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "explicitly",
+      "scramble": "LIYLXPTECI",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "cooperation",
+      "scramble": "TEONCRAPOOI",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "installing",
+      "scramble": "NSLALITING",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "submitting",
+      "scramble": "MUBTNISIGT",
+      "hint": {
+        "index": 2,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "techrepublic",
+      "scramble": "TPBEELIHCRUC",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "architecture",
+      "scramble": "CUAEHCTERTRI",
+      "hint": {
+        "index": 10,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

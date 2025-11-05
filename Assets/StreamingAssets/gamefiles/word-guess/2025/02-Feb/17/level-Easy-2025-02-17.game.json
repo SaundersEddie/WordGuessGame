@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-17",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "lake",
+      "scramble": "LEKA",
+      "hint": {
+        "index": 2,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "wake",
+      "scramble": "WAEK",
+      "hint": {
+        "index": 0,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "bones",
+      "scramble": "BEONS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "hero",
+      "scramble": "OERH",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "cast",
+      "scramble": "TASC",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "mounts",
+      "scramble": "NSOMTU",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "candy",
+      "scramble": "NYCDA",
+      "hint": {
+        "index": 3,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "vendor",
+      "scramble": "DVNORE",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "pickup",
+      "scramble": "PIUKPC",
+      "hint": {
+        "index": 3,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "diana",
+      "scramble": "NIADA",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

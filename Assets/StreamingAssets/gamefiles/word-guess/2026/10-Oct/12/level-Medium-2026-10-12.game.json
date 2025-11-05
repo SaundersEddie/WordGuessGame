@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-12",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "capacity",
+      "scramble": "PICAAYTC",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "uniprotkb",
+      "scramble": "OUBPNRTIK",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "contrast",
+      "scramble": "ORNTATCS",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "mcdonald",
+      "scramble": "NLDACDOM",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "tension",
+      "scramble": "TINNOSE",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "receivers",
+      "scramble": "REVSEICRE",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "pressure",
+      "scramble": "SRUPSERE",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "fingering",
+      "scramble": "ENRGFGINI",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "counties",
+      "scramble": "ISTOUNEC",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "enquiry",
+      "scramble": "YNRIQEU",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

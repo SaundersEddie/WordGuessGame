@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-07-21",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "characterization",
+      "scramble": "HAAIROZACCTRTIEN",
+      "hint": {
+        "index": 15,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "understanding",
+      "scramble": "DEIRDGTNNUSNA",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "commissioners",
+      "scramble": "CMIIERSOOMSNS",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "distinguished",
+      "scramble": "ETSIDDIHIUSNG",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "consciousness",
+      "scramble": "OISCSUSCONENS",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "illustrations",
+      "scramble": "NIRSTSULAIOTL",
+      "hint": {
+        "index": 10,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "congratulations",
+      "scramble": "TCNIOSLGROUNAAT",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "collaborative",
+      "scramble": "LBAEALTOVCIOR",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "telecommunications",
+      "scramble": "ETMSOCECOITLAUNMNI",
+      "hint": {
+        "index": 12,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "conversations",
+      "scramble": "SECOIASVRNTNO",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

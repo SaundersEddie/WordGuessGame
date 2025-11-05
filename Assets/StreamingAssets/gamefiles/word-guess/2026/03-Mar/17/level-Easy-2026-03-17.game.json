@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-17",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "cell",
+      "scramble": "CLEL",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "niger",
+      "scramble": "ERGIN",
+      "hint": {
+        "index": 2,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "voted",
+      "scramble": "VTEOD",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "stan",
+      "scramble": "SNAT",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "direct",
+      "scramble": "TDREIC",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "gave",
+      "scramble": "EAGV",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "victor",
+      "scramble": "VTCIOR",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "blood",
+      "scramble": "DOOLB",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "also",
+      "scramble": "ASLO",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "forms",
+      "scramble": "FOSMR",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-09-03",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "collar",
+      "scramble": "CALOLR",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "laws",
+      "scramble": "SAWL",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "raid",
+      "scramble": "ARID",
+      "hint": {
+        "index": 3,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "tree",
+      "scramble": "ERTE",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "viagra",
+      "scramble": "AAVIRG",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "attend",
+      "scramble": "ATETND",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "vista",
+      "scramble": "TIAVS",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "alex",
+      "scramble": "ELAX",
+      "hint": {
+        "index": 3,
+        "letter": "x"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "sound",
+      "scramble": "USDNO",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "oaks",
+      "scramble": "SAOK",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

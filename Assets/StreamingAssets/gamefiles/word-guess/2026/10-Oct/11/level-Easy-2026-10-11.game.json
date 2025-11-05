@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-11",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "chip",
+      "scramble": "HCIP",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "incl",
+      "scramble": "NICL",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "nasty",
+      "scramble": "AYSTN",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "tech",
+      "scramble": "TCHE",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "travis",
+      "scramble": "TAIRVS",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "puppy",
+      "scramble": "PPPUY",
+      "hint": {
+        "index": 4,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "tests",
+      "scramble": "STSTE",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "feet",
+      "scramble": "FTEE",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "story",
+      "scramble": "YTOSR",
+      "hint": {
+        "index": 1,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "sail",
+      "scramble": "IASL",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

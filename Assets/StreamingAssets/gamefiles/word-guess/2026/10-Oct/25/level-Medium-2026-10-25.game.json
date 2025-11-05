@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-25",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "colombia",
+      "scramble": "OIOBMACL",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "lecture",
+      "scramble": "LTCEURE",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "habitat",
+      "scramble": "ATABTIH",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "carried",
+      "scramble": "RCARDEI",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "toolkit",
+      "scramble": "TOOKLIT",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "surveys",
+      "scramble": "USERVYS",
+      "hint": {
+        "index": 5,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "generic",
+      "scramble": "ENEGRIC",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "breaking",
+      "scramble": "IRBKENAG",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "teacher",
+      "scramble": "EEACTRH",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "valentine",
+      "scramble": "LVIETAENN",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

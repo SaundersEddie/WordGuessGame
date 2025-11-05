@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-20",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "blocked",
+      "scramble": "BELCOKD",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "numerical",
+      "scramble": "IEMANRUCL",
+      "hint": {
+        "index": 8,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "florists",
+      "scramble": "RSIFOTLS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "quickly",
+      "scramble": "KUILQYC",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "insulin",
+      "scramble": "NNIISUL",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "religion",
+      "scramble": "OERIGILN",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "vanilla",
+      "scramble": "ANLILAV",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "recycling",
+      "scramble": "IYLCERCNG",
+      "hint": {
+        "index": 8,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "weekends",
+      "scramble": "DEEESNWK",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "ownership",
+      "scramble": "HRSEONPIW",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

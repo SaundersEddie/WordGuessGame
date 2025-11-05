@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-05-23",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "wealth",
+      "scramble": "TWALEH",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "donate",
+      "scramble": "NOETAD",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "hear",
+      "scramble": "HERA",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "budget",
+      "scramble": "BDTGEU",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "bell",
+      "scramble": "EBLL",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "stupid",
+      "scramble": "SDUTPI",
+      "hint": {
+        "index": 2,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "causes",
+      "scramble": "SAESUC",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "hungry",
+      "scramble": "URHGNY",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "hansen",
+      "scramble": "EHNSAN",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "carmen",
+      "scramble": "ECRMNA",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

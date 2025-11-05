@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-09-13",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "offerings",
+      "scramble": "IEFORFSGN",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "worried",
+      "scramble": "ROERIWD",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "calcium",
+      "scramble": "ACLUMIC",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "concert",
+      "scramble": "ECCNORT",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "melbourne",
+      "scramble": "ENRMEUBOL",
+      "hint": {
+        "index": 5,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "edinburgh",
+      "scramble": "EBDHGIRUN",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "apparatus",
+      "scramble": "SAAURATPP",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "basement",
+      "scramble": "NMSATEEB",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "scholar",
+      "scramble": "OALCSHR",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "freelance",
+      "scramble": "EEENLAFCR",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

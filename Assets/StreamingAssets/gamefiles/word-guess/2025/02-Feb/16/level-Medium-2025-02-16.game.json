@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-16",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "continue",
+      "scramble": "OUETINCN",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "hungarian",
+      "scramble": "IUHGANRAN",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "regarding",
+      "scramble": "GDEARRGIN",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "promising",
+      "scramble": "IOISPRMNG",
+      "hint": {
+        "index": 8,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "auctions",
+      "scramble": "OUTNCAIS",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "behavior",
+      "scramble": "BAROVIEH",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "fighter",
+      "scramble": "IFTGHER",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "showtimes",
+      "scramble": "SHIWTSOEM",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "threshold",
+      "scramble": "HLHDSOTER",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "sensitive",
+      "scramble": "STVEENIIS",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

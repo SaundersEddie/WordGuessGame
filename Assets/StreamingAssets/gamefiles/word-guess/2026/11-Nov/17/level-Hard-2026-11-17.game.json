@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-17",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "requirements",
+      "scramble": "RMNUERSEITEQ",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "interested",
+      "scramble": "EDTERTNSEI",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "complexity",
+      "scramble": "PCMOTLEIYX",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "consumption",
+      "scramble": "ISOOCMPUNNT",
+      "hint": {
+        "index": 6,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "pharmacies",
+      "scramble": "AEPRSMCAIH",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "attraction",
+      "scramble": "TOCTANRATI",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "restricted",
+      "scramble": "TRTECISDER",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "commissioner",
+      "scramble": "MOSOIESCNMIR",
+      "hint": {
+        "index": 11,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "considered",
+      "scramble": "CONIRSEDED",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "partnerships",
+      "scramble": "IRNSREHPSAPT",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-06-08",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "representatives",
+      "scramble": "RRTINVSETESAEPE",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "substantially",
+      "scramble": "SAYLUATLNBIST",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "approximately",
+      "scramble": "ARYEIAOXLTMPP",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "administrators",
+      "scramble": "IMDARIRNATSOTS",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "undergraduate",
+      "scramble": "UEREDGDRTNAUA",
+      "hint": {
+        "index": 10,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "reconstruction",
+      "scramble": "NECIOSORUCTTNR",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "alternatively",
+      "scramble": "TLTINRELAAEVY",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "appropriations",
+      "scramble": "PAPRINTIPOROAS",
+      "hint": {
+        "index": 13,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "modifications",
+      "scramble": "MISOOFCATIIDN",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "revolutionary",
+      "scramble": "NUIYTAEROVORL",
+      "hint": {
+        "index": 11,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

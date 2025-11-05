@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-07",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "findings",
+      "scramble": "NDNIIGSF",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "forests",
+      "scramble": "EFTORSS",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "violation",
+      "scramble": "VLITNOIAO",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "attacks",
+      "scramble": "KATACST",
+      "hint": {
+        "index": 4,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "gathered",
+      "scramble": "GREAETHD",
+      "hint": {
+        "index": 0,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "navigate",
+      "scramble": "NEAITGVA",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "roberts",
+      "scramble": "EOTSBRR",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "seminars",
+      "scramble": "ASRMNESI",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "retailer",
+      "scramble": "IAERRTEL",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "medline",
+      "scramble": "MDELIEN",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

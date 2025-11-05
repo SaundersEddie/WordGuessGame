@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-03",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "mongolia",
+      "scramble": "GOMAOLIN",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "reviewing",
+      "scramble": "EEVIIWNRG",
+      "hint": {
+        "index": 8,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "frontier",
+      "scramble": "FORIRNET",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "baseball",
+      "scramble": "BLAALBES",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "searched",
+      "scramble": "HDCAERES",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "glasgow",
+      "scramble": "LOAWGGS",
+      "hint": {
+        "index": 4,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "trouble",
+      "scramble": "RBEUOLT",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "stickers",
+      "scramble": "ISTCKRSE",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "hierarchy",
+      "scramble": "ARIHYECHR",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "principle",
+      "scramble": "IPNLCPRIE",
+      "hint": {
+        "index": 4,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

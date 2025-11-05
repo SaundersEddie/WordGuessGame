@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-28",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "clock",
+      "scramble": "CCLOK",
+      "hint": {
+        "index": 4,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "gonna",
+      "scramble": "GNNOA",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "lovers",
+      "scramble": "SLVEOR",
+      "hint": {
+        "index": 2,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "lives",
+      "scramble": "IEVLS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "mining",
+      "scramble": "NMNIIG",
+      "hint": {
+        "index": 5,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "mods",
+      "scramble": "MOSD",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "system",
+      "scramble": "SSYETM",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "tagged",
+      "scramble": "ETAGDG",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "owns",
+      "scramble": "OSNW",
+      "hint": {
+        "index": 0,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "mails",
+      "scramble": "MASLI",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

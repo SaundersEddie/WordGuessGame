@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-07",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "richard",
+      "scramble": "RHCIRAD",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "wednesday",
+      "scramble": "WDYAEDNSE",
+      "hint": {
+        "index": 0,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "reliance",
+      "scramble": "ENEILACR",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "romance",
+      "scramble": "ARMNECO",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "hamilton",
+      "scramble": "LTIMHAON",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "japanese",
+      "scramble": "JEASNEAP",
+      "hint": {
+        "index": 0,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "suggests",
+      "scramble": "USSGTGES",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "terrorist",
+      "scramble": "IOTRTRESR",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "netscape",
+      "scramble": "ASTNEECP",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "naturals",
+      "scramble": "NRASUALT",
+      "hint": {
+        "index": 0,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

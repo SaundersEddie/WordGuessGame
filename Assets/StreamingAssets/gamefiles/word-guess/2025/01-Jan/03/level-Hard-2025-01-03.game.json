@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-03",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "accessible",
+      "scramble": "ECCLSIBAES",
+      "hint": {
+        "index": 1,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "christians",
+      "scramble": "IHRCSSNTAI",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "meditation",
+      "scramble": "TNATMEDIOI",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "developing",
+      "scramble": "OEGEILNDPV",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "consequences",
+      "scramble": "CSQUCEESNNEO",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "destruction",
+      "scramble": "UDSITCERTON",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "moderators",
+      "scramble": "MOSTRODARE",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "citysearch",
+      "scramble": "CIYRACTHSE",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "therapeutic",
+      "scramble": "IAUEHTRPTEC",
+      "hint": {
+        "index": 10,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "convenience",
+      "scramble": "VONENNIECEC",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-18",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "diameter",
+      "scramble": "ATDMEERI",
+      "hint": {
+        "index": 3,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "neutral",
+      "scramble": "LANTERU",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "variable",
+      "scramble": "BERAVAIL",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "dollars",
+      "scramble": "LDAOLRS",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "fighters",
+      "scramble": "HIGRTFES",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "blocking",
+      "scramble": "BKGLINCO",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "lodging",
+      "scramble": "GLGOIDN",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "opposite",
+      "scramble": "OPSPIETO",
+      "hint": {
+        "index": 1,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "sucking",
+      "scramble": "SCKIGUN",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "anxiety",
+      "scramble": "YATIXNE",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

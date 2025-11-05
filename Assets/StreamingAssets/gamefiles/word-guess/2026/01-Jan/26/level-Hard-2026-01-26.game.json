@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-26",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "california",
+      "scramble": "NCIORLIFAA",
+      "hint": {
+        "index": 9,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "dictionaries",
+      "scramble": "ACSRITOIDNEI",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "continually",
+      "scramble": "NALNIUOLTCY",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "correlation",
+      "scramble": "TOIRCELRONA",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "attributes",
+      "scramble": "BSTRUIETTA",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "transexual",
+      "scramble": "RLUXSTNAAE",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "production",
+      "scramble": "IUTOOCPRDN",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "journalist",
+      "scramble": "RIOJNLATSU",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "throughout",
+      "scramble": "THRHUGTOOU",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "conservative",
+      "scramble": "AOVENCESVIRT",
+      "hint": {
+        "index": 9,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

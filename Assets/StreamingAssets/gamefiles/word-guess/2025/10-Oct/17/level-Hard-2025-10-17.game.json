@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-17",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "bestsellers",
+      "scramble": "EELLSSERBST",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "evanescence",
+      "scramble": "EEECASNCNEV",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "copyrighted",
+      "scramble": "OPHYRDICGTE",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "remembered",
+      "scramble": "EDREMBEMRE",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "facilities",
+      "scramble": "IITECFSIAL",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "competition",
+      "scramble": "NETCTPIIOOM",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "respondents",
+      "scramble": "NDNEOPSESRT",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "immunology",
+      "scramble": "OMINGLOMUY",
+      "hint": {
+        "index": 1,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "probability",
+      "scramble": "RLTIOBYPIBA",
+      "hint": {
+        "index": 5,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "luxembourg",
+      "scramble": "RBUOMUELXG",
+      "hint": {
+        "index": 9,
+        "letter": "g"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-11-10",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "competitions",
+      "scramble": "CPEOTTIMIOSN",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "expression",
+      "scramble": "RNPEXSSEOI",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "acknowledge",
+      "scramble": "LGAECNKOWDE",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "automation",
+      "scramble": "MOAONIUATT",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "likelihood",
+      "scramble": "IKIOLDHLOE",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "performances",
+      "scramble": "OPFANCREEMRS",
+      "hint": {
+        "index": 11,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "alternative",
+      "scramble": "AIEREVTTLAN",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "vocational",
+      "scramble": "COILAVONAT",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "impossible",
+      "scramble": "IESMILBSOP",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "constraints",
+      "scramble": "NOSNCARSTTI",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

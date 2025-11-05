@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-10",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "settled",
+      "scramble": "LSEETTD",
+      "hint": {
+        "index": 6,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "laughing",
+      "scramble": "GHIUNLAG",
+      "hint": {
+        "index": 7,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "qualify",
+      "scramble": "UFAIYLQ",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "washing",
+      "scramble": "HNSAWGI",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "peninsula",
+      "scramble": "AUPILSNNE",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "stripes",
+      "scramble": "SPSIERT",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "physician",
+      "scramble": "ASIYHCPIN",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "imported",
+      "scramble": "PITODERM",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "passage",
+      "scramble": "ASSPGAE",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "shuttle",
+      "scramble": "TTSEULH",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

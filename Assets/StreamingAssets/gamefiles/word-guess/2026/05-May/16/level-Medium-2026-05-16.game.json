@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-16",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "meeting",
+      "scramble": "NEMTEGI",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "bloomberg",
+      "scramble": "OEROBBLGM",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "someone",
+      "scramble": "OOEEMSN",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "ceramic",
+      "scramble": "ECRMAIC",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "broadband",
+      "scramble": "DABBDRAON",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "summaries",
+      "scramble": "SRMESAUMI",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "quarterly",
+      "scramble": "UYEQLARRT",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "railway",
+      "scramble": "WLIRAYA",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "december",
+      "scramble": "EBEDMCER",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "carries",
+      "scramble": "RAICRSE",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

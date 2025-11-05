@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-25",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "humanities",
+      "scramble": "AUHSNITIEM",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "anticipated",
+      "scramble": "ICIATDAPTEN",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "leadership",
+      "scramble": "IAERPDSLEH",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "minneapolis",
+      "scramble": "ANISIEPLMNO",
+      "hint": {
+        "index": 6,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "displaying",
+      "scramble": "IGNPIAYDLS",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "beastality",
+      "scramble": "BASTELAITY",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "provisions",
+      "scramble": "PVRISINOSO",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "essentially",
+      "scramble": "ESLANELTSYI",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "affiliated",
+      "scramble": "DFAIFELTIA",
+      "hint": {
+        "index": 1,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "consisting",
+      "scramble": "NNSTOSIGCI",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

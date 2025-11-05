@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-21",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "verzeichnis",
+      "scramble": "VIEZENHSCIR",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "entrepreneur",
+      "scramble": "EETRNERPRNEU",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "statistical",
+      "scramble": "LSATTSAITCI",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "installation",
+      "scramble": "ISOATILLTNAN",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "attractions",
+      "scramble": "SATCOAITRNT",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "monitoring",
+      "scramble": "MININGOOTR",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "intelligence",
+      "scramble": "EETINNLCEILG",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "progressive",
+      "scramble": "SROPGEVSIRE",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "retirement",
+      "scramble": "RTRTIEEENM",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "introduced",
+      "scramble": "ONRDETDCIU",
+      "hint": {
+        "index": 7,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-26",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "protecting",
+      "scramble": "PGNETCTORI",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "identified",
+      "scramble": "FITIDIENED",
+      "hint": {
+        "index": 9,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "experience",
+      "scramble": "RXEENEPECI",
+      "hint": {
+        "index": 8,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "experiment",
+      "scramble": "XENETPMIRE",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "delivering",
+      "scramble": "IELRENIDGV",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "progressive",
+      "scramble": "SREESVOPRIG",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "stakeholders",
+      "scramble": "LTRDASOHESKE",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "indicating",
+      "scramble": "IIDACTINGN",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "impressive",
+      "scramble": "MSEEPSVIIR",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "paragraphs",
+      "scramble": "HPRGARAAPS",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

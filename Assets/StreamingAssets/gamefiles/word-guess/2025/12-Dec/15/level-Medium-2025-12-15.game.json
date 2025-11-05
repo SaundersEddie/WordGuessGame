@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-15",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "sellers",
+      "scramble": "LRELSES",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "sponsor",
+      "scramble": "OSRPNOS",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "erotica",
+      "scramble": "RTIOECA",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "planning",
+      "scramble": "NLIPNANG",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "hometown",
+      "scramble": "HOWOMETN",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "receipt",
+      "scramble": "CRTEIPE",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "specified",
+      "scramble": "ECIIEFPDS",
+      "hint": {
+        "index": 5,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "bookmark",
+      "scramble": "AOMKKORB",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "gathering",
+      "scramble": "GHINGTAER",
+      "hint": {
+        "index": 0,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "botswana",
+      "scramble": "SWNBAATO",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

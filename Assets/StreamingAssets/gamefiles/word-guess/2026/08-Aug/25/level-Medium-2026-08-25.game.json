@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-25",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "adoption",
+      "scramble": "NDOPOTAI",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "chances",
+      "scramble": "CNCHAES",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "manitoba",
+      "scramble": "ABOITMNA",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "districts",
+      "scramble": "ITCIDSTRS",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "applies",
+      "scramble": "PLESIAP",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "untitled",
+      "scramble": "EUDITLNT",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "redhead",
+      "scramble": "EHDDERA",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "original",
+      "scramble": "NAOGLIRI",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "messaging",
+      "scramble": "IENGMAGSS",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "advisor",
+      "scramble": "DASRVOI",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

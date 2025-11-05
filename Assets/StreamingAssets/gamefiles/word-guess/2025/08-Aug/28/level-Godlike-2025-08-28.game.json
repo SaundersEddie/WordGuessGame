@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-08-28",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "commissioners",
+      "scramble": "OSEMSCMOINRIS",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "corresponding",
+      "scramble": "SDPENIGOCORRN",
+      "hint": {
+        "index": 7,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "semiconductor",
+      "scramble": "DECIONTOCMUSR",
+      "hint": {
+        "index": 12,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "specification",
+      "scramble": "FPTEIISCONAIC",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "psychological",
+      "scramble": "PLCOYGLSOAIHC",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "comprehensive",
+      "scramble": "CNSVORPIEHEEM",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "identification",
+      "scramble": "IDNTETFIOCIIAN",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "advertisement",
+      "scramble": "NDEMESTVTAIER",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "investigators",
+      "scramble": "ISVSTOEIRNTAG",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "manufacturing",
+      "scramble": "RATUAGNFINUMC",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

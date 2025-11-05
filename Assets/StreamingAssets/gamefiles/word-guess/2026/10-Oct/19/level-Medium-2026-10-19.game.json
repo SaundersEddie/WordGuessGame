@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-19",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "initiated",
+      "scramble": "TANITIIED",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "nickname",
+      "scramble": "CNIEKANM",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "offline",
+      "scramble": "ELFFINO",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "affecting",
+      "scramble": "IGFACETFN",
+      "hint": {
+        "index": 2,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "refresh",
+      "scramble": "ERHRFSE",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "undertake",
+      "scramble": "UNEARTDEK",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "prostate",
+      "scramble": "TSPROATE",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "staffing",
+      "scramble": "ASFFTGNI",
+      "hint": {
+        "index": 3,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "bachelor",
+      "scramble": "RACLBOHE",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "parameter",
+      "scramble": "AERAMPTER",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-16",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "console",
+      "scramble": "NOESOCL",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "positions",
+      "scramble": "NOSISTOIP",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "cassette",
+      "scramble": "TTESSACE",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "retired",
+      "scramble": "DEITRER",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "inflation",
+      "scramble": "TNFLINIAO",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "plugins",
+      "scramble": "PLGIUNS",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "houston",
+      "scramble": "SOUTHNO",
+      "hint": {
+        "index": 2,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "childrens",
+      "scramble": "HCLNSIEDR",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "reduced",
+      "scramble": "EEDUCRD",
+      "hint": {
+        "index": 6,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "mitchell",
+      "scramble": "LLTMEIHC",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

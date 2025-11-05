@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-29",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "abraham",
+      "scramble": "AABRHMA",
+      "hint": {
+        "index": 4,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "victoria",
+      "scramble": "RVCTIOAI",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "pioneer",
+      "scramble": "ONEPIER",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "instance",
+      "scramble": "ISNENTAC",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "paraguay",
+      "scramble": "ARYPAGAU",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "gregory",
+      "scramble": "GRORGEY",
+      "hint": {
+        "index": 6,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "streams",
+      "scramble": "MTARSES",
+      "hint": {
+        "index": 1,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "trademark",
+      "scramble": "REATDMAKR",
+      "hint": {
+        "index": 5,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "cleared",
+      "scramble": "EECALRD",
+      "hint": {
+        "index": 6,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "committee",
+      "scramble": "EOMMTCTIE",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-19",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "naughty",
+      "scramble": "UAGYTNH",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "elections",
+      "scramble": "ETICNLOSE",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "confirmed",
+      "scramble": "IOCFDMRNE",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "diseases",
+      "scramble": "DSSIASEE",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "frequent",
+      "scramble": "QFEEUTRN",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "nitrogen",
+      "scramble": "NGTRNOEI",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "ecommerce",
+      "scramble": "EMMECCOER",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "refined",
+      "scramble": "FNEIDRE",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "transport",
+      "scramble": "TPANOTRRS",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "ceiling",
+      "scramble": "CLGENII",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

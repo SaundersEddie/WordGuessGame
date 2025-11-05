@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-13",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "throw",
+      "scramble": "TORWH",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "spent",
+      "scramble": "ENSPT",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "valued",
+      "scramble": "UVLEAD",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "says",
+      "scramble": "AYSS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "timber",
+      "scramble": "METBRI",
+      "hint": {
+        "index": 3,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "mobile",
+      "scramble": "OBEILM",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "hidden",
+      "scramble": "DIDHEN",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "median",
+      "scramble": "AEDIMN",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "xerox",
+      "scramble": "XXROE",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "porno",
+      "scramble": "RNOPO",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

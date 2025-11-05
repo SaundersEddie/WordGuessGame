@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-09",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "approximately",
+      "scramble": "EXOPPAATILRMY",
+      "hint": {
+        "index": 12,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "photographers",
+      "scramble": "PTRAEGRHPOHSO",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "transportation",
+      "scramble": "ROPTOTRSNAINAT",
+      "hint": {
+        "index": 9,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "simultaneously",
+      "scramble": "SYILULUTSAENMO",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "consolidation",
+      "scramble": "IOOSDTINNLCAO",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "effectiveness",
+      "scramble": "ESVENIETECFSF",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "identification",
+      "scramble": "ITAOIICFEIDNNT",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "comprehensive",
+      "scramble": "NVEMROEEIPSHC",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "subscriptions",
+      "scramble": "SUCNSRSBPOIIT",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "possibilities",
+      "scramble": "SPISTEBOISLII",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

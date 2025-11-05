@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-06-29",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "setting",
+      "scramble": "TETSNGI",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "vibrators",
+      "scramble": "VOBARRTIS",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "thermal",
+      "scramble": "TELAHRM",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "display",
+      "scramble": "PIDAYSL",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "retention",
+      "scramble": "RONEETITN",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "baghdad",
+      "scramble": "HAGADDB",
+      "hint": {
+        "index": 2,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "textbook",
+      "scramble": "TKTOOBEX",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "powered",
+      "scramble": "EOPEWRD",
+      "hint": {
+        "index": 6,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "headlines",
+      "scramble": "HDSLEANIE",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "minority",
+      "scramble": "IOITMRNY",
+      "hint": {
+        "index": 7,
+        "letter": "y"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-30",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "imaging",
+      "scramble": "IMIANGG",
+      "hint": {
+        "index": 1,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "furniture",
+      "scramble": "FUUERRNTI",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "financial",
+      "scramble": "INNAAIFLC",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "hepatitis",
+      "scramble": "TIEATIHPS",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "headers",
+      "scramble": "REASHED",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "locking",
+      "scramble": "OINKGCL",
+      "hint": {
+        "index": 3,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "sullivan",
+      "scramble": "IVSLNAUL",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "optical",
+      "scramble": "OAPICTL",
+      "hint": {
+        "index": 4,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "scripts",
+      "scramble": "CSRPSIT",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "revision",
+      "scramble": "VERNSIIO",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

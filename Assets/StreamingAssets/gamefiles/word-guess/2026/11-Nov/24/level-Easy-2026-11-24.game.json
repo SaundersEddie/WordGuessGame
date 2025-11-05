@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-24",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "bath",
+      "scramble": "TABH",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "hash",
+      "scramble": "SAHH",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "burke",
+      "scramble": "BKUER",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "equity",
+      "scramble": "ETQIYU",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "drugs",
+      "scramble": "RUSGD",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "fourth",
+      "scramble": "FOTRUH",
+      "hint": {
+        "index": 5,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "drunk",
+      "scramble": "RKUDN",
+      "hint": {
+        "index": 2,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "went",
+      "scramble": "WNET",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "towers",
+      "scramble": "SOETRW",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "cape",
+      "scramble": "CEAP",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

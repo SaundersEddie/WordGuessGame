@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-30",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "worker",
+      "scramble": "EOWKRR",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "favor",
+      "scramble": "ARVOF",
+      "hint": {
+        "index": 2,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "school",
+      "scramble": "OOHSCL",
+      "hint": {
+        "index": 2,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "actor",
+      "scramble": "TCAOR",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "tuning",
+      "scramble": "TNNIUG",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "terry",
+      "scramble": "RRETY",
+      "hint": {
+        "index": 4,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "witch",
+      "scramble": "HITWC",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "fired",
+      "scramble": "FIERD",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "holmes",
+      "scramble": "MLSHEO",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "perry",
+      "scramble": "RRPEY",
+      "hint": {
+        "index": 4,
+        "letter": "y"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

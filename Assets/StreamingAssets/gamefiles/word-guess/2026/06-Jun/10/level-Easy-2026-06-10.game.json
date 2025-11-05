@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-06-10",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "lost",
+      "scramble": "LSOT",
+      "hint": {
+        "index": 0,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "radar",
+      "scramble": "AADRR",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "eleven",
+      "scramble": "EENVLE",
+      "hint": {
+        "index": 3,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "seats",
+      "scramble": "ASETS",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "wild",
+      "scramble": "WLID",
+      "hint": {
+        "index": 3,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "issued",
+      "scramble": "IUDSES",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "board",
+      "scramble": "OABRD",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "maps",
+      "scramble": "ASPM",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "county",
+      "scramble": "UTOCNY",
+      "hint": {
+        "index": 5,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "choir",
+      "scramble": "IROCH",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

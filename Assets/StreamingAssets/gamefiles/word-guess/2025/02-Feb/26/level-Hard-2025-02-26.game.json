@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-26",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "columnists",
+      "scramble": "CSNOMITLUS",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "separately",
+      "scramble": "TLYEPARESA",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "deutschland",
+      "scramble": "DEHCSDTLUAN",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "ultimately",
+      "scramble": "EMLILAUTTY",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "designated",
+      "scramble": "EAINDSDTEG",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "physiology",
+      "scramble": "OIYYOPSLGH",
+      "hint": {
+        "index": 8,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "advertising",
+      "scramble": "NDASIGVTEIR",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "presentation",
+      "scramble": "ESETPAINTRON",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "immigration",
+      "scramble": "MGIITMINROA",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "pittsburgh",
+      "scramble": "BGTSPHTIUR",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

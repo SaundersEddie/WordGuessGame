@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-09",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "knowledgestorm",
+      "scramble": "KGREOSDMWTLONE",
+      "hint": {
+        "index": 0,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "consolidation",
+      "scramble": "CITLNOSOOADNI",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "authorization",
+      "scramble": "ONTHTAIROUIAZ",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "infrastructure",
+      "scramble": "FISRUTTEUNCRRA",
+      "hint": {
+        "index": 12,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "demonstration",
+      "scramble": "MIENTDTONOASR",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "illustrations",
+      "scramble": "SLNALIOTRISUT",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "relationships",
+      "scramble": "ISEASIONTHPLR",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "computational",
+      "scramble": "ACMOTILUOPANT",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "institutional",
+      "scramble": "UTAOTTIIISNNL",
+      "hint": {
+        "index": 12,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "restructuring",
+      "scramble": "RCNRUSTIUGTER",
+      "hint": {
+        "index": 8,
+        "letter": "u"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

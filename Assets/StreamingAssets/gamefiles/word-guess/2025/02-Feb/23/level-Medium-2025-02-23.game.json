@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-23",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "overcome",
+      "scramble": "OMRVCEEO",
+      "hint": {
+        "index": 4,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "jeffrey",
+      "scramble": "JEEFRFY",
+      "hint": {
+        "index": 3,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "prisoner",
+      "scramble": "NSEPORRI",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "western",
+      "scramble": "ETSWERN",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "framing",
+      "scramble": "AFRMING",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "medicines",
+      "scramble": "NMEDCESII",
+      "hint": {
+        "index": 4,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "upcoming",
+      "scramble": "IPOGCUMN",
+      "hint": {
+        "index": 1,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "contained",
+      "scramble": "CNEDTINAO",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "locally",
+      "scramble": "LOLALCY",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "sapphire",
+      "scramble": "SERPHIPA",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

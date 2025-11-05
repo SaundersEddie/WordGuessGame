@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-20",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "biodiversity",
+      "scramble": "ODIIERSIBTVY",
+      "hint": {
+        "index": 11,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "independent",
+      "scramble": "NETPNDEEDNI",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "distinction",
+      "scramble": "ICTIIDTSNON",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "proceedings",
+      "scramble": "DCPREIGENOS",
+      "hint": {
+        "index": 10,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "governance",
+      "scramble": "GVOERCEANN",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "dispatched",
+      "scramble": "DHPTSIDCEA",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "integrating",
+      "scramble": "NETANRIGGTI",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "enhancements",
+      "scramble": "ANENENESHCTM",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "statistical",
+      "scramble": "IASTCATSTIL",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "attractive",
+      "scramble": "AIEATCRTVT",
+      "hint": {
+        "index": 8,
+        "letter": "v"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

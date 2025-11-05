@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-26",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "canada",
+      "scramble": "DAAANC",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "judges",
+      "scramble": "DUESGJ",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "sucks",
+      "scramble": "CUSKS",
+      "hint": {
+        "index": 3,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "world",
+      "scramble": "WLROD",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "turkey",
+      "scramble": "REUTKY",
+      "hint": {
+        "index": 5,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "leeds",
+      "scramble": "DEESL",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "berry",
+      "scramble": "ERRYB",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "south",
+      "scramble": "SUOTH",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "edited",
+      "scramble": "IDETED",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "hence",
+      "scramble": "HCNEE",
+      "hint": {
+        "index": 0,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

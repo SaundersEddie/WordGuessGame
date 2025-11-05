@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-27",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "cardiovascular",
+      "scramble": "DSAACRUOCVILAR",
+      "hint": {
+        "index": 11,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "specifications",
+      "scramble": "ESIOSCIPATCFNI",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "telecommunications",
+      "scramble": "TCOTUNAMEELSNIMICO",
+      "hint": {
+        "index": 7,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "communications",
+      "scramble": "OAMCUTINNIOMCS",
+      "hint": {
+        "index": 13,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "opportunities",
+      "scramble": "RSPOTNETUPOII",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "significantly",
+      "scramble": "AGNNYIIICFTSL",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "restructuring",
+      "scramble": "CTUERSRIUTRNG",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "entertainment",
+      "scramble": "TNIRENEMNTETA",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "circumstances",
+      "scramble": "SCCRMISTACNEU",
+      "hint": {
+        "index": 11,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "controversial",
+      "scramble": "LOIVRRTNCSAOE",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-10",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "revolutionary",
+      "scramble": "URVNTOYROALEI",
+      "hint": {
+        "index": 2,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "transformation",
+      "scramble": "OOITRRFANMTSNA",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "transportation",
+      "scramble": "SONPNOARTATIRT",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "massachusetts",
+      "scramble": "AATSHSCMUSETS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "possibilities",
+      "scramble": "SLSIIITISBPEO",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "consideration",
+      "scramble": "EIOAINOSRNTDC",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "comprehensive",
+      "scramble": "INRSCHOPEMEVE",
+      "hint": {
+        "index": 11,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "psychological",
+      "scramble": "LSOIOAPCLYHCG",
+      "hint": {
+        "index": 1,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "authorization",
+      "scramble": "RAIIONOZHTUAT",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "considerations",
+      "scramble": "CNOASTODIIRENS",
+      "hint": {
+        "index": 12,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

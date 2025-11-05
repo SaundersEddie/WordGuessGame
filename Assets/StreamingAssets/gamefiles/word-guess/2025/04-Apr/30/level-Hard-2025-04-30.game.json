@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-30",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "encouraged",
+      "scramble": "UECENRDOGA",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "republicans",
+      "scramble": "PNAISLUEBRC",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "regression",
+      "scramble": "GERRNSOISE",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "instructors",
+      "scramble": "NTUTRORICSS",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "represented",
+      "scramble": "DEETSERPRNE",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "environment",
+      "scramble": "ETMRNINOEVN",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "conference",
+      "scramble": "RCECNONEFE",
+      "hint": {
+        "index": 9,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "fundamental",
+      "scramble": "ELDFTMNUAAN",
+      "hint": {
+        "index": 5,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "lauderdale",
+      "scramble": "DDEELRAALU",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "acknowledged",
+      "scramble": "AKWDDELGONEC",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

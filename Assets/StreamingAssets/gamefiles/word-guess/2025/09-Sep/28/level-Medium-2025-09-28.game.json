@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-09-28",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "reasons",
+      "scramble": "SSEROAN",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "leading",
+      "scramble": "GDELINA",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "traveller",
+      "scramble": "AVLEELTRR",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "reserved",
+      "scramble": "REVSEDRE",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "accepting",
+      "scramble": "ICACEPGNT",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "finally",
+      "scramble": "LIYLAFN",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "briefly",
+      "scramble": "ILBEFRY",
+      "hint": {
+        "index": 6,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "signals",
+      "scramble": "GLSNIAS",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "flowers",
+      "scramble": "EOSWLFR",
+      "hint": {
+        "index": 3,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "desktop",
+      "scramble": "KOPETSD",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

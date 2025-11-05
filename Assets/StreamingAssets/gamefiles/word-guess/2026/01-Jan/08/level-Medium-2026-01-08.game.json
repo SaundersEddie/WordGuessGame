@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-08",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "engines",
+      "scramble": "EGNNEIS",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "express",
+      "scramble": "EERXSSP",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "flights",
+      "scramble": "GLHISTF",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "rankings",
+      "scramble": "IAKNGRNS",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "cingular",
+      "scramble": "IURGNCAL",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "incurred",
+      "scramble": "ECIURRND",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "comparing",
+      "scramble": "CMRPONIAG",
+      "hint": {
+        "index": 8,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "personals",
+      "scramble": "ESSPNAOLR",
+      "hint": {
+        "index": 7,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "minimum",
+      "scramble": "UMMINMI",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "machines",
+      "scramble": "EMHCIANS",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

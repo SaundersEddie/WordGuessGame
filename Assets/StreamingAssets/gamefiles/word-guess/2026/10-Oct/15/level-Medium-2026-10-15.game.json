@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-15",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "resident",
+      "scramble": "IETERSDN",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "brochure",
+      "scramble": "RHOCBUER",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "forward",
+      "scramble": "FRROAWD",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "sexually",
+      "scramble": "LYXUEALS",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "banking",
+      "scramble": "BNKNIGA",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "candidate",
+      "scramble": "NADDTCIAE",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "yorkshire",
+      "scramble": "RIESOHRKY",
+      "hint": {
+        "index": 5,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "verizon",
+      "scramble": "ORZEVIN",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "translate",
+      "scramble": "TEALNTSAR",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "cartoon",
+      "scramble": "COOANTR",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

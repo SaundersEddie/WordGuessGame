@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-27",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "ordered",
+      "scramble": "REORDED",
+      "hint": {
+        "index": 6,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "katrina",
+      "scramble": "IRNAKTA",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "balance",
+      "scramble": "BALNACE",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "awesome",
+      "scramble": "SEMWOAE",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "spending",
+      "scramble": "DPGESNIN",
+      "hint": {
+        "index": 1,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "dietary",
+      "scramble": "AYEDTRI",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "hospital",
+      "scramble": "AILPSTHO",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "directed",
+      "scramble": "RICEDTDE",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "totally",
+      "scramble": "ATTOLYL",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "travels",
+      "scramble": "TEVLASR",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-22",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "quantitative",
+      "scramble": "TITITNEUAQVA",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "bankruptcy",
+      "scramble": "UABTNPKCRY",
+      "hint": {
+        "index": 9,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "ejaculation",
+      "scramble": "TIACALJEONU",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "competitors",
+      "scramble": "ROCOIPSTTEM",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "perspectives",
+      "scramble": "IEESPEVTPSCR",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "experiments",
+      "scramble": "TNSEPREEIMX",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "bestiality",
+      "scramble": "YBIILSETTA",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "instruction",
+      "scramble": "STOUNRCINIT",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "television",
+      "scramble": "TNLEIESOIV",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "assumptions",
+      "scramble": "AUITMSOPNSS",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

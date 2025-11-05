@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-08",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "petersburg",
+      "scramble": "PSRUBERGTE",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "literature",
+      "scramble": "UTAEIERTLR",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "initiatives",
+      "scramble": "VIIIITSNAET",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "collectibles",
+      "scramble": "LOCELSTBILCE",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "programmes",
+      "scramble": "RMOGSREAPM",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "authorized",
+      "scramble": "DOIAHURZET",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "automobile",
+      "scramble": "OUMOAITELB",
+      "hint": {
+        "index": 8,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "disclosure",
+      "scramble": "ICSOULERDS",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "descriptions",
+      "scramble": "RNCIOITDESPS",
+      "hint": {
+        "index": 11,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "systematic",
+      "scramble": "IMCSSEATYT",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

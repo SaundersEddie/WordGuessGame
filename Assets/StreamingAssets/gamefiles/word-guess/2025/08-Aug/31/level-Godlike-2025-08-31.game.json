@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-08-31",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "congratulations",
+      "scramble": "OTILROUNSAGACNT",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "environmental",
+      "scramble": "ERALEVMOINNTN",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "consideration",
+      "scramble": "RECNOINDAOIST",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "compatibility",
+      "scramble": "TMTYAPILCOBII",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "constitutional",
+      "scramble": "SULNCOTTIIATNO",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "significantly",
+      "scramble": "TNGILSIANYICF",
+      "hint": {
+        "index": 2,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "miscellaneous",
+      "scramble": "AESUSMELLOICN",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "investigations",
+      "scramble": "GNSIAIISEVTTNO",
+      "hint": {
+        "index": 12,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "restructuring",
+      "scramble": "RRTTUCINEGRUS",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "undergraduate",
+      "scramble": "ARURNDAGEDUTE",
+      "hint": {
+        "index": 11,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-24",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "token",
+      "scramble": "TEKON",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "wind",
+      "scramble": "IWND",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "bend",
+      "scramble": "DENB",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "corpus",
+      "scramble": "RSPCUO",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "lawyer",
+      "scramble": "YAWREL",
+      "hint": {
+        "index": 2,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "trail",
+      "scramble": "TLAIR",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "asin",
+      "scramble": "ANIS",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "dishes",
+      "scramble": "SESHID",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "casa",
+      "scramble": "ACSA",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "mice",
+      "scramble": "CIEM",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

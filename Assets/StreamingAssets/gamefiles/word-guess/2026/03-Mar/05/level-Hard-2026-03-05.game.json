@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-05",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "investment",
+      "scramble": "IETTSNNEMV",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "improvement",
+      "scramble": "MOMREETPVNI",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "tripadvisor",
+      "scramble": "TSIPODIAVRR",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "acceptable",
+      "scramble": "ABCCEAPETL",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "repository",
+      "scramble": "EIRORSOYTP",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "wellington",
+      "scramble": "WELNGTLONI",
+      "hint": {
+        "index": 0,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "macromedia",
+      "scramble": "RMDAMAEIOC",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "widescreen",
+      "scramble": "WDECSNIEER",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "coordinates",
+      "scramble": "NOESDATRICO",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "substances",
+      "scramble": "SUBCASESTN",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

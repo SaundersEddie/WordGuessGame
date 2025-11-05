@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-25",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "coastal",
+      "scramble": "LCTSOAA",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "cambodia",
+      "scramble": "BCIAADOM",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "portland",
+      "scramble": "LRNTPOAD",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "spanking",
+      "scramble": "PGANKNIS",
+      "hint": {
+        "index": 4,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "patches",
+      "scramble": "HEACPST",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "keywords",
+      "scramble": "DYWKERSO",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "celebrity",
+      "scramble": "REILBETCY",
+      "hint": {
+        "index": 8,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "cameron",
+      "scramble": "ORMCEAN",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "mortality",
+      "scramble": "MYLOAITTR",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "worldcat",
+      "scramble": "LTDORCAW",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

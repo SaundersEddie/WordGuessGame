@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-01",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "assembled",
+      "scramble": "SBSDMALEE",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "hazards",
+      "scramble": "DAAHRZS",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "soldiers",
+      "scramble": "ELRDSOSI",
+      "hint": {
+        "index": 3,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "concepts",
+      "scramble": "CONCESPT",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "intended",
+      "scramble": "NEDTINED",
+      "hint": {
+        "index": 7,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "transmit",
+      "scramble": "TNATSRIM",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "functions",
+      "scramble": "ICSUTNOFN",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "weighted",
+      "scramble": "IWEGHTED",
+      "hint": {
+        "index": 4,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "attempt",
+      "scramble": "TMTATPE",
+      "hint": {
+        "index": 5,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "allowance",
+      "scramble": "LNAOEWLAC",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-05-30",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "retail",
+      "scramble": "RTLIEA",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "extras",
+      "scramble": "TXRESA",
+      "hint": {
+        "index": 1,
+        "letter": "x"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "powers",
+      "scramble": "EORPSW",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "soon",
+      "scramble": "NSOO",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "photos",
+      "scramble": "POHTSO",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "polls",
+      "scramble": "POSLL",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "gospel",
+      "scramble": "OSPGEL",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "cache",
+      "scramble": "CHCEA",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "houses",
+      "scramble": "SOHSUE",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "smile",
+      "scramble": "LSIME",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

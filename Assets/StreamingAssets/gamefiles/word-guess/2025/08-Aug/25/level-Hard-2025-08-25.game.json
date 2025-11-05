@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-08-25",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "registration",
+      "scramble": "RSEOGTNIAITR",
+      "hint": {
+        "index": 9,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "contacting",
+      "scramble": "IOTANTCCNG",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "resolution",
+      "scramble": "RESLTIOUNO",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "situations",
+      "scramble": "NSSUOIATIT",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "flexibility",
+      "scramble": "EFBYIXILLTI",
+      "hint": {
+        "index": 7,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "presentation",
+      "scramble": "NIOEPSRATNET",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "biographies",
+      "scramble": "GIEOAPIHBRS",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "transmitted",
+      "scramble": "ERAMTNIDTTS",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "refrigerator",
+      "scramble": "TOFERRIRREAG",
+      "hint": {
+        "index": 2,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "instrumental",
+      "scramble": "RSNUTAMIETLN",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

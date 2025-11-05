@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-20",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "user",
+      "scramble": "USRE",
+      "hint": {
+        "index": 1,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "donald",
+      "scramble": "DANDLO",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "stored",
+      "scramble": "DSORTE",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "danny",
+      "scramble": "YANDN",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "null",
+      "scramble": "ULNL",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "boats",
+      "scramble": "BOTAS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "geneva",
+      "scramble": "NEGEVA",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "basket",
+      "scramble": "EABKTS",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "ambien",
+      "scramble": "EIBNAM",
+      "hint": {
+        "index": 2,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "roll",
+      "scramble": "LOLR",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

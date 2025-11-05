@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-08-27",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "space",
+      "scramble": "PASCE",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "trade",
+      "scramble": "EDART",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "studio",
+      "scramble": "SDOUIT",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "dolls",
+      "scramble": "DSOLL",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "yale",
+      "scramble": "YEAL",
+      "hint": {
+        "index": 0,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "send",
+      "scramble": "DESN",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "gras",
+      "scramble": "GSAR",
+      "hint": {
+        "index": 0,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "gmbh",
+      "scramble": "MHBG",
+      "hint": {
+        "index": 2,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "divide",
+      "scramble": "IIEDVD",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "banks",
+      "scramble": "NBAKS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-18",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "consolidation",
+      "scramble": "OINOTLSNIACOD",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "collaboration",
+      "scramble": "OLALNOORICTBA",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "extraordinary",
+      "scramble": "NRYETRAOIXRAD",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "identification",
+      "scramble": "OTCDAFINTIIEIN",
+      "hint": {
+        "index": 13,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "internationally",
+      "scramble": "TITLLARNANENOYI",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "organisations",
+      "scramble": "GORNAAIISTONS",
+      "hint": {
+        "index": 10,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "qualification",
+      "scramble": "AIIAITUCFLQON",
+      "hint": {
+        "index": 7,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "informational",
+      "scramble": "LIFIOONRATMAN",
+      "hint": {
+        "index": 2,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "technological",
+      "scramble": "HICLTNECOLGAO",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "accessibility",
+      "scramble": "LSICCSIIAYEBT",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-22",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "view",
+      "scramble": "IWEV",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "viewed",
+      "scramble": "VWEIED",
+      "hint": {
+        "index": 0,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "tracy",
+      "scramble": "CYART",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "cock",
+      "scramble": "KCCO",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "patrol",
+      "scramble": "OATRLP",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "laos",
+      "scramble": "OLAS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "device",
+      "scramble": "EDVCEI",
+      "hint": {
+        "index": 2,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "real",
+      "scramble": "ERAL",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "jets",
+      "scramble": "TEJS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "moving",
+      "scramble": "MNVGIO",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

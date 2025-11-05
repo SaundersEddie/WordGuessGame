@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-02",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "households",
+      "scramble": "LOSEUHOHDS",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "organisation",
+      "scramble": "ANINSOIOTRAG",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "widescreen",
+      "scramble": "NEDWRIEECS",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "possession",
+      "scramble": "PNESSISSOO",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "disciplines",
+      "scramble": "CEPNIILISDS",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "foundations",
+      "scramble": "NIAUTNOFODS",
+      "hint": {
+        "index": 10,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "adjustments",
+      "scramble": "TJDNETSAMUS",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "obligations",
+      "scramble": "OLBISGOTINA",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "screensavers",
+      "scramble": "AEERSSREVNSC",
+      "hint": {
+        "index": 8,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "recognised",
+      "scramble": "ECNGODESRI",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-03",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "implementation",
+      "scramble": "LEPMTNAIIOMTNE",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "instructional",
+      "scramble": "NTNUCRITILASO",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "correspondence",
+      "scramble": "ERECEOROPNSNCD",
+      "hint": {
+        "index": 12,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "controversial",
+      "scramble": "LRCTSOANRVEOI",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "representatives",
+      "scramble": "PNRSEREETISTVAE",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "vulnerability",
+      "scramble": "BITIANVRELULY",
+      "hint": {
+        "index": 12,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "transformation",
+      "scramble": "NMASFTRONIAROT",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "pharmaceuticals",
+      "scramble": "HACSLMPARTICEAU",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "administrative",
+      "scramble": "IENDMITRTSAIVA",
+      "hint": {
+        "index": 11,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "representative",
+      "scramble": "VERSETTNRAEEIP",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

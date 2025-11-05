@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-31",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "experiments",
+      "scramble": "XIPSRENTEEM",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "replacement",
+      "scramble": "PEREMLCEANT",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "appointments",
+      "scramble": "PNPOTSIMENTA",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "mississippi",
+      "scramble": "IIPPIMSSSSI",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "volunteers",
+      "scramble": "EOVRLTNUES",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "disability",
+      "scramble": "DSIAYITBIL",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "interference",
+      "scramble": "RCNFREINETEE",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "forwarding",
+      "scramble": "DWRGAIFORN",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "recruiting",
+      "scramble": "TIRRENUCIG",
+      "hint": {
+        "index": 9,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "findarticles",
+      "scramble": "LRNFEASITICD",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

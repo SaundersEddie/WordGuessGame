@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-27",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "economics",
+      "scramble": "CIMNEOCOS",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "advance",
+      "scramble": "EVNAADC",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "maryland",
+      "scramble": "MDLYRAAN",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "clusters",
+      "scramble": "UCTESRLS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "telescope",
+      "scramble": "CEOSEPELT",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "service",
+      "scramble": "RIEESCV",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "retailers",
+      "scramble": "RSEEIATRL",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "pursuit",
+      "scramble": "PURTSIU",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "tutorial",
+      "scramble": "TATUORIL",
+      "hint": {
+        "index": 7,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "taxation",
+      "scramble": "ANXIATOT",
+      "hint": {
+        "index": 2,
+        "letter": "x"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

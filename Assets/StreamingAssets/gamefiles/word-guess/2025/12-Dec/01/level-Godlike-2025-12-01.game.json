@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-01",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "determination",
+      "scramble": "AONINMEDTRETI",
+      "hint": {
+        "index": 5,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "organizations",
+      "scramble": "ARGIOZNOTSNIA",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "transformation",
+      "scramble": "ORANINSMTRAOFT",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "investigations",
+      "scramble": "SVIETNINATSOGI",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "specifications",
+      "scramble": "TAIFSCPSCENOII",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "environmental",
+      "scramble": "NNVELAMORNEIT",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "unfortunately",
+      "scramble": "UFLTONARUTNEY",
+      "hint": {
+        "index": 0,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "reconstruction",
+      "scramble": "TTOONCERNRICUS",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "communications",
+      "scramble": "OCISONTMMIACNU",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "contamination",
+      "scramble": "AIMCOAINTNNTO",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

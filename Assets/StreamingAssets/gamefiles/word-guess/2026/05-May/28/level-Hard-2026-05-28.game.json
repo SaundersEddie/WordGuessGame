@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-28",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "acquisition",
+      "scramble": "ACOIIUINTSQ",
+      "hint": {
+        "index": 1,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "attractive",
+      "scramble": "ETVCAATIRT",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "persistent",
+      "scramble": "NESSTRPTIE",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "stakeholders",
+      "scramble": "DTKOHESLERAS",
+      "hint": {
+        "index": 7,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "telecharger",
+      "scramble": "LEHGREAETRC",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "examination",
+      "scramble": "NMNTXEAAIIO",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "nutritional",
+      "scramble": "LTINITAOUNR",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "expiration",
+      "scramble": "OATIRNXEIP",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "allocation",
+      "scramble": "ALCLNAOTOI",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "availability",
+      "scramble": "AYLIAVBLTIAI",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

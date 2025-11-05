@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-16",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "router",
+      "scramble": "ERUOTR",
+      "hint": {
+        "index": 2,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "wright",
+      "scramble": "THIGRW",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "picks",
+      "scramble": "SPIKC",
+      "hint": {
+        "index": 3,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "heavy",
+      "scramble": "HEYAV",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "edges",
+      "scramble": "EGEDS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "multi",
+      "scramble": "LMTUI",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "talks",
+      "scramble": "SALKT",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "have",
+      "scramble": "EAVH",
+      "hint": {
+        "index": 2,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "sleeps",
+      "scramble": "SLESEP",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "bhutan",
+      "scramble": "BNHTUA",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

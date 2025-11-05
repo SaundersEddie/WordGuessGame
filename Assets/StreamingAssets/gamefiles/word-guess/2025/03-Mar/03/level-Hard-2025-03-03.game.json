@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-03",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "structured",
+      "scramble": "CTRUSRTDUE",
+      "hint": {
+        "index": 1,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "understand",
+      "scramble": "NTENRUDASD",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "participated",
+      "scramble": "AIDEARIPTCPT",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "acknowledge",
+      "scramble": "KLNAEWOEGDC",
+      "hint": {
+        "index": 5,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "enlargement",
+      "scramble": "NGAERTNEEML",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "difficulty",
+      "scramble": "DFTIICLYUF",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "motorcycles",
+      "scramble": "RSOLCCYEMOT",
+      "hint": {
+        "index": 6,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "satisfactory",
+      "scramble": "SIYACTAFTOSR",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "completion",
+      "scramble": "EOONTIPCLM",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "comfortable",
+      "scramble": "LOBEFCTAOMR",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-07-08",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "telephony",
+      "scramble": "OLEHYTENP",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "istanbul",
+      "scramble": "SABTNLUI",
+      "hint": {
+        "index": 6,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "southwest",
+      "scramble": "UHOTWTESS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "journal",
+      "scramble": "RAJNUOL",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "notified",
+      "scramble": "TIDNIOEF",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "emissions",
+      "scramble": "SISEMNOIS",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "stomach",
+      "scramble": "CAOTMHS",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "welcome",
+      "scramble": "WCELEMO",
+      "hint": {
+        "index": 5,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "delicious",
+      "scramble": "IEUSDCILO",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "compared",
+      "scramble": "RMPDOAEC",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

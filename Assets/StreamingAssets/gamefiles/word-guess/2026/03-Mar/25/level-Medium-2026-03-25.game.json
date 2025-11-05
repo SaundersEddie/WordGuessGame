@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-25",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "destroyed",
+      "scramble": "ODSDEERYT",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "requiring",
+      "scramble": "GIEUQRINR",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "missile",
+      "scramble": "EIISLSM",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "synopsis",
+      "scramble": "NSSIPYSO",
+      "hint": {
+        "index": 4,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "bathroom",
+      "scramble": "HOATRBOM",
+      "hint": {
+        "index": 7,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "celebrate",
+      "scramble": "ELAEBETRC",
+      "hint": {
+        "index": 4,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "boulder",
+      "scramble": "EULOBDR",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "opposed",
+      "scramble": "EPPODOS",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "counted",
+      "scramble": "OCNUETD",
+      "hint": {
+        "index": 6,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "portions",
+      "scramble": "TOPOINSR",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

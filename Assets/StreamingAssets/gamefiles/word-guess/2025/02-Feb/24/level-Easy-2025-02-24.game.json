@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-24",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "prayer",
+      "scramble": "RPEYRA",
+      "hint": {
+        "index": 3,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "kathy",
+      "scramble": "YKTHA",
+      "hint": {
+        "index": 3,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "cool",
+      "scramble": "OCOL",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "power",
+      "scramble": "PWROE",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "blonde",
+      "scramble": "BNOLED",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "happy",
+      "scramble": "PAYHP",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "sagem",
+      "scramble": "SMAEG",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "varied",
+      "scramble": "EAIDRV",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "train",
+      "scramble": "TINAR",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "thumb",
+      "scramble": "THBMU",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

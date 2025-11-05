@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-14",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "period",
+      "scramble": "PREOID",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "layers",
+      "scramble": "LYARES",
+      "hint": {
+        "index": 0,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "flower",
+      "scramble": "ELROFW",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "luther",
+      "scramble": "HLUTER",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "rocky",
+      "scramble": "KOCRY",
+      "hint": {
+        "index": 4,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "linux",
+      "scramble": "XILUN",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "harper",
+      "scramble": "RHRPEA",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "newark",
+      "scramble": "NWAKRE",
+      "hint": {
+        "index": 0,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "jobs",
+      "scramble": "SOBJ",
+      "hint": {
+        "index": 2,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "butler",
+      "scramble": "EUBTLR",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

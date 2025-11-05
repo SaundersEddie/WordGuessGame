@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-02",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "only",
+      "scramble": "OYNL",
+      "hint": {
+        "index": 0,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "promo",
+      "scramble": "PORMO",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "filter",
+      "scramble": "LIFRTE",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "method",
+      "scramble": "TMEHOD",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "inline",
+      "scramble": "LNEINI",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "access",
+      "scramble": "SSCAEC",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "ship",
+      "scramble": "SPIH",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "site",
+      "scramble": "TSIE",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "yard",
+      "scramble": "AYRD",
+      "hint": {
+        "index": 3,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "dildos",
+      "scramble": "DDLISO",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-12",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "collections",
+      "scramble": "OTINLSCLOEC",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "structures",
+      "scramble": "RTCRSSUUTE",
+      "hint": {
+        "index": 6,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "vegetables",
+      "scramble": "ESLEBVTAEG",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "properties",
+      "scramble": "PISPEERROT",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "executives",
+      "scramble": "VSEETEXUIC",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "fundraising",
+      "scramble": "DFIURNGSIAN",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "descending",
+      "scramble": "SEIEDNNDGC",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "developments",
+      "scramble": "DTEVMOEPNSEL",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "informative",
+      "scramble": "IAMOTFRINVE",
+      "hint": {
+        "index": 9,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "notification",
+      "scramble": "TNFITACNIOOI",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

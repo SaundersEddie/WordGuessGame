@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-06",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "holes",
+      "scramble": "HLESO",
+      "hint": {
+        "index": 0,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "polo",
+      "scramble": "OPLO",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "emails",
+      "scramble": "LEASIM",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "horse",
+      "scramble": "HRSOE",
+      "hint": {
+        "index": 0,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "plates",
+      "scramble": "PTLAES",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "tumor",
+      "scramble": "UTROM",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "charge",
+      "scramble": "HCRAGE",
+      "hint": {
+        "index": 4,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "folk",
+      "scramble": "KOLF",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "auto",
+      "scramble": "TUAO",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "hide",
+      "scramble": "DIHE",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-11",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "attempting",
+      "scramble": "INMTEPGTTA",
+      "hint": {
+        "index": 5,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "identified",
+      "scramble": "FDEITNIIDE",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "palestinian",
+      "scramble": "ANIISTELNPA",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "biological",
+      "scramble": "IIGLOCLAOB",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "facilitate",
+      "scramble": "FTEALICTIA",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "theoretical",
+      "scramble": "AECOHTILTER",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "calculators",
+      "scramble": "CACTSROULAL",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "commonwealth",
+      "scramble": "OALEMONCMWTH",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "participant",
+      "scramble": "CNPRITIPTAA",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "suspension",
+      "scramble": "SPISENNSUO",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

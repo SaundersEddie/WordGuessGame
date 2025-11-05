@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-11",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "decline",
+      "scramble": "NIDCELE",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "navigator",
+      "scramble": "ROAIGVATN",
+      "hint": {
+        "index": 4,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "pentium",
+      "scramble": "PTNMIEU",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "strictly",
+      "scramble": "SCTLRTYI",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "overhead",
+      "scramble": "AOVDHERE",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "reprints",
+      "scramble": "RSPEITNR",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "simpsons",
+      "scramble": "MINPOSSS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "entries",
+      "scramble": "ESTIREN",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "creations",
+      "scramble": "AINRTOECS",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "graphics",
+      "scramble": "IRHGPACS",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

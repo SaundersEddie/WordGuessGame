@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-09-28",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "cardiovascular",
+      "scramble": "ACASIROLVCURDA",
+      "hint": {
+        "index": 10,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "transcription",
+      "scramble": "TIAIRPNNOCRTS",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "entrepreneurs",
+      "scramble": "EENRENRSUTERP",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "architectural",
+      "scramble": "ACUCHTLTRREIA",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "representative",
+      "scramble": "EIENTSERRAETVP",
+      "hint": {
+        "index": 12,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "environmental",
+      "scramble": "NLARNTIEENOMV",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "collaborative",
+      "scramble": "ARLACIBVLTOEO",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "parliamentary",
+      "scramble": "IAPRLAERMATNY",
+      "hint": {
+        "index": 12,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "classification",
+      "scramble": "AIICSILACNSFTO",
+      "hint": {
+        "index": 8,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "consideration",
+      "scramble": "TCONRNODSIIAE",
+      "hint": {
+        "index": 10,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

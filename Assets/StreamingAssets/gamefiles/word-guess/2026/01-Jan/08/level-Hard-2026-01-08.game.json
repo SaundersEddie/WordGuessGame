@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-08",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "screensavers",
+      "scramble": "RRCSESSEVENA",
+      "hint": {
+        "index": 8,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "installation",
+      "scramble": "TTNNIOIAALLS",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "electricity",
+      "scramble": "YRELTCITECI",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "collective",
+      "scramble": "ELCIOCTEVL",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "measurement",
+      "scramble": "ETEMERSAMNU",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "restaurant",
+      "scramble": "AURTAESTNR",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "calculator",
+      "scramble": "ATUOLLCACR",
+      "hint": {
+        "index": 9,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "consecutive",
+      "scramble": "IUNCESVTCEO",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "businesses",
+      "scramble": "SSSNUEBSIE",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "restaurants",
+      "scramble": "SARANUTERTS",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

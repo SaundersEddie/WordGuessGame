@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-06-04",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "recordings",
+      "scramble": "CERSNDORGI",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "enforcement",
+      "scramble": "NFEERCOMENT",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "customized",
+      "scramble": "UMSOZTCDEI",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "instruments",
+      "scramble": "NMNTERTSSUI",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "enlargement",
+      "scramble": "RLGTMNEEENA",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "pennsylvania",
+      "scramble": "YINPNALVNEAS",
+      "hint": {
+        "index": 7,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "professional",
+      "scramble": "ARSOFSLEPINO",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "monitoring",
+      "scramble": "OONNMITIRG",
+      "hint": {
+        "index": 9,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "certificates",
+      "scramble": "CESTAIIEFCTR",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "governmental",
+      "scramble": "TRAMNNEVGEOL",
+      "hint": {
+        "index": 11,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-09-19",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "modular",
+      "scramble": "OMUDRAL",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "depends",
+      "scramble": "NEDPSDE",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "isolation",
+      "scramble": "SOLTIOIAN",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "register",
+      "scramble": "RSGRTEIE",
+      "hint": {
+        "index": 2,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "language",
+      "scramble": "AALGEUGN",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "creation",
+      "scramble": "ANECRITO",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "earlier",
+      "scramble": "LERIREA",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "terrace",
+      "scramble": "TREECRA",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "interval",
+      "scramble": "ANTVILER",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "invited",
+      "scramble": "IVDNIET",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

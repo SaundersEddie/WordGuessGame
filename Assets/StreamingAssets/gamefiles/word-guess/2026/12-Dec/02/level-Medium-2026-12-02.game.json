@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-02",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "exercises",
+      "scramble": "SXIECERSE",
+      "hint": {
+        "index": 1,
+        "letter": "x"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "delaware",
+      "scramble": "DEWLEARA",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "realtor",
+      "scramble": "ROATERL",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "investor",
+      "scramble": "NOESRTIV",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "licensing",
+      "scramble": "NSGCLIINE",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "keyboard",
+      "scramble": "YKODBERA",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "intention",
+      "scramble": "INTTNINOE",
+      "hint": {
+        "index": 7,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "enjoyed",
+      "scramble": "DNOEYEJ",
+      "hint": {
+        "index": 4,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "strongly",
+      "scramble": "LOTSNGRY",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "published",
+      "scramble": "IUDLPBHSE",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

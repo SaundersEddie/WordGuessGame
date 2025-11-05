@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-12",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "prevention",
+      "scramble": "IOPRNETEVN",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "delivering",
+      "scramble": "INLEREVDIG",
+      "hint": {
+        "index": 9,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "previously",
+      "scramble": "ILYVOURESP",
+      "hint": {
+        "index": 3,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "successful",
+      "scramble": "SCCELUFSSU",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "multimedia",
+      "scramble": "AITMILEDUM",
+      "hint": {
+        "index": 7,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "reproduced",
+      "scramble": "OEURRCDEDP",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "constitute",
+      "scramble": "UTOSTITNCE",
+      "hint": {
+        "index": 9,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "electronic",
+      "scramble": "LONETIECRC",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "inspiration",
+      "scramble": "SITOAIRPINN",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "university",
+      "scramble": "YIVIURSTNE",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-09",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "markets",
+      "scramble": "ARMKSTE",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "council",
+      "scramble": "LCUNCIO",
+      "hint": {
+        "index": 2,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "achieving",
+      "scramble": "NAIEIVCHG",
+      "hint": {
+        "index": 8,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "reactions",
+      "scramble": "EATNICROS",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "loading",
+      "scramble": "AONILGD",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "excellent",
+      "scramble": "NTEXCLEEL",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "freeware",
+      "scramble": "FAEERWRE",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "cigarette",
+      "scramble": "GICREETAT",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "excessive",
+      "scramble": "XESECEIVS",
+      "hint": {
+        "index": 7,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "explain",
+      "scramble": "NXPAELI",
+      "hint": {
+        "index": 1,
+        "letter": "x"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

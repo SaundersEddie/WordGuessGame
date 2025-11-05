@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-08-18",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "prospect",
+      "scramble": "OPPTSERC",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "spectrum",
+      "scramble": "EMCTSRPU",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "conflict",
+      "scramble": "LTCCFION",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "porcelain",
+      "scramble": "IORNEPLAC",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "disorder",
+      "scramble": "SDDOIRER",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "exhaust",
+      "scramble": "UXASTEH",
+      "hint": {
+        "index": 1,
+        "letter": "x"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "verified",
+      "scramble": "DEIFEVRI",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "classroom",
+      "scramble": "OOMASRLCS",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "ringtone",
+      "scramble": "EGRNTONI",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "driving",
+      "scramble": "GRINIDV",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-27",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "oval",
+      "scramble": "OALV",
+      "hint": {
+        "index": 0,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "food",
+      "scramble": "FODO",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "harris",
+      "scramble": "HARIRS",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "meant",
+      "scramble": "METAN",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "island",
+      "scramble": "NDLSAI",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "ever",
+      "scramble": "VEER",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "tour",
+      "scramble": "TUOR",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "lexus",
+      "scramble": "EUXSL",
+      "hint": {
+        "index": 2,
+        "letter": "x"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "force",
+      "scramble": "FRCOE",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "beast",
+      "scramble": "EBSAT",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

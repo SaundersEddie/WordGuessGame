@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-07-24",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "once",
+      "scramble": "ONEC",
+      "hint": {
+        "index": 0,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "unique",
+      "scramble": "EUNIUQ",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "uganda",
+      "scramble": "UADNGA",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "zinc",
+      "scramble": "ZCNI",
+      "hint": {
+        "index": 0,
+        "letter": "z"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "dying",
+      "scramble": "DYIGN",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "sons",
+      "scramble": "NSOS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "note",
+      "scramble": "OTNE",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "sales",
+      "scramble": "ASELS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "jacket",
+      "scramble": "KCJTEA",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "throws",
+      "scramble": "OHWTRS",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-04",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "clothing",
+      "scramble": "INLTHCOG",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "headset",
+      "scramble": "EEHATSD",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "household",
+      "scramble": "HEUDLOSOH",
+      "hint": {
+        "index": 0,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "numbers",
+      "scramble": "NSUMBER",
+      "hint": {
+        "index": 0,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "seekers",
+      "scramble": "SRKESEE",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "gamespot",
+      "scramble": "TGMEASOP",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "nightlife",
+      "scramble": "FGLHETIIN",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "placement",
+      "scramble": "PCANLMEET",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "checkout",
+      "scramble": "EOCHCTUK",
+      "hint": {
+        "index": 6,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "personnel",
+      "scramble": "OERPSNLNE",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-21",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "endif",
+      "scramble": "EDNIF",
+      "hint": {
+        "index": 4,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "nasa",
+      "scramble": "SANA",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "nelson",
+      "scramble": "ENLSON",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "gene",
+      "scramble": "GNEE",
+      "hint": {
+        "index": 0,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "coins",
+      "scramble": "OSINC",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "prices",
+      "scramble": "PERISC",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "vary",
+      "scramble": "VYRA",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "diego",
+      "scramble": "DOIGE",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "intro",
+      "scramble": "IONTR",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "zoning",
+      "scramble": "ZINGON",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

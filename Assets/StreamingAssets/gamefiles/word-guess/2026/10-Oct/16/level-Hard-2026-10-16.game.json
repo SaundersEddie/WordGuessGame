@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-16",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "confidence",
+      "scramble": "CEOFNDIECN",
+      "hint": {
+        "index": 3,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "greensboro",
+      "scramble": "ORBENESGRO",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "translations",
+      "scramble": "SARSNILTAONT",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "charitable",
+      "scramble": "AHTBLCARIE",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "identified",
+      "scramble": "ITDNEEDFII",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "outstanding",
+      "scramble": "DNTSAGTNIOU",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "atmosphere",
+      "scramble": "AEMEOTHSRP",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "purchasing",
+      "scramble": "CNRSGHUIAP",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "accordingly",
+      "scramble": "LACNIGRDOCY",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "thereafter",
+      "scramble": "FHATEEETRR",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

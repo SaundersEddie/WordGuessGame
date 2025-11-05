@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-05",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "calculation",
+      "scramble": "CANIUOLCLTA",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "consequences",
+      "scramble": "SECCNQOEUENS",
+      "hint": {
+        "index": 11,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "connections",
+      "scramble": "CNONCTENSIO",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "maintained",
+      "scramble": "AENMTNIIAD",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "excellence",
+      "scramble": "ECEEXNLELC",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "prescription",
+      "scramble": "NRCOTSPIPEIR",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "widespread",
+      "scramble": "DEWAEPISRD",
+      "hint": {
+        "index": 9,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "distribute",
+      "scramble": "BERDTISUTI",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "establishing",
+      "scramble": "EILAGSTBHNIS",
+      "hint": {
+        "index": 8,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "relatively",
+      "scramble": "LTEAEILYVR",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

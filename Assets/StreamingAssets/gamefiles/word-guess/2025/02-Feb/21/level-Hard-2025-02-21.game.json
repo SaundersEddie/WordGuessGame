@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-21",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "obituaries",
+      "scramble": "AIRUEBOITS",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "conclusions",
+      "scramble": "NOICLNCSOUS",
+      "hint": {
+        "index": 10,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "remarkable",
+      "scramble": "RBEAKMREAL",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "experience",
+      "scramble": "NEIEEEXPCR",
+      "hint": {
+        "index": 8,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "marketplace",
+      "scramble": "MAKRCELAETP",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "consultancy",
+      "scramble": "CNOCYLASNUT",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "competitors",
+      "scramble": "MTPSOTCOREI",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "exploration",
+      "scramble": "OXLOERNITAP",
+      "hint": {
+        "index": 1,
+        "letter": "x"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "implementing",
+      "scramble": "PGILTIMENNME",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "philippines",
+      "scramble": "ESPHPPIINIL",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

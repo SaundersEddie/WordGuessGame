@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-28",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "ethiopia",
+      "scramble": "OEAIIPTH",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "acrylic",
+      "scramble": "LCIYCRA",
+      "hint": {
+        "index": 3,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "jackson",
+      "scramble": "NAOCSKJ",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "performer",
+      "scramble": "EEMPORRRF",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "symphony",
+      "scramble": "YHMNSPOY",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "brilliant",
+      "scramble": "LNIITLRAB",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "normally",
+      "scramble": "AONYLRLM",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "rejected",
+      "scramble": "ETRDCEJE",
+      "hint": {
+        "index": 4,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "circuit",
+      "scramble": "CRTIUIC",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "beverages",
+      "scramble": "BVASREEEG",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

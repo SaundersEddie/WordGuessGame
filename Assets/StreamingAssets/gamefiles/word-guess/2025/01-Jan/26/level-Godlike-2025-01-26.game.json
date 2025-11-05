@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-26",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "organizational",
+      "scramble": "RZINIAOLTGAONA",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "entertainment",
+      "scramble": "TEAETITNNMENR",
+      "hint": {
+        "index": 9,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "significantly",
+      "scramble": "NISTGLACIIYFN",
+      "hint": {
+        "index": 7,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "documentation",
+      "scramble": "TNIOOACTEDNMU",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "specification",
+      "scramble": "IOICPFAISTCNE",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "massachusetts",
+      "scramble": "SSUTTHSSCEAMA",
+      "hint": {
+        "index": 9,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "contributions",
+      "scramble": "CTNBUIINORSOT",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "specifications",
+      "scramble": "OAECITICPSSFNI",
+      "hint": {
+        "index": 12,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "transportation",
+      "scramble": "TRNINATTRAPOSO",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "representations",
+      "scramble": "TRTOASNSNREIEPE",
+      "hint": {
+        "index": 11,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

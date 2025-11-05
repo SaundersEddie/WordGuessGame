@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-19",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "phenomenon",
+      "scramble": "ONMHOENNEP",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "comparable",
+      "scramble": "CBAERLPOAM",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "competitions",
+      "scramble": "IEMCPTITOSNO",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "metropolitan",
+      "scramble": "NLTPMOORAIET",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "wilderness",
+      "scramble": "NILESSDWRE",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "calculated",
+      "scramble": "LCEALCATUD",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "measurements",
+      "scramble": "TRSESUMAENEM",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "bestiality",
+      "scramble": "IEBTLYTISA",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "postposted",
+      "scramble": "DTSPPOSTEO",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "efficiency",
+      "scramble": "NFEYICEICF",
+      "hint": {
+        "index": 1,
+        "letter": "f"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

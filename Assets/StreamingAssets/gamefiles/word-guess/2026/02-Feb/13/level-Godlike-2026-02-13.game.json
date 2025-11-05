@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-13",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "communication",
+      "scramble": "CCTIMNOUAMOIN",
+      "hint": {
+        "index": 12,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "strengthening",
+      "scramble": "GIHNGETNNRETS",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "championships",
+      "scramble": "HIAIOSNPPHMCS",
+      "hint": {
+        "index": 12,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "administration",
+      "scramble": "IDMIOTNSAATRIN",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "accommodation",
+      "scramble": "MOAOONDCTIACM",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "undergraduate",
+      "scramble": "DRTNDUEEUAARG",
+      "hint": {
+        "index": 10,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "cardiovascular",
+      "scramble": "RDCCAOISUARLVA",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "starsmerchant",
+      "scramble": "RTARNSSMTCHEA",
+      "hint": {
+        "index": 1,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "characterized",
+      "scramble": "CDREHATRIEACZ",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "responsibilities",
+      "scramble": "SIISEISBRNLTOEPI",
+      "hint": {
+        "index": 10,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

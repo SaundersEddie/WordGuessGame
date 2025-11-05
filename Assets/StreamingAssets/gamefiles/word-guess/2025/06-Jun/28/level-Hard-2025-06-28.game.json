@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-06-28",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "sensitivity",
+      "scramble": "ITNSTIIVYSE",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "merchandise",
+      "scramble": "IHDMEANSERC",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "philippines",
+      "scramble": "IEPPNHPISLI",
+      "hint": {
+        "index": 6,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "specialties",
+      "scramble": "CPESLATIIES",
+      "hint": {
+        "index": 10,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "introduces",
+      "scramble": "NSORTIECDU",
+      "hint": {
+        "index": 7,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "understand",
+      "scramble": "TUDRDSANNE",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "associates",
+      "scramble": "SAIOCTSSEA",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "introduction",
+      "scramble": "ITDRNTNUICOO",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "employment",
+      "scramble": "NTELOYPMEM",
+      "hint": {
+        "index": 5,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "geographical",
+      "scramble": "GEIHCLPORGAA",
+      "hint": {
+        "index": 6,
+        "letter": "p"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

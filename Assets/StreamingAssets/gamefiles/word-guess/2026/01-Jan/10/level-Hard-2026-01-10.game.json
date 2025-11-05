@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-10",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "unemployment",
+      "scramble": "NEEMMYUTLNPO",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "favourites",
+      "scramble": "FOITRUAVSE",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "components",
+      "scramble": "PONCTOMNSE",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "methodology",
+      "scramble": "MYOHDELOOGT",
+      "hint": {
+        "index": 3,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "relaxation",
+      "scramble": "ARLOXNETIA",
+      "hint": {
+        "index": 4,
+        "letter": "x"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "operations",
+      "scramble": "ORNPAOITES",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "verzeichnis",
+      "scramble": "ESZNHIVRIEC",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "threatened",
+      "scramble": "AETRTEEHND",
+      "hint": {
+        "index": 9,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "interfaces",
+      "scramble": "ESCTREFNAI",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "ejaculation",
+      "scramble": "IJCLEOAUTAN",
+      "hint": {
+        "index": 10,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

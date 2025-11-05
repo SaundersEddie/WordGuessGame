@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-03",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "hardcore",
+      "scramble": "HACREODR",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "medieval",
+      "scramble": "MEADLVEI",
+      "hint": {
+        "index": 5,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "permits",
+      "scramble": "PSETIRM",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "prepared",
+      "scramble": "PDEREAPR",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "employed",
+      "scramble": "EMLYOEPD",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "cathedral",
+      "scramble": "CLTHADERA",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "respected",
+      "scramble": "ETPSDCERE",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "contacted",
+      "scramble": "EDNTAOTCC",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "firmware",
+      "scramble": "FWRMEIAR",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "printer",
+      "scramble": "RPINRET",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

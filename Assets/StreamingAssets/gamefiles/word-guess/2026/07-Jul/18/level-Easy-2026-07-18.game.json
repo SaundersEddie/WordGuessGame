@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-18",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "swim",
+      "scramble": "SWMI",
+      "hint": {
+        "index": 1,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "native",
+      "scramble": "NETAIV",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "surrey",
+      "scramble": "SURERY",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "gerald",
+      "scramble": "DARELG",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "mail",
+      "scramble": "MALI",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "other",
+      "scramble": "TOEHR",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "ment",
+      "scramble": "MNET",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "where",
+      "scramble": "HEERW",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "oasis",
+      "scramble": "OIASS",
+      "hint": {
+        "index": 0,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "insert",
+      "scramble": "NSTEIR",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

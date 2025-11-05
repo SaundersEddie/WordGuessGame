@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-06-12",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "items",
+      "scramble": "ITSME",
+      "hint": {
+        "index": 1,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "yellow",
+      "scramble": "OEWYLL",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "disney",
+      "scramble": "YSENID",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "gain",
+      "scramble": "GANI",
+      "hint": {
+        "index": 0,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "virgin",
+      "scramble": "VRGINI",
+      "hint": {
+        "index": 0,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "guest",
+      "scramble": "SUEGT",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "rural",
+      "scramble": "URLAR",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "leave",
+      "scramble": "LEAEV",
+      "hint": {
+        "index": 0,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "poly",
+      "scramble": "PYLO",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "skills",
+      "scramble": "SSLLIK",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

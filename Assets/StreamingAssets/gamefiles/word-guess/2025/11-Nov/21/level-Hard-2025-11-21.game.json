@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-11-21",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "organisation",
+      "scramble": "ONIIRNOSGATA",
+      "hint": {
+        "index": 0,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "antibodies",
+      "scramble": "BSIINOATDE",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "recommended",
+      "scramble": "DMOEDNECREM",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "absolutely",
+      "scramble": "ALLTBOSEUY",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "suggestion",
+      "scramble": "SGOTISGUNE",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "underground",
+      "scramble": "DOEGRNURUND",
+      "hint": {
+        "index": 10,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "established",
+      "scramble": "BEHISATSLED",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "indicating",
+      "scramble": "DNIACITGIN",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "strategies",
+      "scramble": "SIRTTAESEG",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "termination",
+      "scramble": "IRNANOETIMT",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

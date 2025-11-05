@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-04-13",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "assessed",
+      "scramble": "ESSSSDAE",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "telecom",
+      "scramble": "TLMOECE",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "millions",
+      "scramble": "NOMLILIS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "bouquet",
+      "scramble": "TBQEUOU",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "interior",
+      "scramble": "INEIOTRR",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "adapters",
+      "scramble": "EDSTRPAA",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "miracle",
+      "scramble": "LCMARIE",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "resulted",
+      "scramble": "RSEETLDU",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "seafood",
+      "scramble": "SOAEDOF",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "switches",
+      "scramble": "WCSHTEIS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

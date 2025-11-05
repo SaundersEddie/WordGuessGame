@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-02",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "eden",
+      "scramble": "NDEE",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "fill",
+      "scramble": "IFLL",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "money",
+      "scramble": "MEYON",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "rolled",
+      "scramble": "LOELRD",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "worth",
+      "scramble": "WTROH",
+      "hint": {
+        "index": 4,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "pizza",
+      "scramble": "PZAIZ",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "funny",
+      "scramble": "NUFNY",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "santa",
+      "scramble": "AANST",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "cannon",
+      "scramble": "OCNANN",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "dated",
+      "scramble": "DDTEA",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

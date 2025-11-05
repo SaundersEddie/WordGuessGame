@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-11-24",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "announcements",
+      "scramble": "NNCOTUAMENSNE",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "demonstration",
+      "scramble": "ETONIDSMANTRO",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "liechtenstein",
+      "scramble": "NHECTNEISIELT",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "interpretation",
+      "scramble": "IATINRETOEPNTR",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "qualification",
+      "scramble": "ITLUIAQOACIFN",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "advertisements",
+      "scramble": "DISNETVRATEEMS",
+      "hint": {
+        "index": 13,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "miscellaneous",
+      "scramble": "UCMESOEAILLNS",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "sublimedirectory",
+      "scramble": "SIECYBROURELIDTM",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "collaboration",
+      "scramble": "CRILAALOOTONB",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "representations",
+      "scramble": "ENIETORASESPTNR",
+      "hint": {
+        "index": 13,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

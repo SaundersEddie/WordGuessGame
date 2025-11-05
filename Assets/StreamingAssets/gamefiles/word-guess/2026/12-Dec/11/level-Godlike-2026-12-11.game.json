@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-11",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "biotechnology",
+      "scramble": "EOGINCHBLOOYT",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "reconstruction",
+      "scramble": "RSOECCTUTNIRON",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "understanding",
+      "scramble": "NGENUDTASIDNR",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "complications",
+      "scramble": "CNOIOTICPASML",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "unfortunately",
+      "scramble": "EFRONUUYTTNAL",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "relationships",
+      "scramble": "NREOSIILAHPTS",
+      "hint": {
+        "index": 12,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "environmental",
+      "scramble": "ENEOIVMALNRNT",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "commissioners",
+      "scramble": "SCIROMSIEONMS",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "undergraduate",
+      "scramble": "NRUDRGAEDETUA",
+      "hint": {
+        "index": 5,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "sophisticated",
+      "scramble": "HICEOTDAPSTIS",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

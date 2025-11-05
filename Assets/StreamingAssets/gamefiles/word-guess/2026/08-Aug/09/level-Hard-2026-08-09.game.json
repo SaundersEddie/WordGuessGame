@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-09",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "conservative",
+      "scramble": "ICSOERANVVTE",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "comparative",
+      "scramble": "ITOPAACEVMR",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "photograph",
+      "scramble": "AHOOPRTGPH",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "inspections",
+      "scramble": "EINNSPTCOSI",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "immigration",
+      "scramble": "AIIMGROIMNT",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "substantial",
+      "scramble": "NSTLSBATIAU",
+      "hint": {
+        "index": 9,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "accounting",
+      "scramble": "OCUNGNICTA",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "washington",
+      "scramble": "AIONTWGSNH",
+      "hint": {
+        "index": 6,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "universities",
+      "scramble": "RNEUSITIEIVS",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "antarctica",
+      "scramble": "NTIACRAACT",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

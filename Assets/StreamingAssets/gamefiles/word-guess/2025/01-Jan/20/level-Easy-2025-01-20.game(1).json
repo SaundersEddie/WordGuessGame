@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-20",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "tongue",
+      "scramble": "GOETUN",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "shots",
+      "scramble": "SHTSO",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "along",
+      "scramble": "LONAG",
+      "hint": {
+        "index": 4,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "helen",
+      "scramble": "ENLHE",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "realm",
+      "scramble": "LAERM",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "briefs",
+      "scramble": "RBISFE",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "bind",
+      "scramble": "BIDN",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "daniel",
+      "scramble": "AENIDL",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "kept",
+      "scramble": "KETP",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "rooms",
+      "scramble": "ROSMO",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

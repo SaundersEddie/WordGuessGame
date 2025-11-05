@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-06-21",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "color",
+      "scramble": "OOCLR",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "among",
+      "scramble": "NMOAG",
+      "hint": {
+        "index": 4,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "yang",
+      "scramble": "NAYG",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "fake",
+      "scramble": "FKEA",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "calls",
+      "scramble": "LLACS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "alfred",
+      "scramble": "DEFLRA",
+      "hint": {
+        "index": 2,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "chess",
+      "scramble": "CEHSS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "risks",
+      "scramble": "RISSK",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "delhi",
+      "scramble": "LEHDI",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "fans",
+      "scramble": "FNSA",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

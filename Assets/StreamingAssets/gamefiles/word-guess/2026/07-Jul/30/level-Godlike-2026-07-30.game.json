@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-30",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "extraordinary",
+      "scramble": "EYITDORRXARAN",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "recommendation",
+      "scramble": "TCNERIMODAEOMN",
+      "hint": {
+        "index": 9,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "vulnerability",
+      "scramble": "RUELBLAYINIVT",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "cardiovascular",
+      "scramble": "CVORAICDSRUAAL",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "comprehensive",
+      "scramble": "VEEPCMHSOIENR",
+      "hint": {
+        "index": 6,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "organizations",
+      "scramble": "NIATIZONAROSG",
+      "hint": {
+        "index": 10,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "transformation",
+      "scramble": "SRTOMAFARITNON",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "considerations",
+      "scramble": "OENRDCSSNITOAI",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "contributions",
+      "scramble": "NOICSRUOTNIBT",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "authorization",
+      "scramble": "AIUTOHNZRIOAT",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-02",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "lamb",
+      "scramble": "LBMA",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "acres",
+      "scramble": "AESRC",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "utils",
+      "scramble": "UTISL",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "pools",
+      "scramble": "OOSLP",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "false",
+      "scramble": "LAESF",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "singer",
+      "scramble": "GIRNES",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "jeff",
+      "scramble": "JFFE",
+      "hint": {
+        "index": 0,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "miles",
+      "scramble": "IMELS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "sharp",
+      "scramble": "ASRHP",
+      "hint": {
+        "index": 4,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "drain",
+      "scramble": "IDARN",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

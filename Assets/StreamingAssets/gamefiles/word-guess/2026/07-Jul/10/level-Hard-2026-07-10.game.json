@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-10",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "regardless",
+      "scramble": "SSREGRLDEA",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "behavioral",
+      "scramble": "EOHARILVBA",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "underlying",
+      "scramble": "GNIENLDYUR",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "shareholders",
+      "scramble": "OSSDEHARLREH",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "newspapers",
+      "scramble": "SWAEPSNERP",
+      "hint": {
+        "index": 8,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "adjustment",
+      "scramble": "JNAUTSMTED",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "screenshot",
+      "scramble": "RSCESETHON",
+      "hint": {
+        "index": 7,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "entertaining",
+      "scramble": "IANRNTGINETE",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "encryption",
+      "scramble": "ORPNIETNYC",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "verzeichnis",
+      "scramble": "VHCNEERZISI",
+      "hint": {
+        "index": 0,
+        "letter": "v"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

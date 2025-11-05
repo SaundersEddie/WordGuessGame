@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-04-12",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "killing",
+      "scramble": "LILGNKI",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "introduce",
+      "scramble": "ECRUTDINO",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "mistake",
+      "scramble": "MEIKAST",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "polished",
+      "scramble": "HOPDIESL",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "million",
+      "scramble": "LONIILM",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "addiction",
+      "scramble": "DDOTCNAII",
+      "hint": {
+        "index": 4,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "virtual",
+      "scramble": "VUITRAL",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "switching",
+      "scramble": "CWGSHNITI",
+      "hint": {
+        "index": 1,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "english",
+      "scramble": "ENHLISG",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "epinions",
+      "scramble": "NPENIOIS",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

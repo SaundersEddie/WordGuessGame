@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-20",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "syndicate",
+      "scramble": "SCNIEATYD",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "workflow",
+      "scramble": "RWLOFOKW",
+      "hint": {
+        "index": 4,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "dresses",
+      "scramble": "ESREDSS",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "workshops",
+      "scramble": "OOWPSKRHS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "tunisia",
+      "scramble": "ISNUIAT",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "journals",
+      "scramble": "OSRAUJLN",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "marshall",
+      "scramble": "ALMRHALS",
+      "hint": {
+        "index": 4,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "genetics",
+      "scramble": "TGCNIEES",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "keyword",
+      "scramble": "YEWRDKO",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "greeting",
+      "scramble": "GRNETEIG",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

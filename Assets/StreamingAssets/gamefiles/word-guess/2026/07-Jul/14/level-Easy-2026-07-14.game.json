@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-14",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "broker",
+      "scramble": "BRRKEO",
+      "hint": {
+        "index": 3,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "ladder",
+      "scramble": "DLDERA",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "joins",
+      "scramble": "OJISN",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "joke",
+      "scramble": "JKEO",
+      "hint": {
+        "index": 0,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "pill",
+      "scramble": "LIPL",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "touch",
+      "scramble": "UHOCT",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "dozen",
+      "scramble": "NZDEO",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "fool",
+      "scramble": "FOLO",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "fully",
+      "scramble": "FLYUL",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "basics",
+      "scramble": "CISASB",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

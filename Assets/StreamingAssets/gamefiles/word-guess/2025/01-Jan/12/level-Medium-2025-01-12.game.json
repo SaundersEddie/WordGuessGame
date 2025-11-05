@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-12",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "cluster",
+      "scramble": "TCEUSLR",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "sectors",
+      "scramble": "STECOSR",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "perform",
+      "scramble": "PEFRMRO",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "disagree",
+      "scramble": "EEDGSRIA",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "benefit",
+      "scramble": "BEETIFN",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "receptors",
+      "scramble": "CREOPTSRE",
+      "hint": {
+        "index": 4,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "remainder",
+      "scramble": "IMNAREEDR",
+      "hint": {
+        "index": 8,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "compiler",
+      "scramble": "COLMEIRP",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "precious",
+      "scramble": "ISORPEUC",
+      "hint": {
+        "index": 6,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "maximum",
+      "scramble": "IAMMMXU",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-07-16",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "versions",
+      "scramble": "SIONVRES",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "dancing",
+      "scramble": "CDANING",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "software",
+      "scramble": "SAEWRTFO",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "answering",
+      "scramble": "NANGERSIW",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "equations",
+      "scramble": "OETAUIQNS",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "tonight",
+      "scramble": "NOGTTHI",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "regulated",
+      "scramble": "UGRATELED",
+      "hint": {
+        "index": 8,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "sentences",
+      "scramble": "NSNEEETSC",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "letting",
+      "scramble": "NETLGTI",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "fantastic",
+      "scramble": "ATFNATCIS",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

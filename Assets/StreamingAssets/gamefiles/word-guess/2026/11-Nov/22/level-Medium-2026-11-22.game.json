@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-22",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "leather",
+      "scramble": "EEAHLTR",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "treasures",
+      "scramble": "TRSREAUES",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "scottish",
+      "scramble": "TTICOSSH",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "manager",
+      "scramble": "AMREGAN",
+      "hint": {
+        "index": 4,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "campbell",
+      "scramble": "CLELBMPA",
+      "hint": {
+        "index": 4,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "occurred",
+      "scramble": "EURCDRCO",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "pirates",
+      "scramble": "PRTIASE",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "schemes",
+      "scramble": "HSCEEMS",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "resorts",
+      "scramble": "SERRTOS",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "convinced",
+      "scramble": "EICOVNNDC",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

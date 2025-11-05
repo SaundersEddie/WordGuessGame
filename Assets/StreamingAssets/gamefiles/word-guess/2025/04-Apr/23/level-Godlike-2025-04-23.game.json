@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-23",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "congratulations",
+      "scramble": "RCLGONNOTUISATA",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "organizations",
+      "scramble": "NROAZNGSOAITI",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "identification",
+      "scramble": "IFICEINDTANIOT",
+      "hint": {
+        "index": 9,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "collaborative",
+      "scramble": "LAVLCEATOIORB",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "demonstration",
+      "scramble": "OTMTODRSNEIAN",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "biotechnology",
+      "scramble": "LEOTOHNGBYCOI",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "transformation",
+      "scramble": "OAMRNITATRNFOS",
+      "hint": {
+        "index": 12,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "pharmaceuticals",
+      "scramble": "ATCHEPARIMSLACU",
+      "hint": {
+        "index": 12,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "instrumentation",
+      "scramble": "ATIRSTNENIUNMOT",
+      "hint": {
+        "index": 13,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "administrator",
+      "scramble": "SOMIAIRTRNDAT",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

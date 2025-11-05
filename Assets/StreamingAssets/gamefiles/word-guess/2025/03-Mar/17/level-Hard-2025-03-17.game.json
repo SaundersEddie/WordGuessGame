@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-17",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "identifies",
+      "scramble": "IDEINSETIF",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "understood",
+      "scramble": "DDNRESOUOT",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "geographic",
+      "scramble": "CAIPGGEHOR",
+      "hint": {
+        "index": 7,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "establishing",
+      "scramble": "TISGSNIAEHLB",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "consistently",
+      "scramble": "TTLIONNESCSY",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "democratic",
+      "scramble": "AROTMCDIEC",
+      "hint": {
+        "index": 9,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "practitioner",
+      "scramble": "NAEIOCITPTRR",
+      "hint": {
+        "index": 11,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "disabilities",
+      "scramble": "SISAIIBIETDL",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "association",
+      "scramble": "NSSAOIIOTAC",
+      "hint": {
+        "index": 1,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "conspiracy",
+      "scramble": "CSYOPCARIN",
+      "hint": {
+        "index": 4,
+        "letter": "p"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

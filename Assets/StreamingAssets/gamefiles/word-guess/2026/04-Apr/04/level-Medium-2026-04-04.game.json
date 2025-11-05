@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-04-04",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "awareness",
+      "scramble": "ASNSWRAEE",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "thursday",
+      "scramble": "UAHDSTYR",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "guestbook",
+      "scramble": "GTUSEOKOB",
+      "hint": {
+        "index": 0,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "cookbook",
+      "scramble": "OOOOBCKK",
+      "hint": {
+        "index": 4,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "trailer",
+      "scramble": "TRRILAE",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "secretary",
+      "scramble": "SRECYRATE",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "afternoon",
+      "scramble": "OAFOETRNN",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "employers",
+      "scramble": "LOYSPMEER",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "sentence",
+      "scramble": "TENENCSE",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "diagnosis",
+      "scramble": "IIGANSSOD",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

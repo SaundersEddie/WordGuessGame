@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-10",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "demographic",
+      "scramble": "EDOIAPRCHGM",
+      "hint": {
+        "index": 8,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "consolidated",
+      "scramble": "ODOSEILACTDN",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "downloading",
+      "scramble": "IDAWGOLNNOD",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "population",
+      "scramble": "IOPPLONTAU",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "distributed",
+      "scramble": "IITBRDUTSED",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "azerbaijan",
+      "scramble": "AJAABEIRNZ",
+      "hint": {
+        "index": 4,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "increasing",
+      "scramble": "GECIINRASN",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "expectations",
+      "scramble": "EISTNETCXPOA",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "institutes",
+      "scramble": "ITETUSSINT",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "projection",
+      "scramble": "TEIJOCPNOR",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

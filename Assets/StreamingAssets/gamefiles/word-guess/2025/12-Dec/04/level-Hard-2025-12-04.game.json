@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-04",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "relocation",
+      "scramble": "TCAROLENOI",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "conservative",
+      "scramble": "VATINOESRVCE",
+      "hint": {
+        "index": 11,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "discussions",
+      "scramble": "SISOCSSIDNU",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "containing",
+      "scramble": "NNOANIICTG",
+      "hint": {
+        "index": 9,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "recommends",
+      "scramble": "DSERNMOMCE",
+      "hint": {
+        "index": 5,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "broadcasting",
+      "scramble": "GDIATCOBARNS",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "respective",
+      "scramble": "EPICRSTEEV",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "application",
+      "scramble": "APITPACLOIN",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "accessories",
+      "scramble": "ACEECSOSISR",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "procurement",
+      "scramble": "URPMNERCEOT",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

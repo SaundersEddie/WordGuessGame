@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-22",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "atmospheric",
+      "scramble": "PIHORATCMSE",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "continuity",
+      "scramble": "TINNCTOUYI",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "interesting",
+      "scramble": "INNEIRSETGT",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "innovation",
+      "scramble": "IOINVNAOTN",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "enhancement",
+      "scramble": "NAHTNEEMCNE",
+      "hint": {
+        "index": 2,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "possession",
+      "scramble": "PSNOSESSIO",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "organisation",
+      "scramble": "NGINAIOOSRTA",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "syndication",
+      "scramble": "YONIISDTACN",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "albuquerque",
+      "scramble": "QERLUBUQEUA",
+      "hint": {
+        "index": 9,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "limitation",
+      "scramble": "TIIIMOATLN",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

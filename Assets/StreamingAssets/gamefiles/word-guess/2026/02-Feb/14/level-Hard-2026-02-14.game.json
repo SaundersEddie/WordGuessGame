@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-14",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "peripherals",
+      "scramble": "PIRHESRPEAL",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "partnership",
+      "scramble": "RSAHTNPRPIE",
+      "hint": {
+        "index": 9,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "institutions",
+      "scramble": "UITTIINSTONS",
+      "hint": {
+        "index": 11,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "addressing",
+      "scramble": "GDRSEDANIS",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "developers",
+      "scramble": "LOSRDVPEEE",
+      "hint": {
+        "index": 6,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "projectors",
+      "scramble": "ERPRTOJCOS",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "transexuales",
+      "scramble": "EUATSLNSEXAR",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "partnerships",
+      "scramble": "PARTIHRSNEPS",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "irrigation",
+      "scramble": "NTRIIAORGI",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "governmental",
+      "scramble": "GETMERALNOVN",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

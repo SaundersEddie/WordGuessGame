@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-09-01",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "lines",
+      "scramble": "LISEN",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "metal",
+      "scramble": "TLEAM",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "supply",
+      "scramble": "LUYSPP",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "beans",
+      "scramble": "AEBNS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "conf",
+      "scramble": "CFON",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "pete",
+      "scramble": "EETP",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "waiver",
+      "scramble": "IAVWER",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "quad",
+      "scramble": "DQAU",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "inkjet",
+      "scramble": "KENJIT",
+      "hint": {
+        "index": 3,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "amanda",
+      "scramble": "AMNAAD",
+      "hint": {
+        "index": 1,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

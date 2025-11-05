@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-03",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "markers",
+      "scramble": "RAMKERS",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "efficient",
+      "scramble": "INFEICEFT",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "messenger",
+      "scramble": "REEGSMNES",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "printing",
+      "scramble": "INPRTIGN",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "hopefully",
+      "scramble": "LLEPYUHOF",
+      "hint": {
+        "index": 5,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "hollywood",
+      "scramble": "OYWLLHODO",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "situation",
+      "scramble": "SOTIUINAT",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "indians",
+      "scramble": "NINDAIS",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "probably",
+      "scramble": "ROYLBBPA",
+      "hint": {
+        "index": 5,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "reached",
+      "scramble": "ARECHDE",
+      "hint": {
+        "index": 4,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

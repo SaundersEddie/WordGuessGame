@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-21",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "approximately",
+      "scramble": "PYPEMALAXTOIR",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "presentations",
+      "scramble": "TNSIOETNSREPA",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "concentration",
+      "scramble": "TNOOINCCANETR",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "semiconductor",
+      "scramble": "TCUSRICEODMON",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "accountability",
+      "scramble": "TIANTUACOBLCIY",
+      "hint": {
+        "index": 13,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "responsibility",
+      "scramble": "PNRIOSBIYELTIS",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "distributions",
+      "scramble": "SSUTINDRTOIBI",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "investigation",
+      "scramble": "TIGNTAVOEIISN",
+      "hint": {
+        "index": 10,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "substantially",
+      "scramble": "AABLISYTSLUNT",
+      "hint": {
+        "index": 2,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "cardiovascular",
+      "scramble": "OARARAVIDSLUCC",
+      "hint": {
+        "index": 6,
+        "letter": "v"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

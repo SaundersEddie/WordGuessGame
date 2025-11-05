@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-14",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "conducting",
+      "scramble": "CODCUNTING",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "occupational",
+      "scramble": "CLOUIOTAPNCA",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "investigate",
+      "scramble": "SVGNEITATIE",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "conventional",
+      "scramble": "ONTVCNIEOLNA",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "geographic",
+      "scramble": "GPOHRAICEG",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "interracial",
+      "scramble": "RNAEARLCTII",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "applications",
+      "scramble": "IIPLAOSCPNTA",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "azerbaijan",
+      "scramble": "EAIJBARZAN",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "disabilities",
+      "scramble": "SIBAITEIDISL",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "elementary",
+      "scramble": "EEMEYATNRL",
+      "hint": {
+        "index": 8,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

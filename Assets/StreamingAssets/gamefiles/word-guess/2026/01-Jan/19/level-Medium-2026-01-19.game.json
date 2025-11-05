@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-19",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "halifax",
+      "scramble": "LHAIXFA",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "heading",
+      "scramble": "HDAENGI",
+      "hint": {
+        "index": 0,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "nominated",
+      "scramble": "TAMEIODNN",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "zealand",
+      "scramble": "ZEAANLD",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "competent",
+      "scramble": "PTMCOTENE",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "focusing",
+      "scramble": "FGIUNOCS",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "element",
+      "scramble": "NEEMELT",
+      "hint": {
+        "index": 3,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "enormous",
+      "scramble": "ORSNMOUE",
+      "hint": {
+        "index": 6,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "corrected",
+      "scramble": "TRDREEOCC",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "honduras",
+      "scramble": "NORHDSAU",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

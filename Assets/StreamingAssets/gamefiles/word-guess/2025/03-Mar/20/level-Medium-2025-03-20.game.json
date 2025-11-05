@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-20",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "clarity",
+      "scramble": "YCATLRI",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "yourself",
+      "scramble": "ERYULOSF",
+      "hint": {
+        "index": 7,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "records",
+      "scramble": "RRECOSD",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "springs",
+      "scramble": "GPRISSN",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "malaysia",
+      "scramble": "LAYAMSAI",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "slovenia",
+      "scramble": "SVOAENLI",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "basename",
+      "scramble": "BEANAESM",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "wrapped",
+      "scramble": "DREPPWA",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "stainless",
+      "scramble": "STISANESL",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "inherited",
+      "scramble": "DNIEEIRHT",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

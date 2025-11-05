@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-11-30",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "telecommunications",
+      "scramble": "CENESTUILIMTCNOMAO",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "characterized",
+      "scramble": "ZHDAACEERIRCT",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "entrepreneurs",
+      "scramble": "RPUESENERTENR",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "congratulations",
+      "scramble": "OINTRONUGSTACLA",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "developmental",
+      "scramble": "OETELMPVELDAN",
+      "hint": {
+        "index": 6,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "parliamentary",
+      "scramble": "IYRARMAEATPLN",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "pharmaceuticals",
+      "scramble": "AEARPCICUTHLMAS",
+      "hint": {
+        "index": 14,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "infrastructure",
+      "scramble": "NECIARURTTSURF",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "independently",
+      "scramble": "NDPTDYLNENEIE",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "establishment",
+      "scramble": "LTTSIHNSBAEEM",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

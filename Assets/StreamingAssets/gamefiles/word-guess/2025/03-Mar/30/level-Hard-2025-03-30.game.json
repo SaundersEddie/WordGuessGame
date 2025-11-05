@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-30",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "prescribed",
+      "scramble": "IRRBPESDEC",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "impressive",
+      "scramble": "IIPRSSEVME",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "charitable",
+      "scramble": "EBIRAHCALT",
+      "hint": {
+        "index": 8,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "sensitivity",
+      "scramble": "IEVNSTIYITS",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "mysterious",
+      "scramble": "YSTIORSMUE",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "registered",
+      "scramble": "RESTIREGED",
+      "hint": {
+        "index": 9,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "ambassador",
+      "scramble": "ABAASMSDOR",
+      "hint": {
+        "index": 9,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "controller",
+      "scramble": "LCLONOTERR",
+      "hint": {
+        "index": 9,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "eventually",
+      "scramble": "VTLNUEAYLE",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "uncertainty",
+      "scramble": "ETYNACRUNTI",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

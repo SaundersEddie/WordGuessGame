@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-17",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "tickets",
+      "scramble": "CIKTETS",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "instant",
+      "scramble": "NNITATS",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "filename",
+      "scramble": "FEMIAENL",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "remaining",
+      "scramble": "ANGERMINI",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "gateway",
+      "scramble": "TGAWEAY",
+      "hint": {
+        "index": 6,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "electoral",
+      "scramble": "LLOEECRAT",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "brisbane",
+      "scramble": "IBESBRAN",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "steering",
+      "scramble": "NSTEERIG",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "ambient",
+      "scramble": "BETAINM",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "november",
+      "scramble": "VOEERBNM",
+      "hint": {
+        "index": 5,
+        "letter": "b"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

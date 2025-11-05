@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-16",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "breed",
+      "scramble": "EBRED",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "aaron",
+      "scramble": "AOARN",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "sealed",
+      "scramble": "AEELDS",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "fiji",
+      "scramble": "IFJI",
+      "hint": {
+        "index": 2,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "gotten",
+      "scramble": "GENOTT",
+      "hint": {
+        "index": 0,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "shelf",
+      "scramble": "LHESF",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "paste",
+      "scramble": "PASET",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "canon",
+      "scramble": "OACNN",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "owned",
+      "scramble": "OEWND",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "death",
+      "scramble": "EDATH",
+      "hint": {
+        "index": 4,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

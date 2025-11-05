@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-10",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "dies",
+      "scramble": "IDES",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "settle",
+      "scramble": "SETTEL",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "nextel",
+      "scramble": "NETLEX",
+      "hint": {
+        "index": 0,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "city",
+      "scramble": "CTIY",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "depot",
+      "scramble": "EDPTO",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "passes",
+      "scramble": "SASPES",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "cities",
+      "scramble": "CETISI",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "wider",
+      "scramble": "DIWER",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "zdnet",
+      "scramble": "ZENDT",
+      "hint": {
+        "index": 0,
+        "letter": "z"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "sodium",
+      "scramble": "OUIDSM",
+      "hint": {
+        "index": 5,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

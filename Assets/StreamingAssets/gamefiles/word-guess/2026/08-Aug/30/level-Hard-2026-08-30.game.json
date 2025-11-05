@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-30",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "exclusively",
+      "scramble": "CLSUEEILYXV",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "physiology",
+      "scramble": "OLOSPHYGIY",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "editorials",
+      "scramble": "RLAIDEIOTS",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "circulation",
+      "scramble": "CRUCAIIONLT",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "photographic",
+      "scramble": "CAOPOPGRTHIH",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "compensation",
+      "scramble": "CONAENMOTSIP",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "verification",
+      "scramble": "VOEFNTCAIIIR",
+      "hint": {
+        "index": 0,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "disciplinary",
+      "scramble": "DNPLYCIRASII",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "classifieds",
+      "scramble": "DLESCIFSISA",
+      "hint": {
+        "index": 6,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "commonwealth",
+      "scramble": "AMHOWLCNEMTO",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

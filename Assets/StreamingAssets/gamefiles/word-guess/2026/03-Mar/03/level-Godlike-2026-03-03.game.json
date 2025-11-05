@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-03",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "alternatively",
+      "scramble": "AREYNLATLITEV",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "presentations",
+      "scramble": "PSESIENRTANOT",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "institutional",
+      "scramble": "ATULTSITINION",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "telecommunications",
+      "scramble": "ESIELAOMTMUCCTNNIO",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "responsibility",
+      "scramble": "IPOIELRISSTNBY",
+      "hint": {
+        "index": 13,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "consideration",
+      "scramble": "RSAOIOECDNNIT",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "questionnaire",
+      "scramble": "UIQSRAOEITNEN",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "appropriations",
+      "scramble": "AAPROIRPTONPSI",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "psychological",
+      "scramble": "YALSGILPHOOCC",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "accountability",
+      "scramble": "TUTLNAIAOICCYB",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

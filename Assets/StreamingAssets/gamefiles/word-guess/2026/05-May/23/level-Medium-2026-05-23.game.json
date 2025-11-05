@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-23",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "mountain",
+      "scramble": "INUMAOTN",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "district",
+      "scramble": "TSDRTICI",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "wichita",
+      "scramble": "IICWHAT",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "executive",
+      "scramble": "EVEIUCXTE",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "outreach",
+      "scramble": "UHOTERCA",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "breathing",
+      "scramble": "GTHENBIAR",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "contests",
+      "scramble": "TTNCOESS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "petroleum",
+      "scramble": "ERTPULOEM",
+      "hint": {
+        "index": 8,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "societies",
+      "scramble": "IESCETISO",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "pockets",
+      "scramble": "KOCTPES",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

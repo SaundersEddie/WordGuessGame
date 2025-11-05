@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-06-24",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "identifier",
+      "scramble": "IINRDTFIEE",
+      "hint": {
+        "index": 6,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "definition",
+      "scramble": "TDINEINIOF",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "indonesian",
+      "scramble": "DAIINESONN",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "cooperation",
+      "scramble": "PTNIORAEOCO",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "regulation",
+      "scramble": "RLINETAOGU",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "transactions",
+      "scramble": "TSRACITOASNN",
+      "hint": {
+        "index": 10,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "guidelines",
+      "scramble": "IDIESEUGLN",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "fellowship",
+      "scramble": "OLELSWIHFP",
+      "hint": {
+        "index": 9,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "reservations",
+      "scramble": "ORSRIAETVENS",
+      "hint": {
+        "index": 11,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "richardson",
+      "scramble": "RACRSOIHDN",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

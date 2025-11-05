@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-07",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "distributions",
+      "scramble": "ITBTRSODSNUII",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "strengthening",
+      "scramble": "GTNERNTNISHGE",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "international",
+      "scramble": "IARTNNOAIELNT",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "parliamentary",
+      "scramble": "RRNLPAMAAYTEI",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "communication",
+      "scramble": "CATMINOUOINMC",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "consciousness",
+      "scramble": "UINSNCSOSCESO",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "understanding",
+      "scramble": "SNNDTDNRIAUEG",
+      "hint": {
+        "index": 12,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "mediterranean",
+      "scramble": "ERATIEMDEARNN",
+      "hint": {
+        "index": 12,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "characteristic",
+      "scramble": "CHSTCATCREAIIR",
+      "hint": {
+        "index": 8,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "recommendations",
+      "scramble": "OMCSNRAIETOEDNM",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

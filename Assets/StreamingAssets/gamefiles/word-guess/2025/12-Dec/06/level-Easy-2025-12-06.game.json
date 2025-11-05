@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-06",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "camp",
+      "scramble": "CPAM",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "cloud",
+      "scramble": "OLUDC",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "msgid",
+      "scramble": "ISMGD",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "unlike",
+      "scramble": "NULIKE",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "oven",
+      "scramble": "NOEV",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "listed",
+      "scramble": "EISLTD",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "univ",
+      "scramble": "NUIV",
+      "hint": {
+        "index": 3,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "specs",
+      "scramble": "SCPES",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "dogs",
+      "scramble": "DGOS",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "poland",
+      "scramble": "AOLNPD",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

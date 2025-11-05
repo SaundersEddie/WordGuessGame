@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-06-18",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "mistakes",
+      "scramble": "AMSITEKS",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "appearing",
+      "scramble": "PGPEINRAA",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "peaceful",
+      "scramble": "LEPFAEUC",
+      "hint": {
+        "index": 6,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "scripting",
+      "scramble": "ICTIGNRSP",
+      "hint": {
+        "index": 1,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "neighbor",
+      "scramble": "EHNGIOBR",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "physical",
+      "scramble": "YHILCPAS",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "archives",
+      "scramble": "HCRVSIEA",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "triangle",
+      "scramble": "IGLNARTE",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "camping",
+      "scramble": "IMCPNAG",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "portfolio",
+      "scramble": "RLITPFOOO",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

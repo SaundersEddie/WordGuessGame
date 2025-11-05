@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-21",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "stated",
+      "scramble": "EATTSD",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "scheme",
+      "scramble": "SCEEMH",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "solely",
+      "scramble": "OEYSLL",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "apps",
+      "scramble": "PSPA",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "word",
+      "scramble": "WDRO",
+      "hint": {
+        "index": 0,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "joseph",
+      "scramble": "PJSEHO",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "knives",
+      "scramble": "KNEVIS",
+      "hint": {
+        "index": 0,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "caps",
+      "scramble": "CSPA",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "moral",
+      "scramble": "MLRAO",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "yeast",
+      "scramble": "STAEY",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

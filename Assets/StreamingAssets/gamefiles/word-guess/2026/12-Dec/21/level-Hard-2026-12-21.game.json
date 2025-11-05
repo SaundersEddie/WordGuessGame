@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-21",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "consequently",
+      "scramble": "YUENOQCSNTLE",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "participants",
+      "scramble": "RAIANTPPITCS",
+      "hint": {
+        "index": 7,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "recipients",
+      "scramble": "PICETNEIRS",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "fundamentals",
+      "scramble": "NLUAADFNTSEM",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "agriculture",
+      "scramble": "ARGITEUULRC",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "metabolism",
+      "scramble": "AOLEMSMIBT",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "industrial",
+      "scramble": "LSTUNDRIIA",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "afterwards",
+      "scramble": "EFAARTWRDS",
+      "hint": {
+        "index": 1,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "requesting",
+      "scramble": "SGEQRETIUN",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "hypothetical",
+      "scramble": "HTALHEPCOIYT",
+      "hint": {
+        "index": 0,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

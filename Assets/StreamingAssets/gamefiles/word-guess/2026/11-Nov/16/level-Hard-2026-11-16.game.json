@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-16",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "programming",
+      "scramble": "NMPGRARIOMG",
+      "hint": {
+        "index": 10,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "implications",
+      "scramble": "NIPTICSLAMOI",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "dictionary",
+      "scramble": "OIDANIYRCT",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "efficiently",
+      "scramble": "YITINCEFFLE",
+      "hint": {
+        "index": 9,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "geographical",
+      "scramble": "AGOAGHLEICPR",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "continuity",
+      "scramble": "CNOTIIYTNU",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "description",
+      "scramble": "DISCORIPTEN",
+      "hint": {
+        "index": 10,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "recruiting",
+      "scramble": "TNEGCIRIRU",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "surveillance",
+      "scramble": "ULASELVCIRNE",
+      "hint": {
+        "index": 11,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "personalized",
+      "scramble": "ANPLODIEREZS",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

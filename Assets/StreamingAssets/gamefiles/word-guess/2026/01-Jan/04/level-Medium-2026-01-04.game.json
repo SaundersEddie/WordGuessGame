@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-04",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "utilities",
+      "scramble": "LIIUTSETI",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "biblical",
+      "scramble": "AIBIBCLL",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "eastern",
+      "scramble": "ERNTAES",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "thorough",
+      "scramble": "HOHTRUGO",
+      "hint": {
+        "index": 6,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "painted",
+      "scramble": "TIPANED",
+      "hint": {
+        "index": 6,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "circuits",
+      "scramble": "RCICUIST",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "generate",
+      "scramble": "AGNTREEE",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "microsoft",
+      "scramble": "SFRMCIOOT",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "winston",
+      "scramble": "TSNNIWO",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "opening",
+      "scramble": "EPNOIGN",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

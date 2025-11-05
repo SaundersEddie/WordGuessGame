@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-03",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "palestine",
+      "scramble": "EAEISPNTL",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "suggested",
+      "scramble": "GEGSUEDTS",
+      "hint": {
+        "index": 2,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "prospects",
+      "scramble": "CSTPOEPRS",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "literary",
+      "scramble": "RLYTIARE",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "simpson",
+      "scramble": "ONMPSSI",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "spelling",
+      "scramble": "SNGLELPI",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "democracy",
+      "scramble": "EMOAYDRCC",
+      "hint": {
+        "index": 7,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "somalia",
+      "scramble": "AOIMALS",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "shanghai",
+      "scramble": "AHGASHNI",
+      "hint": {
+        "index": 5,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "interview",
+      "scramble": "RNIVWTEIE",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

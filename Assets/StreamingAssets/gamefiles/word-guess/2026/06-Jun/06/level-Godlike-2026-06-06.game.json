@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-06-06",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "psychological",
+      "scramble": "OSPALCYGHLOIC",
+      "hint": {
+        "index": 1,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "instrumentation",
+      "scramble": "MTEOIUNNASTNRIT",
+      "hint": {
+        "index": 5,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "architectural",
+      "scramble": "HLCIUCTAETRRA",
+      "hint": {
+        "index": 10,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "sophisticated",
+      "scramble": "ISHIETPSCATDO",
+      "hint": {
+        "index": 8,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "significantly",
+      "scramble": "NNLSIIAYFGTIC",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "pharmaceuticals",
+      "scramble": "AHSPRCIUAMCELAT",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "consideration",
+      "scramble": "INNCIOETRDSOA",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "understanding",
+      "scramble": "ITDUANGSRDNNE",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "specification",
+      "scramble": "CCPSTFOIIENIA",
+      "hint": {
+        "index": 5,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "precipitation",
+      "scramble": "PTIEAIINTCPRO",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

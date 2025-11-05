@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-05-06",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "cattle",
+      "scramble": "CTTLEA",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "answer",
+      "scramble": "RWSNEA",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "merry",
+      "scramble": "YMRER",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "decent",
+      "scramble": "DTECNE",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "during",
+      "scramble": "DGNRUI",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "dash",
+      "scramble": "DAHS",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "herbal",
+      "scramble": "RHABLE",
+      "hint": {
+        "index": 3,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "arthur",
+      "scramble": "RTHAUR",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "sheet",
+      "scramble": "SEEHT",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "lens",
+      "scramble": "ENLS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

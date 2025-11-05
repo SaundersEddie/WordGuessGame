@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-19",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "recreation",
+      "scramble": "TCRROEAIEN",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "supplements",
+      "scramble": "SSPLMPUTENE",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "kazakhstan",
+      "scramble": "NZSAAKATKH",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "dimensional",
+      "scramble": "AIMNSLODNEI",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "indigenous",
+      "scramble": "DNUSNGIOIE",
+      "hint": {
+        "index": 7,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "conspiracy",
+      "scramble": "PSRONAYCCI",
+      "hint": {
+        "index": 8,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "conventions",
+      "scramble": "ONSCNTIVOEN",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "protecting",
+      "scramble": "INETOPTGRC",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "refurbished",
+      "scramble": "EBIREHDSFRU",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "smithsonian",
+      "scramble": "OHINSTSNMIA",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

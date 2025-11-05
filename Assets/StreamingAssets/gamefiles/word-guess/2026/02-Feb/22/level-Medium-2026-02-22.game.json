@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-22",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "involved",
+      "scramble": "EDVOIVNL",
+      "hint": {
+        "index": 5,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "sexuality",
+      "scramble": "ISYEATXLU",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "pending",
+      "scramble": "IEGDNNP",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "evidence",
+      "scramble": "IENDCEVE",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "thereby",
+      "scramble": "YREHEBT",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "bedford",
+      "scramble": "ODDEFRB",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "charges",
+      "scramble": "CGRASEH",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "theology",
+      "scramble": "LHEOGTOY",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "ordering",
+      "scramble": "IGDRRNEO",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "warming",
+      "scramble": "MIRWANG",
+      "hint": {
+        "index": 6,
+        "letter": "g"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

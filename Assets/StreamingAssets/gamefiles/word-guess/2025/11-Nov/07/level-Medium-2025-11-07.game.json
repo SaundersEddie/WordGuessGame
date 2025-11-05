@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-11-07",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "mexican",
+      "scramble": "MNXEICA",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "printers",
+      "scramble": "RPRTSEIN",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "removal",
+      "scramble": "ALMVORE",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "missions",
+      "scramble": "OIISNSMS",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "harvest",
+      "scramble": "ARTVEHS",
+      "hint": {
+        "index": 3,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "upskirts",
+      "scramble": "SKPIURTS",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "injured",
+      "scramble": "JNURDEI",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "columbia",
+      "scramble": "ICLOMBAU",
+      "hint": {
+        "index": 5,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "sisters",
+      "scramble": "SSIETRS",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "escorts",
+      "scramble": "TSSOCER",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

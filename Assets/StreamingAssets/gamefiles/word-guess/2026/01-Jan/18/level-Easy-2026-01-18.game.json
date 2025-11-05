@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-18",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "howto",
+      "scramble": "TOWOH",
+      "hint": {
+        "index": 2,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "core",
+      "scramble": "CERO",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "truth",
+      "scramble": "THURT",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "basin",
+      "scramble": "IANSB",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "owners",
+      "scramble": "NWSERO",
+      "hint": {
+        "index": 1,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "skiing",
+      "scramble": "GIKINS",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "fare",
+      "scramble": "FEAR",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "tucson",
+      "scramble": "TSNUOC",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "lamp",
+      "scramble": "AMLP",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "major",
+      "scramble": "MAJRO",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

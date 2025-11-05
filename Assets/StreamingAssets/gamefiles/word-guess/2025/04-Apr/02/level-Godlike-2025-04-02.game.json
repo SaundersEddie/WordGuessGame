@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-02",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "environmental",
+      "scramble": "ENALIVETNMRNO",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "constitutional",
+      "scramble": "TONSCTAULIITNO",
+      "hint": {
+        "index": 7,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "international",
+      "scramble": "TROIANANNITEL",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "consciousness",
+      "scramble": "ENCSNSISOOUCS",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "investigators",
+      "scramble": "SVIATTNGOIRSE",
+      "hint": {
+        "index": 7,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "effectiveness",
+      "scramble": "ENIEFTCEFSSEV",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "independently",
+      "scramble": "LTDEPEINNNYDE",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "investigations",
+      "scramble": "INSVSIIOGTNTAE",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "conversations",
+      "scramble": "SOENNCASVTRIO",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "understanding",
+      "scramble": "NNSTRIEAGDDUN",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-24",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "championships",
+      "scramble": "SIMACPNOSHHPI",
+      "hint": {
+        "index": 11,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "unfortunately",
+      "scramble": "UNLTTYNFEAOUR",
+      "hint": {
+        "index": 0,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "qualification",
+      "scramble": "IIALTNAUOQCFI",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "manufacturing",
+      "scramble": "FNRTCAIAUUMGN",
+      "hint": {
+        "index": 8,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "organisations",
+      "scramble": "NAOGNIARTSOIS",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "transportation",
+      "scramble": "IAOSNTOPATNRRT",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "investigation",
+      "scramble": "IEISTNITAGONV",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "semiconductor",
+      "scramble": "CNSMTOEDRCIOU",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "congressional",
+      "scramble": "AOGLCOSISENRN",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "bibliographic",
+      "scramble": "LPIIROABBIGHC",
+      "hint": {
+        "index": 12,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-27",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "experiencing",
+      "scramble": "NXIRIEPCEGNE",
+      "hint": {
+        "index": 1,
+        "letter": "x"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "controllers",
+      "scramble": "NRLTSOORLEC",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "reproductive",
+      "scramble": "RIPTEDURCOVE",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "vietnamese",
+      "scramble": "NMISEAETEV",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "supervisor",
+      "scramble": "SEPVRUIOSR",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "addressing",
+      "scramble": "ENGRSADIDS",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "aggressive",
+      "scramble": "VASRGEGISE",
+      "hint": {
+        "index": 9,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "temperatures",
+      "scramble": "EEERSTARUPMT",
+      "hint": {
+        "index": 8,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "transcripts",
+      "scramble": "ASITSRNPRCT",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "suggestion",
+      "scramble": "GGEUTSNSOI",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

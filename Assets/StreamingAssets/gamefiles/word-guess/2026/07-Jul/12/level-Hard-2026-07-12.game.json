@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-12",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "indicating",
+      "scramble": "INDNGIAITC",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "malpractice",
+      "scramble": "RPIMCCTLAAE",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "reservation",
+      "scramble": "STOERNAVRIE",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "nominations",
+      "scramble": "NNMOATNIIOS",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "departments",
+      "scramble": "DTRNTAPMEES",
+      "hint": {
+        "index": 10,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "suggesting",
+      "scramble": "GUGSSNTIEG",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "convention",
+      "scramble": "NCNEIVNOTO",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "sufficiently",
+      "scramble": "ITFUCINESLYF",
+      "hint": {
+        "index": 2,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "information",
+      "scramble": "NNFIROAMTOI",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "productions",
+      "scramble": "RSDPUCOOTNI",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

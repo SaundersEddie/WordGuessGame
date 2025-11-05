@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-09-09",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "transcripts",
+      "scramble": "SSRANTTIPRC",
+      "hint": {
+        "index": 8,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "presenting",
+      "scramble": "IRESNNETPG",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "significance",
+      "scramble": "SFIEICINNGCA",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "metropolitan",
+      "scramble": "TPITMOELROAN",
+      "hint": {
+        "index": 10,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "tremendous",
+      "scramble": "TNMESDOEUR",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "documentary",
+      "scramble": "UYCRTNEDOMA",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "certificates",
+      "scramble": "FECSTIITAECR",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "encryption",
+      "scramble": "EYIROCTNPN",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "consequence",
+      "scramble": "CONEQEUCNES",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "relatively",
+      "scramble": "EETRLILVAY",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

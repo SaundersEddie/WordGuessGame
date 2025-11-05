@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-10",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "surge",
+      "scramble": "SEGRU",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "robin",
+      "scramble": "ONBRI",
+      "hint": {
+        "index": 2,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "skirts",
+      "scramble": "RKITSS",
+      "hint": {
+        "index": 1,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "reggae",
+      "scramble": "GEGEAR",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "emacs",
+      "scramble": "MEACS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "modems",
+      "scramble": "OSDMME",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "forces",
+      "scramble": "SCRFEO",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "marco",
+      "scramble": "OARMC",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "bread",
+      "scramble": "BARED",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "flight",
+      "scramble": "GLIFHT",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

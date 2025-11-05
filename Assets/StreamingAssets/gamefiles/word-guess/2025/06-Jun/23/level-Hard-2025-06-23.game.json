@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-06-23",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "occurrence",
+      "scramble": "CRCNUEORCE",
+      "hint": {
+        "index": 9,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "anthropology",
+      "scramble": "NOHOROPATLGY",
+      "hint": {
+        "index": 10,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "endorsement",
+      "scramble": "EEDNSONMERT",
+      "hint": {
+        "index": 7,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "regulations",
+      "scramble": "IOGULARETNS",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "regression",
+      "scramble": "INORRSSGEE",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "estimation",
+      "scramble": "SIINMTTAOE",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "spectacular",
+      "scramble": "SAETLARPCUC",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "cooperative",
+      "scramble": "TCEPORAVEOI",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "measurement",
+      "scramble": "TERMASMEENU",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "combination",
+      "scramble": "NABNITICOOM",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

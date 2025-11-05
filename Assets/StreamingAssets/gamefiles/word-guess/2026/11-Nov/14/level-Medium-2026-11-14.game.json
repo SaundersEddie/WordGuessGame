@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-14",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "holocaust",
+      "scramble": "AUTLCHOSO",
+      "hint": {
+        "index": 4,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "realize",
+      "scramble": "EAELRIZ",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "websites",
+      "scramble": "SSEBITEW",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "detective",
+      "scramble": "IEETTDECV",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "victims",
+      "scramble": "SICMTVI",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "catalyst",
+      "scramble": "TATSLCYA",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "vancouver",
+      "scramble": "VCNRAUOEV",
+      "hint": {
+        "index": 0,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "promise",
+      "scramble": "IROEMSP",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "perfect",
+      "scramble": "PFRCETE",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "occurring",
+      "scramble": "RURCCGINO",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

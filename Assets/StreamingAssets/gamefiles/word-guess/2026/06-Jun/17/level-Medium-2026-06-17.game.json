@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-06-17",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "variety",
+      "scramble": "IAYTREV",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "finances",
+      "scramble": "FACIENNS",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "approved",
+      "scramble": "APVEOPRD",
+      "hint": {
+        "index": 7,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "cartridge",
+      "scramble": "ARRETIDGC",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "beginning",
+      "scramble": "IGBNNIGNE",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "webcams",
+      "scramble": "EABSCMW",
+      "hint": {
+        "index": 2,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "reviewer",
+      "scramble": "RWEREVEI",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "stopping",
+      "scramble": "PPOSGTNI",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "balanced",
+      "scramble": "BNDALCEA",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "climate",
+      "scramble": "LAICETM",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-06-30",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "hitachi",
+      "scramble": "CIHHATI",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "unknown",
+      "scramble": "NUKONWN",
+      "hint": {
+        "index": 5,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "farming",
+      "scramble": "MRAIGNF",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "showing",
+      "scramble": "HNOWIGS",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "expects",
+      "scramble": "CSPXETE",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "maternity",
+      "scramble": "MYTNRETIA",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "stating",
+      "scramble": "TNISTAG",
+      "hint": {
+        "index": 6,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "parents",
+      "scramble": "EPARTNS",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "locator",
+      "scramble": "CAOLTOR",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "prepaid",
+      "scramble": "APIPDRE",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-22",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "establishment",
+      "scramble": "ILTNTEBSEAMSH",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "classification",
+      "scramble": "CNSITCAIAOFILS",
+      "hint": {
+        "index": 11,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "relationships",
+      "scramble": "IPLRESTNISAOH",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "accommodation",
+      "scramble": "TMADOIOCNCAOM",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "starsmerchant",
+      "scramble": "ASHTESMRNTCRA",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "extraordinary",
+      "scramble": "DATENIRRXRYAO",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "administrators",
+      "scramble": "RTORNTADSIAMIS",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "qualifications",
+      "scramble": "IUIFSAONATIQCL",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "massachusetts",
+      "scramble": "TESHTCMAUASSS",
+      "hint": {
+        "index": 12,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "circumstances",
+      "scramble": "CCRAIESCNTUMS",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

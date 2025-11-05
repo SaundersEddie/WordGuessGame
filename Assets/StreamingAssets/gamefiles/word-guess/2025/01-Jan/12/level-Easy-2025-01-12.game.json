@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-12",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "group",
+      "scramble": "PUORG",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "eight",
+      "scramble": "HIETG",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "inbox",
+      "scramble": "IXOBN",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "milk",
+      "scramble": "MIKL",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "adrian",
+      "scramble": "AIRDAN",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "mixing",
+      "scramble": "IXMING",
+      "hint": {
+        "index": 5,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "check",
+      "scramble": "EHCCK",
+      "hint": {
+        "index": 4,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "pens",
+      "scramble": "SPNE",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "roman",
+      "scramble": "RAOMN",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "unwrap",
+      "scramble": "RPWNAU",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

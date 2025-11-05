@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-01",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "liechtenstein",
+      "scramble": "TICENIEHSENLT",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "consciousness",
+      "scramble": "COCEONSUSSSNI",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "notifications",
+      "scramble": "OTAICIIONTFNS",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "practitioners",
+      "scramble": "IRTCAPIERSNTO",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "interpretation",
+      "scramble": "EITPTROANERTIN",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "informational",
+      "scramble": "NIAIMFOTRAONL",
+      "hint": {
+        "index": 12,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "automatically",
+      "scramble": "ALOLTAYICUATM",
+      "hint": {
+        "index": 8,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "complimentary",
+      "scramble": "IOYPANEMMCTRL",
+      "hint": {
+        "index": 11,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "psychological",
+      "scramble": "YCILPCOGHOASL",
+      "hint": {
+        "index": 12,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "characteristic",
+      "scramble": "IRASECCRCTIHAT",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

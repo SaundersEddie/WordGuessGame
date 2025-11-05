@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-06-04",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "consolidation",
+      "scramble": "TNSONDACOILOI",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "instructional",
+      "scramble": "UTTLNRIICSNAO",
+      "hint": {
+        "index": 10,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "participation",
+      "scramble": "PRINICITTAOPA",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "qualification",
+      "scramble": "UAQNOFIITIACL",
+      "hint": {
+        "index": 5,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "contamination",
+      "scramble": "INTOATNCMIOAN",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "organizational",
+      "scramble": "TAINOAGRZOANIL",
+      "hint": {
+        "index": 13,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "internationally",
+      "scramble": "ETRATNALLNIOYNI",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "responsibility",
+      "scramble": "NRYLIIISBTSOPE",
+      "hint": {
+        "index": 8,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "communications",
+      "scramble": "MAUOSNICMIOCTN",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "strengthening",
+      "scramble": "GNNTRHTEGSIEN",
+      "hint": {
+        "index": 10,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-14",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "colleagues",
+      "scramble": "AOELEGULCS",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "performance",
+      "scramble": "REFCMNPAROE",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "perspectives",
+      "scramble": "ESSPCRPETVIE",
+      "hint": {
+        "index": 9,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "litigation",
+      "scramble": "IITNLGTIOA",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "priorities",
+      "scramble": "IRPSRTIOEI",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "recognised",
+      "scramble": "EECSROGNID",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "jacksonville",
+      "scramble": "OVNCSEALKILJ",
+      "hint": {
+        "index": 10,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "differential",
+      "scramble": "NIEAIEFTDLRF",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "palestinian",
+      "scramble": "PIELNSNIAAT",
+      "hint": {
+        "index": 9,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "terrorists",
+      "scramble": "REITRSOSRT",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

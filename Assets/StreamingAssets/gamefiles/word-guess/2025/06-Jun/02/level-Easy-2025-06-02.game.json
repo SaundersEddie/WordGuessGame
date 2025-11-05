@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-06-02",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "rocket",
+      "scramble": "RTOKCE",
+      "hint": {
+        "index": 3,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "gauge",
+      "scramble": "AGUGE",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "arcade",
+      "scramble": "DACARE",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "hart",
+      "scramble": "AHRT",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "herb",
+      "scramble": "HREB",
+      "hint": {
+        "index": 3,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "frank",
+      "scramble": "FANRK",
+      "hint": {
+        "index": 4,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "mouse",
+      "scramble": "EOMSU",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "browse",
+      "scramble": "BSEWOR",
+      "hint": {
+        "index": 3,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "going",
+      "scramble": "GOIGN",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "comedy",
+      "scramble": "YOMECD",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-11",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "informational",
+      "scramble": "ILNMNTAROIOFA",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "commissioners",
+      "scramble": "OSISMSENOCIRM",
+      "hint": {
+        "index": 11,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "superintendent",
+      "scramble": "NERNEDSTPUETIN",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "organizational",
+      "scramble": "ITOANOARINGLZA",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "bibliographic",
+      "scramble": "HBOAILGCIPBRI",
+      "hint": {
+        "index": 6,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "communication",
+      "scramble": "MCINUCTMIAONO",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "demonstration",
+      "scramble": "NNODAOETRMITS",
+      "hint": {
+        "index": 10,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "accommodation",
+      "scramble": "AMOMCACDNOITO",
+      "hint": {
+        "index": 7,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "sophisticated",
+      "scramble": "PIESITTOHSADC",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "complications",
+      "scramble": "PIMOSTCCALINO",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

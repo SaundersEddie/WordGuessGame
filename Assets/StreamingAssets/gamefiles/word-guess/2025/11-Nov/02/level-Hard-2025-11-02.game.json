@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-11-02",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "geological",
+      "scramble": "GOOEILALGC",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "diagnostic",
+      "scramble": "GIITSOANDC",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "accomplished",
+      "scramble": "IOSPADLECCMH",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "executives",
+      "scramble": "ESTXIECVEU",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "innovations",
+      "scramble": "NINIVTOOSNA",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "sufficient",
+      "scramble": "UNEFFCTSII",
+      "hint": {
+        "index": 3,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "interpreted",
+      "scramble": "EEIRTRTDPEN",
+      "hint": {
+        "index": 9,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "considerable",
+      "scramble": "LEAIENRDSBOC",
+      "hint": {
+        "index": 9,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "secretariat",
+      "scramble": "SAIRTCAETRE",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "commitments",
+      "scramble": "MTOSMEMNITC",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

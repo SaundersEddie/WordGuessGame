@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-20",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "identification",
+      "scramble": "IIINCDTNTFEOAI",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "alternatively",
+      "scramble": "TAYATREENVLLI",
+      "hint": {
+        "index": 9,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "installations",
+      "scramble": "ITSOLLSNAIANT",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "accommodation",
+      "scramble": "DATOMCNAOOCIM",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "comprehensive",
+      "scramble": "ROEEVEMPISHCN",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "administration",
+      "scramble": "OTADSMINRINTAI",
+      "hint": {
+        "index": 8,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "massachusetts",
+      "scramble": "EACSTMSSHAUTS",
+      "hint": {
+        "index": 11,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "mediterranean",
+      "scramble": "REINMTEADAREN",
+      "hint": {
+        "index": 12,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "documentation",
+      "scramble": "NCIATEOUODMNT",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "revolutionary",
+      "scramble": "RIROTAUVLOYNE",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

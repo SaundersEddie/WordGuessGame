@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-30",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "wireless",
+      "scramble": "WERELSSI",
+      "hint": {
+        "index": 0,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "antibody",
+      "scramble": "ANOYBDTI",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "evident",
+      "scramble": "TVNEDIE",
+      "hint": {
+        "index": 1,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "projected",
+      "scramble": "PTEDCJOER",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "plaintiff",
+      "scramble": "NLTPIIFFA",
+      "hint": {
+        "index": 7,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "provided",
+      "scramble": "RPOVDIDE",
+      "hint": {
+        "index": 3,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "confirm",
+      "scramble": "NFRCIOM",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "musical",
+      "scramble": "IUMASCL",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "maritime",
+      "scramble": "ARIMTIME",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "tribute",
+      "scramble": "BEIURTT",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

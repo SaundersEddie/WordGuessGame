@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-02",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "promotions",
+      "scramble": "SPOMORINTO",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "occupation",
+      "scramble": "OICUPAONTC",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "attempting",
+      "scramble": "TTAEMGTIPN",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "unsubscribe",
+      "scramble": "SNCBUIUBRES",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "veterinary",
+      "scramble": "IENREAYVTR",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "manufacture",
+      "scramble": "MAURECUNFAT",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "historical",
+      "scramble": "ATHOIIRCSL",
+      "hint": {
+        "index": 9,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "acdbentity",
+      "scramble": "CYNTAITEBD",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "coordinate",
+      "scramble": "CONIAOTDER",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "concerning",
+      "scramble": "NIRGNOCENC",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

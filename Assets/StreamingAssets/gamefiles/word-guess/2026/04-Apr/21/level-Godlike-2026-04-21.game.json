@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-04-21",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "authentication",
+      "scramble": "TTCEOTAAUIHINN",
+      "hint": {
+        "index": 13,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "sublimedirectory",
+      "scramble": "UIMCRLERIOTSBDYE",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "consolidation",
+      "scramble": "CILSOTNIOADON",
+      "hint": {
+        "index": 12,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "understanding",
+      "scramble": "NUEAINTRDDNSG",
+      "hint": {
+        "index": 12,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "environmental",
+      "scramble": "OMIANNLNEVETR",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "relationships",
+      "scramble": "ROEISHPINTSLA",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "mediterranean",
+      "scramble": "RDAERTNNAIEEM",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "informational",
+      "scramble": "NTRONOLIAFIAM",
+      "hint": {
+        "index": 11,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "representatives",
+      "scramble": "RSPATVTSREEIEEN",
+      "hint": {
+        "index": 13,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "correspondence",
+      "scramble": "SOREREPCOENCND",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

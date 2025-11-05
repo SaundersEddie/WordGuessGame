@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-23",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "transparent",
+      "scramble": "TRPRNAENTAS",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "accomplished",
+      "scramble": "SMHEPDLCCIOA",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "initiatives",
+      "scramble": "ITIEAVNIITS",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "consequence",
+      "scramble": "SNENCQEOECU",
+      "hint": {
+        "index": 5,
+        "letter": "q"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "connections",
+      "scramble": "NSOCNNTICOE",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "introduces",
+      "scramble": "CSTEDUIRON",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "transmitted",
+      "scramble": "ANTSDTIMETR",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "maintaining",
+      "scramble": "IMNITNIGAAN",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "bibliography",
+      "scramble": "YGPLIHROIBAB",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "contracting",
+      "scramble": "NOTIAGCRCNT",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-04-14",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "conversation",
+      "scramble": "NOVNCAOSTREI",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "definition",
+      "scramble": "IDONNETIIF",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "regardless",
+      "scramble": "DSLGRREAES",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "accompanying",
+      "scramble": "COPAIYNNGMAC",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "alphabetical",
+      "scramble": "HLIEBCLPAAAT",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "classified",
+      "scramble": "CSEISFLDAI",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "battlefield",
+      "scramble": "LABTETDLFEI",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "sponsorship",
+      "scramble": "PSIRNSOOHSP",
+      "hint": {
+        "index": 10,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "significant",
+      "scramble": "FANIICISNGT",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "providence",
+      "scramble": "POEVEDRINC",
+      "hint": {
+        "index": 3,
+        "letter": "v"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

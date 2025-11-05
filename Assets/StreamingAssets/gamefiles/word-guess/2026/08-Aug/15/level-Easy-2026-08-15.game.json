@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-15",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "weird",
+      "scramble": "DERIW",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "losses",
+      "scramble": "SOSSLE",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "flyer",
+      "scramble": "FLYRE",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "wheel",
+      "scramble": "EWEHL",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "layout",
+      "scramble": "LUYATO",
+      "hint": {
+        "index": 2,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "stone",
+      "scramble": "NTESO",
+      "hint": {
+        "index": 1,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "effort",
+      "scramble": "EOFRTF",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "wood",
+      "scramble": "DOOW",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "knock",
+      "scramble": "NCKOK",
+      "hint": {
+        "index": 4,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "racks",
+      "scramble": "KRCAS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-04-12",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "biotechnology",
+      "scramble": "CEONLHOIOGBTY",
+      "hint": {
+        "index": 12,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "comprehensive",
+      "scramble": "VOMECEEHNPSRI",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "qualification",
+      "scramble": "CLIIAUAOFTQNI",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "accountability",
+      "scramble": "BCYNTAOACLTIUI",
+      "hint": {
+        "index": 11,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "liechtenstein",
+      "scramble": "CIITHNTNSLEEE",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "constitutional",
+      "scramble": "IOSTNTIALTCNUO",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "substantially",
+      "scramble": "AYIBSLTTSALNU",
+      "hint": {
+        "index": 9,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "approximately",
+      "scramble": "AEMPTILYORPAX",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "extraordinary",
+      "scramble": "EDRTNIRRXAOAY",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "organizations",
+      "scramble": "OGOZSIINTANRA",
+      "hint": {
+        "index": 0,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

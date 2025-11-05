@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-08-24",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "daughter",
+      "scramble": "UAEGTRDH",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "closely",
+      "scramble": "LLESOCY",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "spencer",
+      "scramble": "ECENPSR",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "protect",
+      "scramble": "PCEOTTR",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "enabled",
+      "scramble": "ADEBNEL",
+      "hint": {
+        "index": 3,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "labeled",
+      "scramble": "LDBEEAL",
+      "hint": {
+        "index": 2,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "warranty",
+      "scramble": "WRANRTYA",
+      "hint": {
+        "index": 0,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "paperback",
+      "scramble": "EAAPRBCPK",
+      "hint": {
+        "index": 8,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "coupled",
+      "scramble": "ECDPUOL",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "terminal",
+      "scramble": "TLMANIRE",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

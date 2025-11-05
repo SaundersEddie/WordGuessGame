@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-19",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "installations",
+      "scramble": "NOISLIAATNTSL",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "infrastructure",
+      "scramble": "RUAICTESNRRUFT",
+      "hint": {
+        "index": 11,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "psychological",
+      "scramble": "ILHPSOOCLCYGA",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "demonstration",
+      "scramble": "AINTDERNTSMOO",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "illustrations",
+      "scramble": "ALSUNSLITIOTR",
+      "hint": {
+        "index": 10,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "announcements",
+      "scramble": "NMENUCTONANSE",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "collaboration",
+      "scramble": "IOAROLTCBOANL",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "unfortunately",
+      "scramble": "YFNAELTNTOUUR",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "accessibility",
+      "scramble": "ATICBSYSCILIE",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "responsibilities",
+      "scramble": "RSILETSESIIOBPNI",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

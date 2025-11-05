@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-04-25",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "somehow",
+      "scramble": "OSMHOWE",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "tsunami",
+      "scramble": "AUSMTNI",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "anonymous",
+      "scramble": "NNSOAMUOY",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "diamond",
+      "scramble": "DAIMDNO",
+      "hint": {
+        "index": 3,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "aquatic",
+      "scramble": "QAUCIAT",
+      "hint": {
+        "index": 2,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "outdoor",
+      "scramble": "RUTOODO",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "harmony",
+      "scramble": "NYHMOAR",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "calling",
+      "scramble": "INLLAGC",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "anytime",
+      "scramble": "TMYENAI",
+      "hint": {
+        "index": 2,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "reporter",
+      "scramble": "EPOERTRR",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

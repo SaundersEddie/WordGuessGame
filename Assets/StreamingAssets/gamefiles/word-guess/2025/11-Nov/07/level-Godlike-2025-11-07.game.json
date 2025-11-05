@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-11-07",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "understanding",
+      "scramble": "ENIARSDNNUTGD",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "conversations",
+      "scramble": "TORENVNAIOSSC",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "recommendations",
+      "scramble": "TSMRCAMNDENOOEI",
+      "hint": {
+        "index": 12,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "starsmerchant",
+      "scramble": "SRRAASETNCTMH",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "transformation",
+      "scramble": "TMAANRTSONRFOI",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "investigators",
+      "scramble": "VRNGSTSITOIEA",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "administrative",
+      "scramble": "IVADNIMTREIATS",
+      "hint": {
+        "index": 8,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "qualifications",
+      "scramble": "TIIUAOQCASLINF",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "qualification",
+      "scramble": "QIIOAIUFATLCN",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "manufacturers",
+      "scramble": "CSMAFNUATUERR",
+      "hint": {
+        "index": 4,
+        "letter": "f"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

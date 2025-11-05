@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-08-09",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "styles",
+      "scramble": "SYSTLE",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "isle",
+      "scramble": "IESL",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "sparc",
+      "scramble": "SPCRA",
+      "hint": {
+        "index": 1,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "msie",
+      "scramble": "MIES",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "busty",
+      "scramble": "BTSUY",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "guests",
+      "scramble": "SSETUG",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "dawn",
+      "scramble": "NAWD",
+      "hint": {
+        "index": 2,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "branch",
+      "scramble": "HBARCN",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "relate",
+      "scramble": "RTEEAL",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "cases",
+      "scramble": "ACSSE",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

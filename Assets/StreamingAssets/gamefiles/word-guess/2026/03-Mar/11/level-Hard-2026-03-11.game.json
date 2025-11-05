@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-11",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "tournaments",
+      "scramble": "AUTNOSMNTER",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "nutritional",
+      "scramble": "ITTLRNIUOAN",
+      "hint": {
+        "index": 9,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "medications",
+      "scramble": "AMDSINTECOI",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "attachments",
+      "scramble": "HTMANTCEATS",
+      "hint": {
+        "index": 10,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "publications",
+      "scramble": "BNUCOISTIAPL",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "wallpapers",
+      "scramble": "WALRPASELP",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "conferences",
+      "scramble": "CNORECENSEF",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "automobile",
+      "scramble": "OEULMIBTAO",
+      "hint": {
+        "index": 6,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "comparison",
+      "scramble": "RCOIMNASOP",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "scholarship",
+      "scramble": "SOACLHHRSIP",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

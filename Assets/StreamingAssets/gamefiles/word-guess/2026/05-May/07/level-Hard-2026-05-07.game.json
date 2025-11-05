@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-07",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "newfoundland",
+      "scramble": "NFNEDUWOADLN",
+      "hint": {
+        "index": 5,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "additionally",
+      "scramble": "ALAIDDTYNILO",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "indigenous",
+      "scramble": "SIDGUNNIOE",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "researchers",
+      "scramble": "RESECRREHSA",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "quantitative",
+      "scramble": "ATIQVTEANIUT",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "programmes",
+      "scramble": "RRPMAGSMEO",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "christopher",
+      "scramble": "HSRROTIECHP",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "equilibrium",
+      "scramble": "LMEQUBIRIUI",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "harassment",
+      "scramble": "SRTMAEAHNS",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "compatible",
+      "scramble": "CTPAIMBELO",
+      "hint": {
+        "index": 8,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

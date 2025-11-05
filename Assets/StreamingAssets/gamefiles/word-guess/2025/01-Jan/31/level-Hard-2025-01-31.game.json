@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-31",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "biographies",
+      "scramble": "RBSPAOIHGIE",
+      "hint": {
+        "index": 7,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "beneficial",
+      "scramble": "BNAFIICLEE",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "programmer",
+      "scramble": "RGMARRPOEM",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "responsible",
+      "scramble": "RSBSPNEOELI",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "dimensional",
+      "scramble": "OIAESIMNDNL",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "maintained",
+      "scramble": "NDTIEANAIM",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "containers",
+      "scramble": "CATIOSNERN",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "cancellation",
+      "scramble": "AENOCTLALCNI",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "simulation",
+      "scramble": "NILTAIOMSU",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "conditions",
+      "scramble": "ODSICNNOIT",
+      "hint": {
+        "index": 7,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

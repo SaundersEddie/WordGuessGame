@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-25",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "entrepreneur",
+      "scramble": "NNRREPTUEERE",
+      "hint": {
+        "index": 5,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "humanities",
+      "scramble": "HSEANUMIIT",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "manufactured",
+      "scramble": "DAMUFACRTENU",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "convergence",
+      "scramble": "ENCOGRNCEEV",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "conference",
+      "scramble": "ECOCNRNFEE",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "continental",
+      "scramble": "OINNETTNACL",
+      "hint": {
+        "index": 10,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "pharmacology",
+      "scramble": "YCAHOMRALOGP",
+      "hint": {
+        "index": 10,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "photographs",
+      "scramble": "TPROSGAHPHO",
+      "hint": {
+        "index": 8,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "underlying",
+      "scramble": "NLGRYEDINU",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "thereafter",
+      "scramble": "AHRTFEEETR",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

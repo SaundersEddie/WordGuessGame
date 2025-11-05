@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-25",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "spokesman",
+      "scramble": "OKSMESANP",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "bahamas",
+      "scramble": "ASHAAMB",
+      "hint": {
+        "index": 2,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "additions",
+      "scramble": "SAOIIDTND",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "website",
+      "scramble": "WBTIESE",
+      "hint": {
+        "index": 0,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "increased",
+      "scramble": "RIEENDSAC",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "culture",
+      "scramble": "CRLUUTE",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "stanford",
+      "scramble": "NFARTSOD",
+      "hint": {
+        "index": 7,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "chassis",
+      "scramble": "ACHISSS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "fragrance",
+      "scramble": "ARGECFRNA",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "resource",
+      "scramble": "UEEOSRCR",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-09-26",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "modification",
+      "scramble": "IIDIMNAOTFOC",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "powerseller",
+      "scramble": "PSEOREWERLL",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "unauthorized",
+      "scramble": "DNRZEHUAIUOT",
+      "hint": {
+        "index": 5,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "recognition",
+      "scramble": "RNNOTGOCEII",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "wallpapers",
+      "scramble": "ASEWLLPARP",
+      "hint": {
+        "index": 8,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "transparent",
+      "scramble": "RSAETTAPNNR",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "vegetables",
+      "scramble": "TGVEALBEES",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "reproduction",
+      "scramble": "PUCDREIOTNOR",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "biodiversity",
+      "scramble": "TBOIVYDIRIES",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "subsidiary",
+      "scramble": "RUSYBIIADS",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-15",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "journey",
+      "scramble": "JNRYEUO",
+      "hint": {
+        "index": 0,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "secondary",
+      "scramble": "OYCESDARN",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "minutes",
+      "scramble": "ETNUMSI",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "ensuring",
+      "scramble": "ENISRGNU",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "uploaded",
+      "scramble": "UDOADEPL",
+      "hint": {
+        "index": 0,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "operated",
+      "scramble": "ETPEAODR",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "parking",
+      "scramble": "PANGKRI",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "upskirt",
+      "scramble": "UTPSKRI",
+      "hint": {
+        "index": 0,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "violent",
+      "scramble": "NTOVEIL",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "unsigned",
+      "scramble": "NESNUGID",
+      "hint": {
+        "index": 7,
+        "letter": "d"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

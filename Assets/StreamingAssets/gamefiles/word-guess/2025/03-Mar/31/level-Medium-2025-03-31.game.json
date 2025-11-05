@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-31",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "boulevard",
+      "scramble": "LVUROBAED",
+      "hint": {
+        "index": 8,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "bicycle",
+      "scramble": "BCCIYEL",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "terrorism",
+      "scramble": "ORSIERRTM",
+      "hint": {
+        "index": 8,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "founded",
+      "scramble": "DFUDONE",
+      "hint": {
+        "index": 2,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "singapore",
+      "scramble": "PISRNAOEG",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "vacations",
+      "scramble": "AOAITNCVS",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "firewire",
+      "scramble": "EIRFWIRE",
+      "hint": {
+        "index": 4,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "testament",
+      "scramble": "MSTATNETE",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "distant",
+      "scramble": "TISDATN",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "dedicated",
+      "scramble": "IDDETDECA",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

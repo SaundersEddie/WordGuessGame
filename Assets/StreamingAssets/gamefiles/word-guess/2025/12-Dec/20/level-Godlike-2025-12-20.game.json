@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-20",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "concentrations",
+      "scramble": "NSNNOTORCAEICT",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "mediterranean",
+      "scramble": "ENANMERTREAID",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "accessibility",
+      "scramble": "ATILSYSICBICE",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "computational",
+      "scramble": "CLAPONOTTMIUA",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "comprehensive",
+      "scramble": "MVEERNEOCIHSP",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "functionality",
+      "scramble": "TUOYFAILCINTN",
+      "hint": {
+        "index": 11,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "manufacturers",
+      "scramble": "ANFESRCAMTURU",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "miscellaneous",
+      "scramble": "NESASLELCOIUM",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "biotechnology",
+      "scramble": "YOOTOBICHENLG",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "possibilities",
+      "scramble": "SSSBLEOIIPIIT",
+      "hint": {
+        "index": 2,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

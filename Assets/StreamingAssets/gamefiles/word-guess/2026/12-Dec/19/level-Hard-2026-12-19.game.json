@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-19",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "introductory",
+      "scramble": "DYCTIONRTORU",
+      "hint": {
+        "index": 10,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "transexuales",
+      "scramble": "ERTNALXESASU",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "incorporate",
+      "scramble": "IAEORTRCPON",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "encountered",
+      "scramble": "EENCORNTEUD",
+      "hint": {
+        "index": 10,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "guarantees",
+      "scramble": "GSEUTNEARA",
+      "hint": {
+        "index": 0,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "background",
+      "scramble": "NDCKBOUGAR",
+      "hint": {
+        "index": 3,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "renaissance",
+      "scramble": "SEIESACNANR",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "coordinator",
+      "scramble": "OATDOOIRCNR",
+      "hint": {
+        "index": 10,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "interfaces",
+      "scramble": "EATSNIECFR",
+      "hint": {
+        "index": 7,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "necessarily",
+      "scramble": "EAYSNELRICS",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

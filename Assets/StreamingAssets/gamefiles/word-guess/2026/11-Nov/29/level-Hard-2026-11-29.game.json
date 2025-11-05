@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-29",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "descending",
+      "scramble": "CSIDDEENNG",
+      "hint": {
+        "index": 9,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "networking",
+      "scramble": "WKNOITERNG",
+      "hint": {
+        "index": 9,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "subsequently",
+      "scramble": "SSLYEBUENTQU",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "productions",
+      "scramble": "ODTPUCSINOR",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "calculations",
+      "scramble": "CNSACLUALTIO",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "inexpensive",
+      "scramble": "XEISIEENNPV",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "compression",
+      "scramble": "NPMSCOESROI",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "nevertheless",
+      "scramble": "RTVENEHESELS",
+      "hint": {
+        "index": 2,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "exceptional",
+      "scramble": "PAETCEIONXL",
+      "hint": {
+        "index": 7,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "cumulative",
+      "scramble": "UEMTALIVUC",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-10",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "affiliate",
+      "scramble": "ATFAIILFE",
+      "hint": {
+        "index": 2,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "prairie",
+      "scramble": "EIPIRRA",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "benjamin",
+      "scramble": "ANIJMNEB",
+      "hint": {
+        "index": 3,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "surgeon",
+      "scramble": "RONGESU",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "everyone",
+      "scramble": "YOREEVNE",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "avoiding",
+      "scramble": "OGAVDNII",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "auckland",
+      "scramble": "ANUKDALC",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "township",
+      "scramble": "TSHWIPNO",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "emerald",
+      "scramble": "MDARELE",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "summary",
+      "scramble": "MAUMYRS",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

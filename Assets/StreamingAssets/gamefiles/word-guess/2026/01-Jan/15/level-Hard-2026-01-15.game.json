@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-15",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "consulting",
+      "scramble": "UNGCONLIST",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "microphone",
+      "scramble": "OECOMHNIPR",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "contributor",
+      "scramble": "OTINCOBRUTR",
+      "hint": {
+        "index": 10,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "encyclopedia",
+      "scramble": "YPCENLCIOADE",
+      "hint": {
+        "index": 5,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "affordable",
+      "scramble": "DLAEOFRBFA",
+      "hint": {
+        "index": 7,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "completing",
+      "scramble": "MCLPIOTENG",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "laboratory",
+      "scramble": "ROBAROLTAY",
+      "hint": {
+        "index": 9,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "copyrights",
+      "scramble": "YSTORGCHPI",
+      "hint": {
+        "index": 7,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "excitement",
+      "scramble": "TENICXMETE",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "initiative",
+      "scramble": "INTAVIEITI",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-21",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "distinguished",
+      "scramble": "UIDSENDSGIHTI",
+      "hint": {
+        "index": 10,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "independently",
+      "scramble": "EYNEPTDNLDNIE",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "manufacturing",
+      "scramble": "UCNITGUANFRAM",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "vulnerability",
+      "scramble": "ULNERBIVILYTA",
+      "hint": {
+        "index": 9,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "circumstances",
+      "scramble": "ANMIUCCSRSTEC",
+      "hint": {
+        "index": 11,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "announcements",
+      "scramble": "UNMANNSCENETO",
+      "hint": {
+        "index": 11,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "communications",
+      "scramble": "ONCUNMMOAIISTC",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "discrimination",
+      "scramble": "DNCMOITIIANSRI",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "substantially",
+      "scramble": "SLSTLIUYANATB",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "certification",
+      "scramble": "AIRCOCTNFIEIT",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

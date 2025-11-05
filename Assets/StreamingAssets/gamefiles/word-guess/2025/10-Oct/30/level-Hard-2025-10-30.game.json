@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-10-30",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "proceedings",
+      "scramble": "EPRODENCGIS",
+      "hint": {
+        "index": 10,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "corruption",
+      "scramble": "CUNROTROIP",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "inspections",
+      "scramble": "ECOISPTNNIS",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "advertising",
+      "scramble": "NSGVRETIDAI",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "nationwide",
+      "scramble": "IAIOWTNDEN",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "screenshot",
+      "scramble": "OCNESSRHET",
+      "hint": {
+        "index": 7,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "unemployment",
+      "scramble": "ETLENUYOMMNP",
+      "hint": {
+        "index": 8,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "memorabilia",
+      "scramble": "MRABIAMIELO",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "palestinian",
+      "scramble": "ISLEANTANIP",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "consequences",
+      "scramble": "NOSCNQCEESUE",
+      "hint": {
+        "index": 5,
+        "letter": "q"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

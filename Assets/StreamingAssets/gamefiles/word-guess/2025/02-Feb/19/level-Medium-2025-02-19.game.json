@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-19",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "besides",
+      "scramble": "EBEISDS",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "jelsoft",
+      "scramble": "OLESJFT",
+      "hint": {
+        "index": 5,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "villages",
+      "scramble": "VISLEGAL",
+      "hint": {
+        "index": 0,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "guitars",
+      "scramble": "TAGUIRS",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "sleeping",
+      "scramble": "SINEPLEG",
+      "hint": {
+        "index": 4,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "generator",
+      "scramble": "ETNOAERGR",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "oriental",
+      "scramble": "NITRAEOL",
+      "hint": {
+        "index": 7,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "cordless",
+      "scramble": "OELSDCRS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "romantic",
+      "scramble": "ROMITACN",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "worldwide",
+      "scramble": "WLDEDOIRW",
+      "hint": {
+        "index": 4,
+        "letter": "d"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

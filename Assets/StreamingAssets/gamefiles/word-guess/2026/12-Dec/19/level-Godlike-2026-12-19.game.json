@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-19",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "sublimedirectory",
+      "scramble": "ICRMEERYSLDUTOIB",
+      "hint": {
+        "index": 12,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "instrumentation",
+      "scramble": "IINETUNTOMTSNRA",
+      "hint": {
+        "index": 5,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "independently",
+      "scramble": "ENDNIEDNTPLEY",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "representatives",
+      "scramble": "SRSTEPEREATNIVE",
+      "hint": {
+        "index": 9,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "announcements",
+      "scramble": "MCUNNONAENETS",
+      "hint": {
+        "index": 12,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "determination",
+      "scramble": "OETIRDETNMNIA",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "entertainment",
+      "scramble": "ETMERNAEITNNT",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "characteristics",
+      "scramble": "AHTCTIESSAICRCR",
+      "hint": {
+        "index": 13,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "accountability",
+      "scramble": "TCCABITOYULNIA",
+      "hint": {
+        "index": 10,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "confidentiality",
+      "scramble": "CTIOIFNETLDYAIN",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

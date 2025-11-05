@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-27",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "annie",
+      "scramble": "ANNEI",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "duty",
+      "scramble": "TDUY",
+      "hint": {
+        "index": 3,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "stud",
+      "scramble": "TSUD",
+      "hint": {
+        "index": 2,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "stop",
+      "scramble": "TSOP",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "coffee",
+      "scramble": "CEFOEF",
+      "hint": {
+        "index": 0,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "ottawa",
+      "scramble": "TATOWA",
+      "hint": {
+        "index": 4,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "flame",
+      "scramble": "MLAEF",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "ethics",
+      "scramble": "ESICHT",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "gaming",
+      "scramble": "GANIGM",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "jpeg",
+      "scramble": "GJEP",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-15",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "modified",
+      "scramble": "FDDEOIMI",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "travesti",
+      "scramble": "ERATTSIV",
+      "hint": {
+        "index": 5,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "february",
+      "scramble": "BRFAUERY",
+      "hint": {
+        "index": 7,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "currency",
+      "scramble": "ECUCRNRY",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "assisted",
+      "scramble": "IEDTSASS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "marriott",
+      "scramble": "ATMRTIOR",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "montreal",
+      "scramble": "RATLNEMO",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "professor",
+      "scramble": "PROFERSOS",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "solution",
+      "scramble": "LSUTOION",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "emirates",
+      "scramble": "IERMSTAE",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

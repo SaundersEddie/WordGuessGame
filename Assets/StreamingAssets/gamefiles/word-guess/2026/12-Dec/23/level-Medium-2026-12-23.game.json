@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-23",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "amendment",
+      "scramble": "TMAMDNENE",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "quantity",
+      "scramble": "IUQAYTTN",
+      "hint": {
+        "index": 1,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "football",
+      "scramble": "OLOFBTLA",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "slightly",
+      "scramble": "SLYLGTHI",
+      "hint": {
+        "index": 1,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "correctly",
+      "scramble": "TYERCRCOL",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "retrieve",
+      "scramble": "RTEIEEVR",
+      "hint": {
+        "index": 6,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "potential",
+      "scramble": "APLONEITT",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "brought",
+      "scramble": "UTOHGRB",
+      "hint": {
+        "index": 4,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "optimize",
+      "scramble": "PITEMOZI",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "bargain",
+      "scramble": "GNBRAIA",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

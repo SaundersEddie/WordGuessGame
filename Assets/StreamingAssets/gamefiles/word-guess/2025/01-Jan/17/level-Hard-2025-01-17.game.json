@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-01-17",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "infringement",
+      "scramble": "NNIRIEGMENTF",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "privileges",
+      "scramble": "ESIIGEVLPR",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "commission",
+      "scramble": "NIOSCMOISM",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "references",
+      "scramble": "EERSECNFER",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "insulation",
+      "scramble": "UIONLASNIT",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "identified",
+      "scramble": "FIEDTDINIE",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "temperatures",
+      "scramble": "TSERUEMPATER",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "inexpensive",
+      "scramble": "EINEEPISNVX",
+      "hint": {
+        "index": 9,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "experienced",
+      "scramble": "CEEDNIXRPEE",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "sufficient",
+      "scramble": "SNUIIFFTEC",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-20",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "indicated",
+      "scramble": "NIEADICTD",
+      "hint": {
+        "index": 8,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "herself",
+      "scramble": "FHREELS",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "wherever",
+      "scramble": "ERERWVHE",
+      "hint": {
+        "index": 5,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "laundry",
+      "scramble": "LAYUNRD",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "furnished",
+      "scramble": "NFIDRHSEU",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "divided",
+      "scramble": "IDVIDED",
+      "hint": {
+        "index": 6,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "monster",
+      "scramble": "MONRTSE",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "readily",
+      "scramble": "LEDARIY",
+      "hint": {
+        "index": 6,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "proposals",
+      "scramble": "PSOOLSPAR",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "organizer",
+      "scramble": "NRRIOGZEA",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

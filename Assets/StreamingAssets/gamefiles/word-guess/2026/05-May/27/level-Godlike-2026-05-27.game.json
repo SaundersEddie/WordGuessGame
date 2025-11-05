@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-27",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "configuration",
+      "scramble": "OIUOFANRNTGCI",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "comprehensive",
+      "scramble": "HORPNEEMISVEC",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "complications",
+      "scramble": "AOPITNCIOLMSC",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "compatibility",
+      "scramble": "TAIOMYIBPITLC",
+      "hint": {
+        "index": 7,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "automatically",
+      "scramble": "OMATLAUILCAYT",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "characterized",
+      "scramble": "EREAIRAZTHCCD",
+      "hint": {
+        "index": 12,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "investigations",
+      "scramble": "TOAVEINGSINTSI",
+      "hint": {
+        "index": 7,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "instructional",
+      "scramble": "IALNRUTNOSICT",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "implementation",
+      "scramble": "OPNEIIENLAMTTM",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "international",
+      "scramble": "RAINTATONLNEI",
+      "hint": {
+        "index": 10,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

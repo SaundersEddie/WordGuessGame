@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-07-12",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "intervals",
+      "scramble": "NSVEIRTAL",
+      "hint": {
+        "index": 3,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "matthew",
+      "scramble": "WAMTTHE",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "airfare",
+      "scramble": "RAEFIRA",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "budgets",
+      "scramble": "UEDBSGT",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "average",
+      "scramble": "EGERAAV",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "founder",
+      "scramble": "FONEDUR",
+      "hint": {
+        "index": 0,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "brazilian",
+      "scramble": "BIZNAIALR",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "quantum",
+      "scramble": "QNTUMAU",
+      "hint": {
+        "index": 0,
+        "letter": "q"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "revealed",
+      "scramble": "ERVEAELD",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "voluntary",
+      "scramble": "VYLUORNAT",
+      "hint": {
+        "index": 0,
+        "letter": "v"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

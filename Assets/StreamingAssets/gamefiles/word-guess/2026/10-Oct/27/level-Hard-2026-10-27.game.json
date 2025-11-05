@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-10-27",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "milfhunter",
+      "scramble": "UNMIHLTFER",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "parameters",
+      "scramble": "PEETAARMRS",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "orientation",
+      "scramble": "ONTEAOTRNII",
+      "hint": {
+        "index": 0,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "disciplines",
+      "scramble": "ILINICDSSEP",
+      "hint": {
+        "index": 9,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "downloading",
+      "scramble": "OWNLGINDAOD",
+      "hint": {
+        "index": 7,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "enrollment",
+      "scramble": "LLENONMTER",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "restaurant",
+      "scramble": "RTEURTAASN",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "accounting",
+      "scramble": "CGNTUCOANI",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "everywhere",
+      "scramble": "REWEREHVEY",
+      "hint": {
+        "index": 6,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "difference",
+      "scramble": "NIEDCRFEFE",
+      "hint": {
+        "index": 9,
+        "letter": "e"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

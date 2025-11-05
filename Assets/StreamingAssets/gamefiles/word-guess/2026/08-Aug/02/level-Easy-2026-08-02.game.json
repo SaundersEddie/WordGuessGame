@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-02",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "damage",
+      "scramble": "AAMGDE",
+      "hint": {
+        "index": 5,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "latest",
+      "scramble": "TTALSE",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "asked",
+      "scramble": "EAKSD",
+      "hint": {
+        "index": 2,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "onto",
+      "scramble": "ONOT",
+      "hint": {
+        "index": 0,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "breast",
+      "scramble": "TRSBEA",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "media",
+      "scramble": "IADME",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "spell",
+      "scramble": "ELSPL",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "yours",
+      "scramble": "YUORS",
+      "hint": {
+        "index": 0,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "ballet",
+      "scramble": "TELALB",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "lanka",
+      "scramble": "KANLA",
+      "hint": {
+        "index": 1,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

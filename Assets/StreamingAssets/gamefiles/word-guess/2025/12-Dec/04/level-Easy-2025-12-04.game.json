@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-04",
+  "level": "Easy",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "funky",
+      "scramble": "NUFKY",
+      "hint": {
+        "index": 4,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "years",
+      "scramble": "RAEYS",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "lopez",
+      "scramble": "ZOPLE",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "tokyo",
+      "scramble": "OOKTY",
+      "hint": {
+        "index": 2,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "warm",
+      "scramble": "WMRA",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "juice",
+      "scramble": "JEICU",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "paypal",
+      "scramble": "PLYPAA",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "evil",
+      "scramble": "IVEL",
+      "hint": {
+        "index": 1,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "picked",
+      "scramble": "PIDKEC",
+      "hint": {
+        "index": 4,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "ivory",
+      "scramble": "RVOYI",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

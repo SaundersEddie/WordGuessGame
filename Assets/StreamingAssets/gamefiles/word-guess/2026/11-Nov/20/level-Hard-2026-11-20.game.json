@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-20",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "selections",
+      "scramble": "ICLTSSEONE",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "corrections",
+      "scramble": "CSCRITROENO",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "thoroughly",
+      "scramble": "GYLTUORHOH",
+      "hint": {
+        "index": 7,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "disappointed",
+      "scramble": "PDPANTOIEDSI",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "provincial",
+      "scramble": "LOVIAICRNP",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "reputation",
+      "scramble": "TARTEPNIOU",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "candidates",
+      "scramble": "TACDADNEIS",
+      "hint": {
+        "index": 3,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "substitute",
+      "scramble": "UBTTSTSUEI",
+      "hint": {
+        "index": 7,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "australian",
+      "scramble": "AAUANRSILT",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "utilization",
+      "scramble": "NUILTATZIIO",
+      "hint": {
+        "index": 2,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

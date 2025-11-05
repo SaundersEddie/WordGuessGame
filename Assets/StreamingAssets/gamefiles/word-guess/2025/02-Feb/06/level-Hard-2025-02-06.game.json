@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-06",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "greensboro",
+      "scramble": "ROERNOBESG",
+      "hint": {
+        "index": 6,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "coordination",
+      "scramble": "ICODOTNAIRON",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "waterproof",
+      "scramble": "OETWOPRFAR",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "beastiality",
+      "scramble": "TAITELABISY",
+      "hint": {
+        "index": 10,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "alternative",
+      "scramble": "ANTREELTAVI",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "translations",
+      "scramble": "ANOLSRSINTTA",
+      "hint": {
+        "index": 4,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "intellectual",
+      "scramble": "LETLALICNUET",
+      "hint": {
+        "index": 7,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "preventing",
+      "scramble": "PRENTEIGVN",
+      "hint": {
+        "index": 2,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "supervisor",
+      "scramble": "IOPUVERSSR",
+      "hint": {
+        "index": 9,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "warranties",
+      "scramble": "WREANSRTIA",
+      "hint": {
+        "index": 0,
+        "letter": "w"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

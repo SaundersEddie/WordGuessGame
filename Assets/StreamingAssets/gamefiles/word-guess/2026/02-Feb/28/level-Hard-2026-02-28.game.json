@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-02-28",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "displaying",
+      "scramble": "ISDANYLIPG",
+      "hint": {
+        "index": 9,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "specializing",
+      "scramble": "GZSIICLNPIAE",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "importantly",
+      "scramble": "NMTTYORAPLI",
+      "hint": {
+        "index": 9,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "bangladesh",
+      "scramble": "GEDALHANSB",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "remembered",
+      "scramble": "EREEMBMDRE",
+      "hint": {
+        "index": 5,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "consultant",
+      "scramble": "UONSATLNCT",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "challenging",
+      "scramble": "HLNEAIGGLNC",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "legitimate",
+      "scramble": "IILMEATTGE",
+      "hint": {
+        "index": 9,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "associated",
+      "scramble": "CSADIOAEST",
+      "hint": {
+        "index": 1,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "delegation",
+      "scramble": "ODAIGETELN",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

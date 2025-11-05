@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-08-17",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "approximately",
+      "scramble": "LPEROTAYXIPMA",
+      "hint": {
+        "index": 4,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "characterization",
+      "scramble": "AEAARTTONIICCZHR",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "mediterranean",
+      "scramble": "ETAANERREDIMN",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "corresponding",
+      "scramble": "RORDNSIGEONCP",
+      "hint": {
+        "index": 2,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "compatibility",
+      "scramble": "IPYBATIOMLICT",
+      "hint": {
+        "index": 10,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "independently",
+      "scramble": "IEEDDNTNENLYP",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "organizations",
+      "scramble": "ASOOIGTAIRZNN",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "telecommunications",
+      "scramble": "IOEMLNICAOTUTMENCS",
+      "hint": {
+        "index": 17,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "transcription",
+      "scramble": "STONRTNCPAIIR",
+      "hint": {
+        "index": 8,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "configurations",
+      "scramble": "NUFANRSTOCIGOI",
+      "hint": {
+        "index": 10,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

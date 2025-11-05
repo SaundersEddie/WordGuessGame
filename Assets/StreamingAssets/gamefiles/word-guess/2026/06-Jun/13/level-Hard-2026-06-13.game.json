@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-06-13",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "afterwards",
+      "scramble": "ARERDWSFTA",
+      "hint": {
+        "index": 5,
+        "letter": "w"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "afghanistan",
+      "scramble": "IFNHSNAGTAA",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "represented",
+      "scramble": "SDPETRERNEE",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "recognition",
+      "scramble": "GTNIENIOORC",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "uncertainty",
+      "scramble": "CINRTTEUYAN",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "continental",
+      "scramble": "NAONLCETTNI",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "alternatives",
+      "scramble": "NETTVAASELRI",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "restricted",
+      "scramble": "SEDRCTTEIR",
+      "hint": {
+        "index": 1,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "supporting",
+      "scramble": "GOPPINRUTS",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "operational",
+      "scramble": "ELRAANIPOTO",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

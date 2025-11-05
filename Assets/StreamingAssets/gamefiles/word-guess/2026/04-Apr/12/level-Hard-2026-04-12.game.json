@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-04-12",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "researchers",
+      "scramble": "HRREASESERC",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "continuous",
+      "scramble": "NUOTNCUIOS",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "contractor",
+      "scramble": "CRTOTNAOCR",
+      "hint": {
+        "index": 9,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "appliances",
+      "scramble": "CIPANAEPLS",
+      "hint": {
+        "index": 2,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "agreements",
+      "scramble": "TGERMEAENS",
+      "hint": {
+        "index": 1,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "continuing",
+      "scramble": "OTNGINUICN",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "bestsellers",
+      "scramble": "BSSTESEELLR",
+      "hint": {
+        "index": 0,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "downloaded",
+      "scramble": "ONEDALDOWD",
+      "hint": {
+        "index": 9,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "immediately",
+      "scramble": "TDMAEILYIME",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "portsmouth",
+      "scramble": "OSMTHROTUP",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

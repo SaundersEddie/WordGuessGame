@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-22",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "consolidation",
+      "scramble": "INLDCOTOASION",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "administrators",
+      "scramble": "SDMNTAAIORISTR",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "communication",
+      "scramble": "CNNTOAOCUIMIM",
+      "hint": {
+        "index": 7,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "championships",
+      "scramble": "AHSIPHNOISCPM",
+      "hint": {
+        "index": 11,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "identification",
+      "scramble": "FCINTIIDIATOEN",
+      "hint": {
+        "index": 13,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "constitutional",
+      "scramble": "TOUCSNTTLIINAO",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "rehabilitation",
+      "scramble": "AILBAITOIEHRTN",
+      "hint": {
+        "index": 13,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "interventions",
+      "scramble": "NTTENRONSIIEV",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "comprehensive",
+      "scramble": "VICMNEPHRSEEO",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "massachusetts",
+      "scramble": "USHAATSSSCEMT",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

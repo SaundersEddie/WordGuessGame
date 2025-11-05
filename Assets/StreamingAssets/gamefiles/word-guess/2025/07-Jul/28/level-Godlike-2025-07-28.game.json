@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-07-28",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "complications",
+      "scramble": "OCCTAPLSOIINM",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "consideration",
+      "scramble": "DOISRNONTEIAC",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "compatibility",
+      "scramble": "YCMPBAOIITTIL",
+      "hint": {
+        "index": 3,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "administrative",
+      "scramble": "SDETMVIANTIARI",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "pharmaceuticals",
+      "scramble": "PLEAMAUTACCHRSI",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "determination",
+      "scramble": "OIIMDNENTRATE",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "rehabilitation",
+      "scramble": "RBLTIINHTEAIAO",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "consolidation",
+      "scramble": "IOODTNNICAOLS",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "transportation",
+      "scramble": "PTRNSATITAORON",
+      "hint": {
+        "index": 13,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "biotechnology",
+      "scramble": "IOGNLBCYOTEOH",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

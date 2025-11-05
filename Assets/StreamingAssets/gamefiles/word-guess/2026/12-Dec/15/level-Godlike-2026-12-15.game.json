@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-15",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "extraordinary",
+      "scramble": "REORYDRAANTXI",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "classification",
+      "scramble": "ASICAIFOSLTNIC",
+      "hint": {
+        "index": 6,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "congressional",
+      "scramble": "ISNGLNASROEOC",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "constitutional",
+      "scramble": "CNOIOATUNITTSL",
+      "hint": {
+        "index": 7,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "technological",
+      "scramble": "GCLHATCOIOENL",
+      "hint": {
+        "index": 7,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "parliamentary",
+      "scramble": "NEIYARMPAARTL",
+      "hint": {
+        "index": 6,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "communication",
+      "scramble": "OOMICNIMNTUAC",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "entrepreneurs",
+      "scramble": "EPSERNREEUTRN",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "transformation",
+      "scramble": "SMTIARFRANTOON",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "investigators",
+      "scramble": "VNTOTRSGSEAII",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

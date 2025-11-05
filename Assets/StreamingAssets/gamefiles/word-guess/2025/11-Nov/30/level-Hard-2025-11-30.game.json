@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-11-30",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "residential",
+      "scramble": "ESLEIRANITD",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "associates",
+      "scramble": "AOESITCASS",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "philadelphia",
+      "scramble": "APIALHHEPILD",
+      "hint": {
+        "index": 8,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "veterinary",
+      "scramble": "VERNRIEYTA",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "facilitate",
+      "scramble": "ETCFILTIAA",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "recruitment",
+      "scramble": "RCMEIRTTUEN",
+      "hint": {
+        "index": 0,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "huntington",
+      "scramble": "NNUTITHGON",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "maintenance",
+      "scramble": "ANCNEMEAINT",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "establishing",
+      "scramble": "ISNHEABSILTG",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "meditation",
+      "scramble": "ITDAEMTION",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

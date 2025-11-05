@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-07-14",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "mandatory",
+      "scramble": "OATAMNDRY",
+      "hint": {
+        "index": 8,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "madonna",
+      "scramble": "MNAANOD",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "reduction",
+      "scramble": "NTDUCIREO",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "frontpage",
+      "scramble": "NOAPTGFER",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "springer",
+      "scramble": "SRGIENPR",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "limiting",
+      "scramble": "IGMTLINI",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "protocol",
+      "scramble": "OPLOTCRO",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "investing",
+      "scramble": "GVNTEIISN",
+      "hint": {
+        "index": 6,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "decreased",
+      "scramble": "DEEDECRSA",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "trinidad",
+      "scramble": "IIDNADRT",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

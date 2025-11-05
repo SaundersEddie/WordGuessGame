@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-20",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "determination",
+      "scramble": "ENDOTTARIMEIN",
+      "hint": {
+        "index": 12,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "recommendation",
+      "scramble": "IMCNEADNROTMOE",
+      "hint": {
+        "index": 2,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "effectiveness",
+      "scramble": "EEICSEFVFNETS",
+      "hint": {
+        "index": 7,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "collaborative",
+      "scramble": "EALILAVROCTOB",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "interventions",
+      "scramble": "IRTTNNENEIVOS",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "appropriations",
+      "scramble": "AANPISRPROPTOI",
+      "hint": {
+        "index": 0,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "qualifications",
+      "scramble": "UAIANCOSFTILQI",
+      "hint": {
+        "index": 10,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "organisations",
+      "scramble": "RSOOAGSTININA",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "installations",
+      "scramble": "LSAIATNNSIOLT",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "discrimination",
+      "scramble": "SIRNMTOACIIDIN",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

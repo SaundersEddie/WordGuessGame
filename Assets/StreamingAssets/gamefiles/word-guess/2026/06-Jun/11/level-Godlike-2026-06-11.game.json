@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-06-11",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "complimentary",
+      "scramble": "EOCMPMARYITLN",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "miscellaneous",
+      "scramble": "LNMASCLUEIEOS",
+      "hint": {
+        "index": 6,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "investigation",
+      "scramble": "TIVEONINISGAT",
+      "hint": {
+        "index": 2,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "telecommunications",
+      "scramble": "UNILEOOMTTEMISCCNA",
+      "hint": {
+        "index": 7,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "institutional",
+      "scramble": "IINNTSILTOUTA",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "illustrations",
+      "scramble": "ISTINTRULOALS",
+      "hint": {
+        "index": 0,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "representative",
+      "scramble": "RTTAVERNPSIEEE",
+      "hint": {
+        "index": 13,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "recommendations",
+      "scramble": "NTDAMEOOIRSNCEM",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "constitutional",
+      "scramble": "ONAUICSTITONTL",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "consciousness",
+      "scramble": "SSECUCOOINNSS",
+      "hint": {
+        "index": 6,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

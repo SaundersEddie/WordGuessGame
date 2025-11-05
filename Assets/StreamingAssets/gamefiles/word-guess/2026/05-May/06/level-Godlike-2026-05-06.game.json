@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-05-06",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "biotechnology",
+      "scramble": "EHLOTCIBNOOGY",
+      "hint": {
+        "index": 5,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "effectiveness",
+      "scramble": "NVECFFEETEISS",
+      "hint": {
+        "index": 12,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "organizations",
+      "scramble": "ITOGNRSZNIOAA",
+      "hint": {
+        "index": 10,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "sustainability",
+      "scramble": "LYSIUISNBATITA",
+      "hint": {
+        "index": 11,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "accommodation",
+      "scramble": "CACMIODTANMOO",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "collaborative",
+      "scramble": "OOBERCALITAVL",
+      "hint": {
+        "index": 11,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "telecommunications",
+      "scramble": "CUSNTIEAEMTOCIOMNL",
+      "hint": {
+        "index": 16,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "representatives",
+      "scramble": "SRTEEERNSAITPVE",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "characterized",
+      "scramble": "ZTEDCAIECRHRA",
+      "hint": {
+        "index": 7,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "technological",
+      "scramble": "CLNIELCHGOOAT",
+      "hint": {
+        "index": 8,
+        "letter": "g"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

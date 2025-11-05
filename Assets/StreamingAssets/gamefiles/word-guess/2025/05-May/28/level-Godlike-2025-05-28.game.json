@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-05-28",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "demonstration",
+      "scramble": "EAMNIDOTNOSTR",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "consolidation",
+      "scramble": "OCNLTNDOASOII",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "qualification",
+      "scramble": "QCFIAONUTILIA",
+      "hint": {
+        "index": 0,
+        "letter": "q"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "transformation",
+      "scramble": "ANANTSMORTFORI",
+      "hint": {
+        "index": 3,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "sophisticated",
+      "scramble": "STOHAPDEICTSI",
+      "hint": {
+        "index": 3,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "accountability",
+      "scramble": "BCYOTACATUIINL",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "representatives",
+      "scramble": "TNVEEPERETRISAS",
+      "hint": {
+        "index": 11,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "liechtenstein",
+      "scramble": "LIIEHCTETNNES",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "cardiovascular",
+      "scramble": "ARDCAOSCVURLAI",
+      "hint": {
+        "index": 12,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "interventions",
+      "scramble": "RTVOTENNEISNI",
+      "hint": {
+        "index": 9,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-07-31",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "longitude",
+      "scramble": "UONETLIGD",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "advanced",
+      "scramble": "DDACNVEA",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "starting",
+      "scramble": "RIASTNTG",
+      "hint": {
+        "index": 7,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "enemies",
+      "scramble": "ENSIEME",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "shopper",
+      "scramble": "OPRHPES",
+      "hint": {
+        "index": 4,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "projects",
+      "scramble": "CPTJSERO",
+      "hint": {
+        "index": 3,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "welding",
+      "scramble": "LNEDIWG",
+      "hint": {
+        "index": 4,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "develop",
+      "scramble": "OVEPLDE",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "dominant",
+      "scramble": "DMOTANNI",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "sensors",
+      "scramble": "ESNSSOR",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

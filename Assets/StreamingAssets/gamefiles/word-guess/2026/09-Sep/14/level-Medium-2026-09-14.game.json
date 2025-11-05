@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-14",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "destroy",
+      "scramble": "YTERDOS",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "folding",
+      "scramble": "DFLOGNI",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "algorithm",
+      "scramble": "HLGTOIARM",
+      "hint": {
+        "index": 8,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "striking",
+      "scramble": "ITGINKRS",
+      "hint": {
+        "index": 1,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "deposits",
+      "scramble": "ESTOPDSI",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "funding",
+      "scramble": "DUNIGNF",
+      "hint": {
+        "index": 2,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "kentucky",
+      "scramble": "UKYTEKNC",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "chamber",
+      "scramble": "HCBEAMR",
+      "hint": {
+        "index": 6,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "equipment",
+      "scramble": "UEEPINQMT",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "toolbox",
+      "scramble": "XOLBOOT",
+      "hint": {
+        "index": 5,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

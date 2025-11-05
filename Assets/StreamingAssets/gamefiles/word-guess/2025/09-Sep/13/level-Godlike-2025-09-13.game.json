@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-09-13",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "investigation",
+      "scramble": "NGIONISVAETIT",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "characteristics",
+      "scramble": "TRIACREISACTCHS",
+      "hint": {
+        "index": 14,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "accommodation",
+      "scramble": "AOOMTMNAIOCDC",
+      "hint": {
+        "index": 5,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "collaborative",
+      "scramble": "CVBRAIOOLTALE",
+      "hint": {
+        "index": 12,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "technological",
+      "scramble": "LHIANLGCOTOCE",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "authentication",
+      "scramble": "HNTNTAOTIACIUE",
+      "hint": {
+        "index": 11,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "understanding",
+      "scramble": "SNDTNEIGRNUDA",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "representation",
+      "scramble": "RRENAIPTSETNEO",
+      "hint": {
+        "index": 10,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "manufacturing",
+      "scramble": "MUNAFNCTIUARG",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "notifications",
+      "scramble": "AITOCNONTISFI",
+      "hint": {
+        "index": 8,
+        "letter": "t"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

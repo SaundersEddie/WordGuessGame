@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-16",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "newsletter",
+      "scramble": "NERTLESTEW",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "households",
+      "scramble": "HEOULHSDSO",
+      "hint": {
+        "index": 5,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "considered",
+      "scramble": "RNISECOEDD",
+      "hint": {
+        "index": 9,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "communicate",
+      "scramble": "EOCCNMTIAMU",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "constitutes",
+      "scramble": "TTINUCESTOS",
+      "hint": {
+        "index": 10,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "generating",
+      "scramble": "EGITRNEAGN",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "kazakhstan",
+      "scramble": "KZNATKSHAA",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "associates",
+      "scramble": "AOETASCISS",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "eligibility",
+      "scramble": "LLIIIEBGTIY",
+      "hint": {
+        "index": 10,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "enterprises",
+      "scramble": "REPESRENSTI",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

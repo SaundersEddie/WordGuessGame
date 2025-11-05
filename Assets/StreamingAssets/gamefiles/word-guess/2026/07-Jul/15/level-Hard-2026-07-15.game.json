@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-07-15",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "preservation",
+      "scramble": "ESREATRPNVOI",
+      "hint": {
+        "index": 10,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "translation",
+      "scramble": "ASTANONLIRT",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "aboriginal",
+      "scramble": "ILAOAGINRB",
+      "hint": {
+        "index": 7,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "configured",
+      "scramble": "IUGNEFCROD",
+      "hint": {
+        "index": 9,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "equivalent",
+      "scramble": "EVATIQELNU",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "reasonably",
+      "scramble": "AYLNERSBAO",
+      "hint": {
+        "index": 7,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "citysearch",
+      "scramble": "TECSYAIRCH",
+      "hint": {
+        "index": 9,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "mechanisms",
+      "scramble": "EHSIMCNAMS",
+      "hint": {
+        "index": 8,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "testimonials",
+      "scramble": "TSITNSOLAIME",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "collectables",
+      "scramble": "BLTCEALCELOS",
+      "hint": {
+        "index": 9,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

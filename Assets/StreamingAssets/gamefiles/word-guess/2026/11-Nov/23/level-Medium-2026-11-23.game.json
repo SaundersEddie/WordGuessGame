@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-11-23",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "jamaica",
+      "scramble": "CAAMIJA",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "virginia",
+      "scramble": "AIRGIVNI",
+      "hint": {
+        "index": 3,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "blackjack",
+      "scramble": "CBAKLJKCA",
+      "hint": {
+        "index": 5,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "qualities",
+      "scramble": "QIAUTILSE",
+      "hint": {
+        "index": 0,
+        "letter": "q"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "catholic",
+      "scramble": "LCTHIAOC",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "regards",
+      "scramble": "EDAGRRS",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "accepts",
+      "scramble": "PSCCATE",
+      "hint": {
+        "index": 5,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "concern",
+      "scramble": "OENNCRC",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "lexmark",
+      "scramble": "XMERLAK",
+      "hint": {
+        "index": 6,
+        "letter": "k"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "lawyers",
+      "scramble": "LAYSERW",
+      "hint": {
+        "index": 0,
+        "letter": "l"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

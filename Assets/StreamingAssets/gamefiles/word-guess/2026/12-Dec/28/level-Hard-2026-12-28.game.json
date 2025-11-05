@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-12-28",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "assumption",
+      "scramble": "AUNPMISSTO",
+      "hint": {
+        "index": 4,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "availability",
+      "scramble": "ILLAAIAVYITB",
+      "hint": {
+        "index": 9,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "reflections",
+      "scramble": "TIFROESLECN",
+      "hint": {
+        "index": 2,
+        "letter": "f"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "warranties",
+      "scramble": "IASNRRTEWA",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "insulation",
+      "scramble": "ISLUNAOINT",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "magnificent",
+      "scramble": "TIIMFNANECG",
+      "hint": {
+        "index": 8,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "automobiles",
+      "scramble": "SAMETOIOLBU",
+      "hint": {
+        "index": 8,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "yugoslavia",
+      "scramble": "AYGOVIASLU",
+      "hint": {
+        "index": 2,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "graduation",
+      "scramble": "RTAGOIUAND",
+      "hint": {
+        "index": 2,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "geographical",
+      "scramble": "CARAGPEHILGO",
+      "hint": {
+        "index": 7,
+        "letter": "h"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-06-03",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "integrated",
+      "scramble": "ANRGETDTEI",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "earthquake",
+      "scramble": "EHERAAUTKQ",
+      "hint": {
+        "index": 0,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "contributing",
+      "scramble": "ROBCTNIUNTGI",
+      "hint": {
+        "index": 7,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "enrollment",
+      "scramble": "ENMELNROLT",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "connectors",
+      "scramble": "NCRSNCTOEO",
+      "hint": {
+        "index": 6,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "vocational",
+      "scramble": "OVACOLTIAN",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "scholarships",
+      "scramble": "OSSCLASHRHIP",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "thereafter",
+      "scramble": "HTTRFEEEAR",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "transcript",
+      "scramble": "ATRIRTNCPS",
+      "hint": {
+        "index": 8,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "properties",
+      "scramble": "PESRROEITP",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

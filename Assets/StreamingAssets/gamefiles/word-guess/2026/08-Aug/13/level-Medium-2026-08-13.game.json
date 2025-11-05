@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-08-13",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "pictures",
+      "scramble": "RIPCEUTS",
+      "hint": {
+        "index": 7,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "wishlist",
+      "scramble": "LHSIWITS",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "seriously",
+      "scramble": "SUESYRILO",
+      "hint": {
+        "index": 7,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "curious",
+      "scramble": "CURIUOS",
+      "hint": {
+        "index": 3,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "beijing",
+      "scramble": "NGIJBEI",
+      "hint": {
+        "index": 3,
+        "letter": "j"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "laptops",
+      "scramble": "SOATLPP",
+      "hint": {
+        "index": 5,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "nutrition",
+      "scramble": "ROTNTUINI",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "parallel",
+      "scramble": "RPLLAAEL",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "revenue",
+      "scramble": "REEENVU",
+      "hint": {
+        "index": 4,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "historic",
+      "scramble": "IHSOCRTI",
+      "hint": {
+        "index": 5,
+        "letter": "r"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

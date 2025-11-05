@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-07-13",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "motherboard",
+      "scramble": "EATMROBROHD",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "restriction",
+      "scramble": "NRTCOSTEIRI",
+      "hint": {
+        "index": 8,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "trackbacks",
+      "scramble": "TCCKKAARBS",
+      "hint": {
+        "index": 0,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "westminster",
+      "scramble": "MWTTSEINESR",
+      "hint": {
+        "index": 10,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "surrounded",
+      "scramble": "ORDRDSNUUE",
+      "hint": {
+        "index": 6,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "wellington",
+      "scramble": "OLTWNNILGE",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "exceptional",
+      "scramble": "LXTEPCEANOI",
+      "hint": {
+        "index": 1,
+        "letter": "x"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "fundamentals",
+      "scramble": "DFTUASMLANEN",
+      "hint": {
+        "index": 4,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "surrounding",
+      "scramble": "NINUGORDRSU",
+      "hint": {
+        "index": 7,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "repository",
+      "scramble": "REIORYOTSP",
+      "hint": {
+        "index": 3,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

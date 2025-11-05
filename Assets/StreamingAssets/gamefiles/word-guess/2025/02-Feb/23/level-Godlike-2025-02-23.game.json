@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-23",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "semiconductor",
+      "scramble": "NIOURDSTMCEOC",
+      "hint": {
+        "index": 11,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "authorization",
+      "scramble": "OHUATRIZOTAIN",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "recommendations",
+      "scramble": "AEEONMSTDCRNIMO",
+      "hint": {
+        "index": 8,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "starsmerchant",
+      "scramble": "CTHTSEMRNSARA",
+      "hint": {
+        "index": 1,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "transformation",
+      "scramble": "TRTONNRSMFOAAI",
+      "hint": {
+        "index": 8,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "manufacturers",
+      "scramble": "UAFNARCTMUSRE",
+      "hint": {
+        "index": 11,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "interventions",
+      "scramble": "ITNEVRETOSNNI",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "mediterranean",
+      "scramble": "ADNTMERENAERI",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "commissioners",
+      "scramble": "OCSMEOINIRMSS",
+      "hint": {
+        "index": 3,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "representative",
+      "scramble": "EIRNSVTPEATREE",
+      "hint": {
+        "index": 9,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

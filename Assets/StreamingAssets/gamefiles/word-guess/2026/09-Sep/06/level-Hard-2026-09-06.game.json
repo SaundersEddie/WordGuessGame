@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-09-06",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "therapeutic",
+      "scramble": "EHPARIUETTC",
+      "hint": {
+        "index": 1,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "contribution",
+      "scramble": "UROOTTIBNCIN",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "convenience",
+      "scramble": "ENEVEOCCNNI",
+      "hint": {
+        "index": 3,
+        "letter": "v"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "methodology",
+      "scramble": "OOYOTDHEGLM",
+      "hint": {
+        "index": 5,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "demonstrate",
+      "scramble": "MTNOEETRSAD",
+      "hint": {
+        "index": 7,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "counseling",
+      "scramble": "LUEONCSNIG",
+      "hint": {
+        "index": 9,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "motorcycles",
+      "scramble": "SCTMERCYOOL",
+      "hint": {
+        "index": 2,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "collectors",
+      "scramble": "LCOTROLCES",
+      "hint": {
+        "index": 9,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "conjunction",
+      "scramble": "ONNUOJCICNT",
+      "hint": {
+        "index": 6,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "processing",
+      "scramble": "SCOPRSNGIE",
+      "hint": {
+        "index": 2,
+        "letter": "o"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

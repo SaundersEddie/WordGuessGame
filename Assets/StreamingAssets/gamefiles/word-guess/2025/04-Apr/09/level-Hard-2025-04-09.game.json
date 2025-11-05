@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-04-09",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "translation",
+      "scramble": "NRTTSANAIOL",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "functioning",
+      "scramble": "NNITNUOCFIG",
+      "hint": {
+        "index": 10,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "instructions",
+      "scramble": "INCOUTRSNITS",
+      "hint": {
+        "index": 11,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "governments",
+      "scramble": "VENORETNGSM",
+      "hint": {
+        "index": 4,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "personally",
+      "scramble": "YASEONLLRP",
+      "hint": {
+        "index": 7,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "tremendous",
+      "scramble": "ORNEEDSMUT",
+      "hint": {
+        "index": 1,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "compilation",
+      "scramble": "POCTOIILANM",
+      "hint": {
+        "index": 1,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "consultation",
+      "scramble": "LIUNTTNASOOC",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "investigate",
+      "scramble": "NTIVSIEGATE",
+      "hint": {
+        "index": 10,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "recruiting",
+      "scramble": "UICTNEIRRG",
+      "hint": {
+        "index": 9,
+        "letter": "g"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

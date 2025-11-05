@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-05-15",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "specialized",
+      "scramble": "CPLSZEEDIAI",
+      "hint": {
+        "index": 1,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "description",
+      "scramble": "IPSRINTECOD",
+      "hint": {
+        "index": 9,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "ejaculation",
+      "scramble": "TJNCUEAOALI",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "encouraged",
+      "scramble": "RACEUDNEGO",
+      "hint": {
+        "index": 4,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "conditional",
+      "scramble": "IDCOATIONNL",
+      "hint": {
+        "index": 10,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "especially",
+      "scramble": "EILYSACLPE",
+      "hint": {
+        "index": 7,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "limitations",
+      "scramble": "TOLSTAINIIM",
+      "hint": {
+        "index": 4,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "republicans",
+      "scramble": "PLSUBAERICN",
+      "hint": {
+        "index": 3,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "eligibility",
+      "scramble": "ILILBEITIGY",
+      "hint": {
+        "index": 10,
+        "letter": "y"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "definitely",
+      "scramble": "ETNFEILDIY",
+      "hint": {
+        "index": 5,
+        "letter": "i"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

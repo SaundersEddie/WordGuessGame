@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-03-04",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "conditioning",
+      "scramble": "CNTIOGINNDOI",
+      "hint": {
+        "index": 8,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "separation",
+      "scramble": "NTOAPASIRE",
+      "hint": {
+        "index": 3,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "constraints",
+      "scramble": "SORINCNSATT",
+      "hint": {
+        "index": 9,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "participants",
+      "scramble": "CATPIATRPNSI",
+      "hint": {
+        "index": 9,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "conferencing",
+      "scramble": "CNNEFCEOINGR",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "administered",
+      "scramble": "NDTRDIEEMAIS",
+      "hint": {
+        "index": 1,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "collectors",
+      "scramble": "ETCLOOCLSR",
+      "hint": {
+        "index": 3,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "technician",
+      "scramble": "HCIINCNEAT",
+      "hint": {
+        "index": 8,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "reasonably",
+      "scramble": "SRYNEAOBLA",
+      "hint": {
+        "index": 7,
+        "letter": "b"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "attractions",
+      "scramble": "TTACOIRTANS",
+      "hint": {
+        "index": 10,
+        "letter": "s"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

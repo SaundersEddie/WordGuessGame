@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-02-17",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "differences",
+      "scramble": "DFSNEERECFI",
+      "hint": {
+        "index": 0,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "specialist",
+      "scramble": "SSEIALTIPC",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "controllers",
+      "scramble": "STOONRELLCR",
+      "hint": {
+        "index": 7,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "significance",
+      "scramble": "CIIACFSNEGNI",
+      "hint": {
+        "index": 1,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "frequencies",
+      "scramble": "IURQENESCFE",
+      "hint": {
+        "index": 3,
+        "letter": "q"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "volkswagen",
+      "scramble": "NVLEOGWKAS",
+      "hint": {
+        "index": 2,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "substitute",
+      "scramble": "SEUUTSTIBT",
+      "hint": {
+        "index": 0,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "documentary",
+      "scramble": "MEOARCYTDUN",
+      "hint": {
+        "index": 7,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "processing",
+      "scramble": "IERGNOSSCP",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "annotation",
+      "scramble": "ANNNOAOTIT",
+      "hint": {
+        "index": 5,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

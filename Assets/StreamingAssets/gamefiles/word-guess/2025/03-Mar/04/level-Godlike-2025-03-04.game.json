@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-03-04",
+  "level": "Godlike",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "circumstances",
+      "scramble": "NMUSAICSRCCTE",
+      "hint": {
+        "index": 10,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "internationally",
+      "scramble": "LNOAEANLITNRYIT",
+      "hint": {
+        "index": 1,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "consciousness",
+      "scramble": "OOISSSCUENCSN",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "characterization",
+      "scramble": "AACRZHACENRIOITT",
+      "hint": {
+        "index": 13,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "complimentary",
+      "scramble": "NIMPMYAECOLTR",
+      "hint": {
+        "index": 2,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "communications",
+      "scramble": "SAINCNTOUIMCMO",
+      "hint": {
+        "index": 5,
+        "letter": "n"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "responsibilities",
+      "scramble": "SSBLITSRIIOINPEE",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "developmental",
+      "scramble": "VLNEEPTMELOAD",
+      "hint": {
+        "index": 11,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "responsibility",
+      "scramble": "NORPBISEIYSITL",
+      "hint": {
+        "index": 6,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "conversations",
+      "scramble": "RCEOSSAITVNNO",
+      "hint": {
+        "index": 11,
+        "letter": "n"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

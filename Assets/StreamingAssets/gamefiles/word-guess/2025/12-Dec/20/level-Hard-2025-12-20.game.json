@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2025-12-20",
+  "level": "Hard",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "institution",
+      "scramble": "TSTTNUINOII",
+      "hint": {
+        "index": 3,
+        "letter": "t"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "innovation",
+      "scramble": "NNOANTIIVO",
+      "hint": {
+        "index": 7,
+        "letter": "i"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "irrigation",
+      "scramble": "NIARTRIGOI",
+      "hint": {
+        "index": 8,
+        "letter": "o"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "psychology",
+      "scramble": "YCSYOPOLGH",
+      "hint": {
+        "index": 8,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "specialized",
+      "scramble": "EAPCIELZDSI",
+      "hint": {
+        "index": 3,
+        "letter": "c"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "indianapolis",
+      "scramble": "IIDSPAALINON",
+      "hint": {
+        "index": 2,
+        "letter": "d"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "populations",
+      "scramble": "OIPULATSNOP",
+      "hint": {
+        "index": 4,
+        "letter": "l"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "prevention",
+      "scramble": "POIRNNTVEE",
+      "hint": {
+        "index": 0,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "prescription",
+      "scramble": "IEPNOCRPRSTI",
+      "hint": {
+        "index": 7,
+        "letter": "p"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "illustration",
+      "scramble": "LITLUOSANRTI",
+      "hint": {
+        "index": 7,
+        "letter": "a"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}

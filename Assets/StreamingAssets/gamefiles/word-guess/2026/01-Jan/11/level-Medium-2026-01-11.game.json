@@ -1,0 +1,121 @@
+{
+  "schema": "word-guess.v1",
+  "dateISO": "2026-01-11",
+  "level": "Medium",
+  "timerMode": "stopwatch",
+  "wordsPerPuzzle": 10,
+  "entries": [
+    {
+      "id": 1,
+      "answer": "sailing",
+      "scramble": "SLIAING",
+      "hint": {
+        "index": 6,
+        "letter": "g"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "outcomes",
+      "scramble": "SOOUMCET",
+      "hint": {
+        "index": 6,
+        "letter": "e"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "massage",
+      "scramble": "GSASMAE",
+      "hint": {
+        "index": 3,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "surgical",
+      "scramble": "RCGSLUAI",
+      "hint": {
+        "index": 6,
+        "letter": "a"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "nearest",
+      "scramble": "ETERSNA",
+      "hint": {
+        "index": 3,
+        "letter": "r"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "nicaragua",
+      "scramble": "CNIARGAUA",
+      "hint": {
+        "index": 7,
+        "letter": "u"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "moreover",
+      "scramble": "MEVROERO",
+      "hint": {
+        "index": 0,
+        "letter": "m"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "enhanced",
+      "scramble": "EEHANCDN",
+      "hint": {
+        "index": 2,
+        "letter": "h"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "accidents",
+      "scramble": "TDNCACEIS",
+      "hint": {
+        "index": 8,
+        "letter": "s"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "vendors",
+      "scramble": "NESDRVO",
+      "hint": {
+        "index": 3,
+        "letter": "d"
+      }
+    }
+  ],
+  "meta": {
+    "generatedBy": "build_word_guess_puzzles.py",
+    "seed": 1337,
+    "lengthBuckets": {
+      "Easy": {
+        "min": 4,
+        "max": 6
+      },
+      "Medium": {
+        "min": 7,
+        "max": 9
+      },
+      "Hard": {
+        "min": 10,
+        "max": 12
+      },
+      "Godlike": {
+        "min": 13,
+        "max": 25
+      }
+    }
+  }
+}
